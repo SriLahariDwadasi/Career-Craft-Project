@@ -13,7 +13,8 @@ Career Craft is an AI-powered platform that analyzes resumes to extract technica
 
 ## Detailed Overview
 
-![image](https://github.com/user-attachments/assets/c226eaef-26e9-4c3f-b362-6a19a8681fe0)
+![image](https://github.com/user-attachments/assets/bf609279-dedc-4db8-8b6c-9f24a49e246c)
+
 
 ## Setup Instructions
 
