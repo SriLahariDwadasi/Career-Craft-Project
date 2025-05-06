@@ -94,9 +94,6 @@ npm run dev
 - **Data Sources**: CSV & JSON skill graph files, resume uploads
 - **Dev Tools**: Git, pip, npm
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Maintainer
 
