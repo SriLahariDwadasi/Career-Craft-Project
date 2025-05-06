@@ -1,46 +1,89 @@
-# Career-Craft
+# Career Craft
 
-## Our project builds a personalized career learning roadmap system that helps users transition into their dream job. Users begin by uploading their resume and selecting a target job title. The system analyzes their current skill set, identifies skill gaps using job-specific knowledge graphs, and recommends targeted skills with focus and confidence scores. Based on this, we curate learning modules with relevant online resources and generate a weekly schedule tailored to the user's availability. The platform supports continuous progress tracking and dynamic updates as the user advances. Ultimately, we aim to bridge the gap between career aspirations and actionable learning paths through intelligent planning and personalized guidance.
+Career Craft is an AI-powered career development platform that analyzes resumes to extract technical skills, assess proficiency, and recommend personalized upskilling paths. The system combines resume parsing, local language models, and skill mapping to support early-career professionals targeting roles in data science, software engineering, product management, and related fields.
 
-## 1. clone project
-git clone (http link here)
+## Features
 
-cd 243-Career-Roadmap
+- Resume parsing and skill extraction from PDF and DOCX files
+- Context-aware skill confidence scoring using a local LLM
+- Mapping of technical skills to job-specific role requirements
+- Career domain identification based on skill clusters
+- Frontend dashboard for users to view their skill profile
+- Optimized backend structure for modular expansion
 
-## 2️. Create a Separate Branch (Recommended)
-git checkout -b (your branch name)
+## Project Structure
 
-## 3️. Set Up the Backend (FastAPI) navigate to backend folder in terminal
+Career-Craft-Clean/
+├── backend/
+│ ├── main.py
+│ ├── routers/
+│ ├── caches/
+│ ├── utils.py
+│ ├── data.zip
+│ ├── caches.zip
+│ └── routers.zip
+├── frontend/
+│ ├── app/
+│ ├── components/
+│ └── app.zip
+├── requirements.txt
+├── .gitignore
+└── README.md
+
+bash
+Copy
+Edit
+
+## Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/SriLahariDwadasi/Career-Craft-Clean.git
+cd Career-Craft-Clean
+2. Extract Required Files
+Unzip the compressed directories to restore the project structure:
+
+bash
+Copy
+Edit
+unzip backend/data.zip -d backend/
+unzip backend/caches.zip -d backend/
+unzip backend/routers.zip -d backend/
+unzip frontend/app.zip -d frontend/
+3. Backend Setup
+Requires Python 3.10+
+
+bash
+Copy
+Edit
 cd backend
-
-python -m venv venv
-
-## 4. Activate the Virtual Environment
-Windows:
-venv\Scripts\activate
-
-Mac/Linux:
-source venv/bin/activate
-
-## 5. Install Backend Dependencies
 pip install -r requirements.txt
+uvicorn main:app --reload
+4. Frontend Setup
+Requires Node.js 18+
 
-## 6. Create .env File for Backend and paste api keys
-touch .env (not needed now)
-
-## ✅ Backend is now set up!
-
-## 7. start backend
-uvicorn main:app --reload --host 127.0.0.1 --port 8000
-
-## 8. Set Up the Frontend (Next.js) navigate to frontend folder in terminal
-cd frontend
-
+bash
+Copy
+Edit
+cd ../frontend
 npm install
-
-touch .env.local (not needed now)
-
-## ✅ Frontend is now set up!
-
-## 9. start frontend
 npm run dev
+Technology Stack
+Backend: FastAPI, Python, Uvicorn
+
+Frontend: Next.js, React, TailwindCSS
+
+AI Components: Sentence Transformers, local LLM for skill evaluation
+
+Data Sources: JSON skill graphs, resume examples
+
+Dev Tools: GitHub, pip, npm
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Maintainer
+Sri Lahari Dwadasi
+Graduate Student, UC Berkeley
+LinkedIn
