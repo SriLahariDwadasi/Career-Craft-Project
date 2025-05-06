@@ -1,38 +1,61 @@
 # Career Craft
 
-Career Craft is an AI-powered career development platform that analyzes resumes to extract technical skills, assess proficiency, and recommend personalized upskilling paths. The system combines resume parsing, local language models, and skill mapping to support early-career professionals targeting roles in data science, software engineering, product management, and related fields.
+Career Craft is an AI-powered platform that analyzes resumes to extract technical skills, assess confidence levels, and recommend personalized upskilling paths. It uses local LLMs, semantic matching, and career domain mapping to support early-career professionals targeting data science, engineering, and product roles.
 
 ## Features
 
-- Resume parsing and skill extraction from PDF and DOCX files
-- Context-aware skill confidence scoring using a local LLM
-- Mapping of technical skills to job-specific role requirements
-- Career domain identification based on skill clusters
-- Frontend dashboard for users to view their skill profile
-- Optimized backend structure for modular expansion
+- Resume parsing from PDF and DOCX formats
+- Technical skill extraction using NLP and semantic matching
+- Skill confidence scoring based on contextual relevance in resumes
+- Mapping skills to job roles to analyze gaps and recommend learning paths
+- Frontend dashboard for visualizing career fit and focus areas
+- Modular, production-ready backend using FastAPI
 
 ## Project Structure
 
+```
 Career-Craft-Clean/
 ├── backend/
-│ ├── main.py
-│ ├── routers/
-│ ├── caches/
-│ ├── utils.py
-│ ├── data.zip
-│ ├── caches.zip
-│ └── routers.zip
+│   ├── main.py
+│   ├── routers/
+│   │   ├── generate_skills.py
+│   │   ├── generate_task.py
+│   │   ├── learn_skill.py
+│   │   ├── map.py
+│   │   ├── scheduled_tasks.py
+│   │   ├── user_goal.py
+│   │   ├── user_login.py
+│   │   └── user_logout.py
+│   ├── caches/
+│   │   ├── goal_cache.py
+│   │   ├── learn_skill_cache.py
+│   │   └── scheduled_tasks_cache.py
+│   ├── data/
+│   │   ├── courses/
+│   │   ├── skill_graph/
+│   │   ├── updated_skill_graph/
+│   │   ├── uploaded_resumes/
+│   │   └── job_domain_skills.json
+│   └── utils.py
 ├── frontend/
-│ ├── app/
-│ ├── components/
-│ └── app.zip
+│   ├── app/
+│   │   ├── auth/
+│   │   │   ├── reset-password/
+│   │   │   ├── signin/
+│   │   │   └── signup/
+│   │   ├── dashboard/
+│   │   │   ├── goal/
+│   │   │   ├── profile/
+│   │   │   ├── schedule/
+│   │   │   └── skill/
+│   │   ├── css/
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   └── components/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
-bash
-Copy
-Edit
+```
 
 ## Setup Instructions
 
@@ -41,49 +64,42 @@ Edit
 ```bash
 git clone https://github.com/SriLahariDwadasi/Career-Craft-Clean.git
 cd Career-Craft-Clean
-2. Extract Required Files
-Unzip the compressed directories to restore the project structure:
+```
 
-bash
-Copy
-Edit
-unzip backend/data.zip -d backend/
-unzip backend/caches.zip -d backend/
-unzip backend/routers.zip -d backend/
-unzip frontend/app.zip -d frontend/
-3. Backend Setup
-Requires Python 3.10+
+### 2. Backend Setup
 
-bash
-Copy
-Edit
+Ensure Python 3.10+ is installed.
+
+```bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
-4. Frontend Setup
-Requires Node.js 18+
+```
 
-bash
-Copy
-Edit
+### 3. Frontend Setup
+
+Ensure Node.js 18+ is installed.
+
+```bash
 cd ../frontend
 npm install
 npm run dev
-Technology Stack
-Backend: FastAPI, Python, Uvicorn
+```
 
-Frontend: Next.js, React, TailwindCSS
+## Technology Stack
 
-AI Components: Sentence Transformers, local LLM for skill evaluation
+- **Backend**: FastAPI, Python, Uvicorn
+- **Frontend**: Next.js, React, TailwindCSS
+- **AI Components**: Sentence Transformers, Local LLMs
+- **Data Sources**: CSV & JSON skill graph files, resume uploads
+- **Dev Tools**: Git, pip, npm
 
-Data Sources: JSON skill graphs, resume examples
+## License
 
-Dev Tools: GitHub, pip, npm
-
-License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Maintainer
-Sri Lahari Dwadasi
-Graduate Student, UC Berkeley
-LinkedIn
+## Maintainer
+
+Sri Lahari Dwadasi  
+Graduate Student, UC Berkeley  
+[LinkedIn](https://www.linkedin.com/in/sri-lahari-dwadasi)
