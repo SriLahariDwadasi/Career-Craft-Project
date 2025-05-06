@@ -11,51 +11,9 @@ Career Craft is an AI-powered platform that analyzes resumes to extract technica
 - Frontend dashboard for visualizing career fit and focus areas
 - Modular, production-ready backend using FastAPI
 
-## Project Structure
+## Detailed Overview
 
-```
-Career-Craft-Clean/
-├── backend/
-│   ├── main.py
-│   ├── routers/
-│   │   ├── generate_skills.py
-│   │   ├── generate_task.py
-│   │   ├── learn_skill.py
-│   │   ├── map.py
-│   │   ├── scheduled_tasks.py
-│   │   ├── user_goal.py
-│   │   ├── user_login.py
-│   │   └── user_logout.py
-│   ├── caches/
-│   │   ├── goal_cache.py
-│   │   ├── learn_skill_cache.py
-│   │   └── scheduled_tasks_cache.py
-│   ├── data/
-│   │   ├── courses/
-│   │   ├── skill_graph/
-│   │   ├── updated_skill_graph/
-│   │   ├── uploaded_resumes/
-│   │   └── job_domain_skills.json
-│   └── utils.py
-├── frontend/
-│   ├── app/
-│   │   ├── auth/
-│   │   │   ├── reset-password/
-│   │   │   ├── signin/
-│   │   │   └── signup/
-│   │   ├── dashboard/
-│   │   │   ├── goal/
-│   │   │   ├── profile/
-│   │   │   ├── schedule/
-│   │   │   └── skill/
-│   │   ├── css/
-│   │   ├── layout.tsx
-│   │   └── page.tsx
-│   └── components/
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
+![image](https://github.com/user-attachments/assets/c226eaef-26e9-4c3f-b362-6a19a8681fe0)
 
 ## Setup Instructions
 
