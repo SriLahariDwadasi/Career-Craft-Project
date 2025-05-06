@@ -1,0 +1,3639 @@
+{
+    "skills": [
+        {
+            "id": "java",
+            "name": "java",
+            "type": "language",
+            "frequency": 319
+        },
+        {
+            "id": "spring boot",
+            "name": "spring boot",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "node",
+            "name": "node",
+            "type": "language",
+            "frequency": 17
+        },
+        {
+            "id": "python",
+            "name": "python",
+            "type": "language",
+            "frequency": 28
+        },
+        {
+            "id": "aws",
+            "name": "aws",
+            "type": "platform",
+            "frequency": 31
+        },
+        {
+            "id": "microservices",
+            "name": "microservices",
+            "type": "concept",
+            "frequency": 14
+        },
+        {
+            "id": "unit testing",
+            "name": "unit testing",
+            "type": "methodology",
+            "frequency": 9
+        },
+        {
+            "id": "junit",
+            "name": "junit",
+            "type": "tool",
+            "frequency": 39
+        },
+        {
+            "id": "ci/cd",
+            "name": "ci/cd",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "git",
+            "name": "git",
+            "type": "tool",
+            "frequency": 41
+        },
+        {
+            "id": "sql",
+            "name": "sql",
+            "type": "language",
+            "frequency": 84
+        },
+        {
+            "id": "nosql",
+            "name": "nosql",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "oracle",
+            "name": "oracle",
+            "type": "tool",
+            "frequency": 53
+        },
+        {
+            "id": "pl/sql",
+            "name": "pl/sql",
+            "type": "language",
+            "frequency": 16
+        },
+        {
+            "id": "ms sql server",
+            "name": "ms sql server",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "unix/linux",
+            "name": "unix/linux",
+            "type": "platform",
+            "frequency": 11
+        },
+        {
+            "id": "linux",
+            "name": "linux",
+            "type": "platform",
+            "frequency": 27
+        },
+        {
+            "id": "subversion",
+            "name": "subversion",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "perl",
+            "name": "perl",
+            "type": "language",
+            "frequency": 7
+        },
+        {
+            "id": "spring",
+            "name": "spring",
+            "type": "platform",
+            "frequency": 103
+        },
+        {
+            "id": "mongodb",
+            "name": "mongodb",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "mysql",
+            "name": "mysql",
+            "type": "tool",
+            "frequency": 17
+        },
+        {
+            "id": "gwt",
+            "name": "gwt",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "tomcat",
+            "name": "tomcat",
+            "type": "tool",
+            "frequency": 27
+        },
+        {
+            "id": "jms",
+            "name": "jms",
+            "type": "tool",
+            "frequency": 25
+        },
+        {
+            "id": "springboot",
+            "name": "springboot",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "linux/unix",
+            "name": "linux/unix",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "js",
+            "name": "js",
+            "type": "language",
+            "frequency": 108
+        },
+        {
+            "id": "jira",
+            "name": "jira",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "gradle",
+            "name": "gradle",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "maven",
+            "name": "maven",
+            "type": "tool",
+            "frequency": 35
+        },
+        {
+            "id": "hibernate",
+            "name": "hibernate",
+            "type": "tool",
+            "frequency": 78
+        },
+        {
+            "id": "kafka",
+            "name": "kafka",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "cassandra",
+            "name": "cassandra",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "spark",
+            "name": "spark",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "hadoop",
+            "name": "hadoop",
+            "type": "tool",
+            "frequency": 21
+        },
+        {
+            "id": "core java",
+            "name": "core java",
+            "type": "language",
+            "frequency": 30
+        },
+        {
+            "id": "restful web service",
+            "name": "restful web service",
+            "type": "concept",
+            "frequency": 21
+        },
+        {
+            "id": "j2ee",
+            "name": "j2ee",
+            "type": "language",
+            "frequency": 75
+        },
+        {
+            "id": "spring frameworks",
+            "name": "spring frameworks",
+            "type": "tool",
+            "frequency": 24
+        },
+        {
+            "id": "jsp",
+            "name": "jsp",
+            "type": "tool",
+            "frequency": 24
+        },
+        {
+            "id": "jsf",
+            "name": "jsf",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "ajax",
+            "name": "ajax",
+            "type": "tool",
+            "frequency": 36
+        },
+        {
+            "id": "eclipse",
+            "name": "eclipse",
+            "type": "tool",
+            "frequency": 20
+        },
+        {
+            "id": "xml",
+            "name": "xml",
+            "type": "language",
+            "frequency": 59
+        },
+        {
+            "id": "relational database",
+            "name": "relational database",
+            "type": "concept",
+            "frequency": 14
+        },
+        {
+            "id": "rest api",
+            "name": "rest api",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "android sdk",
+            "name": "android sdk",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "devops",
+            "name": "devops",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "docker",
+            "name": "docker",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "soap",
+            "name": "soap",
+            "type": "concept",
+            "frequency": 22
+        },
+        {
+            "id": "agile",
+            "name": "agile",
+            "type": "methodology",
+            "frequency": 29
+        },
+        {
+            "id": "angular",
+            "name": "angular",
+            "type": "tool",
+            "frequency": 37
+        },
+        {
+            "id": "scala",
+            "name": "scala",
+            "type": "language",
+            "frequency": 10
+        },
+        {
+            "id": "java ee",
+            "name": "java ee",
+            "type": "language",
+            "frequency": 10
+        },
+        {
+            "id": "jquery",
+            "name": "jquery",
+            "type": "tool",
+            "frequency": 38
+        },
+        {
+            "id": "ant",
+            "name": "ant",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "agile methodology",
+            "name": "agile methodology",
+            "type": "methodology",
+            "frequency": 8
+        },
+        {
+            "id": "jdbc",
+            "name": "jdbc",
+            "type": "tool",
+            "frequency": 22
+        },
+        {
+            "id": "rest web services",
+            "name": "rest web services",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "rdbms",
+            "name": "rdbms",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "unix",
+            "name": "unix",
+            "type": "platform",
+            "frequency": 17
+        },
+        {
+            "id": "shell scripting",
+            "name": "shell scripting",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "react",
+            "name": "react",
+            "type": "library",
+            "frequency": 7
+        },
+        {
+            "id": "css",
+            "name": "css",
+            "type": "concept",
+            "frequency": 46
+        },
+        {
+            "id": "agile methodologies",
+            "name": "agile methodologies",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "continuous integration",
+            "name": "continuous integration",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "test driven development",
+            "name": "test driven development",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": ".net",
+            "name": ".net",
+            "type": "platform",
+            "frequency": 11
+        },
+        {
+            "id": "struts",
+            "name": "struts",
+            "type": "framework",
+            "frequency": 13
+        },
+        {
+            "id": "ejb",
+            "name": "ejb",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "window",
+            "name": "window",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "db2",
+            "name": "db2",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "web service",
+            "name": "web service",
+            "type": "concept",
+            "frequency": 25
+        },
+        {
+            "id": "servlet",
+            "name": "servlet",
+            "type": "platform",
+            "frequency": 16
+        },
+        {
+            "id": "json",
+            "name": "json",
+            "type": "concept",
+            "frequency": 25
+        },
+        {
+            "id": "angular js",
+            "name": "angular js",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": "bootstrap",
+            "name": "bootstrap",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "android",
+            "name": "android",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "http",
+            "name": "http",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "scrum",
+            "name": "scrum",
+            "type": "methodology",
+            "frequency": 10
+        },
+        {
+            "id": "html",
+            "name": "html",
+            "type": "language",
+            "frequency": 46
+        },
+        {
+            "id": "jee",
+            "name": "jee",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "design pattern",
+            "name": "design pattern",
+            "type": "concept",
+            "frequency": 18
+        },
+        {
+            "id": "service oriented architecture",
+            "name": "service oriented architecture",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "html5",
+            "name": "html5",
+            "type": "language",
+            "frequency": 25
+        },
+        {
+            "id": "c++",
+            "name": "c++",
+            "type": "language",
+            "frequency": 13
+        },
+        {
+            "id": "multithreading",
+            "name": "multithreading",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "java/j2ee",
+            "name": "java/j2ee",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "jenkins",
+            "name": "jenkins",
+            "type": "tool",
+            "frequency": 23
+        },
+        {
+            "id": "soa",
+            "name": "soa",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "selenium",
+            "name": "selenium",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "jndi",
+            "name": "jndi",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "xslt",
+            "name": "xslt",
+            "type": "concept",
+            "frequency": 13
+        },
+        {
+            "id": "rmi",
+            "name": "rmi",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "orm solutions",
+            "name": "orm solutions",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "sql / pl-sql",
+            "name": "sql / pl-sql",
+            "type": "language",
+            "frequency": 6
+        },
+        {
+            "id": "spring mvc",
+            "name": "spring mvc",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": "rest",
+            "name": "rest",
+            "type": "concept",
+            "frequency": 26
+        },
+        {
+            "id": "c#",
+            "name": "c#",
+            "type": "language",
+            "frequency": 6
+        },
+        {
+            "id": "jboss",
+            "name": "jboss",
+            "type": "tool",
+            "frequency": 17
+        },
+        {
+            "id": "websphere",
+            "name": "websphere",
+            "type": "platform",
+            "frequency": 17
+        },
+        {
+            "id": "tdd",
+            "name": "tdd",
+            "type": "methodology",
+            "frequency": 6
+        },
+        {
+            "id": "object-oriented design",
+            "name": "object-oriented design",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "jpa",
+            "name": "jpa",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "weblogic",
+            "name": "weblogic",
+            "type": "platform",
+            "frequency": 14
+        },
+        {
+            "id": "css3",
+            "name": "css3",
+            "type": "language",
+            "frequency": 8
+        },
+        {
+            "id": "data structures",
+            "name": "data structures",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "agile development",
+            "name": "agile development",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "tcp/ip",
+            "name": "tcp/ip",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "mq",
+            "name": "mq",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "svn",
+            "name": "svn",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "multi-threading",
+            "name": "multi-threading",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "data structures and algorithms",
+            "name": "data structures and algorithms",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "hive",
+            "name": "hive",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "hbase",
+            "name": "hbase",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "restful api",
+            "name": "restful api",
+            "type": "concept",
+            "frequency": 6
+        }
+    ],
+    "relationships": [
+        {
+            "source": "java",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.27672955974842767,
+            "lift": 1.0146750524109016
+        },
+        {
+            "source": "java",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.2704402515723271,
+            "lift": 1.0397508701227332
+        },
+        {
+            "source": "spring boot",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.846153846153846,
+            "lift": 1.0537010159651667
+        },
+        {
+            "source": "node",
+            "target": "angular",
+            "relationship": "association",
+            "confidence": 0.4705882352941177,
+            "lift": 5.036565977742448
+        },
+        {
+            "source": "node",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8235294117647058,
+            "lift": 1.025527192008879
+        },
+        {
+            "source": "node",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.4705882352941177,
+            "lift": 1.7254901960784317
+        },
+        {
+            "source": "python",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8571428571428572,
+            "lift": 1.0673854447439355
+        },
+        {
+            "source": "python",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.32142857142857145,
+            "lift": 1.1785714285714288
+        },
+        {
+            "source": "aws",
+            "target": "git",
+            "relationship": "association",
+            "confidence": 0.3548387096774193,
+            "lift": 3.427222659323367
+        },
+        {
+            "source": "aws",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7741935483870968,
+            "lift": 0.9640900791235545
+        },
+        {
+            "source": "aws",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.25806451612903225,
+            "lift": 0.946236559139785
+        },
+        {
+            "source": "aws",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.29032258064516125,
+            "lift": 1.1161916692765423
+        },
+        {
+            "source": "microservices",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.2452830188679247
+        },
+        {
+            "source": "junit",
+            "target": "ajax",
+            "relationship": "association",
+            "confidence": 0.358974358974359,
+            "lift": 3.9487179487179485
+        },
+        {
+            "source": "junit",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.25641025641025644,
+            "lift": 2.256410256410257
+        },
+        {
+            "source": "junit",
+            "target": "eclipse",
+            "relationship": "association",
+            "confidence": 0.28205128205128205,
+            "lift": 5.584615384615384
+        },
+        {
+            "source": "junit",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.48717948717948717,
+            "lift": 2.473372781065089
+        },
+        {
+            "source": "junit",
+            "target": "j2ee",
+            "relationship": "association",
+            "confidence": 0.28205128205128205,
+            "lift": 1.5093555093555093
+        },
+        {
+            "source": "junit",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8205128205128206,
+            "lift": 1.0217706821480408
+        },
+        {
+            "source": "junit",
+            "target": "jenkins",
+            "relationship": "association",
+            "confidence": 0.25641025641025644,
+            "lift": 4.414715719063546
+        },
+        {
+            "source": "junit",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.38461538461538464,
+            "lift": 4.116424116424117
+        },
+        {
+            "source": "junit",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.6153846153846154,
+            "lift": 2.256410256410257
+        },
+        {
+            "source": "junit",
+            "target": "maven",
+            "relationship": "association",
+            "confidence": 0.28205128205128205,
+            "lift": 3.191208791208791
+        },
+        {
+            "source": "junit",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.38461538461538464,
+            "lift": 2.8737300435413644
+        },
+        {
+            "source": "junit",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.5128205128205129,
+            "lift": 1.9716206123973117
+        },
+        {
+            "source": "junit",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.25641025641025644,
+            "lift": 1.208791208791209
+        },
+        {
+            "source": "junit",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.33333333333333337,
+            "lift": 2.2758620689655173
+        },
+        {
+            "source": "git",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.26829268292682923,
+            "lift": 3.4272226593233666
+        },
+        {
+            "source": "git",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.26829268292682923,
+            "lift": 1.3621013133208253
+        },
+        {
+            "source": "git",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7804878048780488,
+            "lift": 0.9719282098481363
+        },
+        {
+            "source": "git",
+            "target": "jenkins",
+            "relationship": "association",
+            "confidence": 0.26829268292682923,
+            "lift": 4.6193001060445384
+        },
+        {
+            "source": "git",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.26829268292682923,
+            "lift": 0.9837398373983739
+        },
+        {
+            "source": "git",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.3170731707317073,
+            "lift": 1.2190385981529719
+        },
+        {
+            "source": "sql",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.2857142857142857,
+            "lift": 1.4505494505494505
+        },
+        {
+            "source": "sql",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8333333333333333,
+            "lift": 1.0377358490566038
+        },
+        {
+            "source": "sql",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.26190476190476186,
+            "lift": 0.9603174603174602
+        },
+        {
+            "source": "sql",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.380952380952381,
+            "lift": 1.464632454923717
+        },
+        {
+            "source": "sql",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.2738095238095238,
+            "lift": 1.8694581280788176
+        },
+        {
+            "source": "nosql",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9,
+            "lift": 1.1207547169811323
+        },
+        {
+            "source": "oracle",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.3584905660377358,
+            "lift": 1.8200290275761974
+        },
+        {
+            "source": "oracle",
+            "target": "j2ee",
+            "relationship": "association",
+            "confidence": 0.32075471698113206,
+            "lift": 1.716471188169301
+        },
+        {
+            "source": "oracle",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7547169811320754,
+            "lift": 0.9398362406550373
+        },
+        {
+            "source": "oracle",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.2830188679245283,
+            "lift": 3.029066802651708
+        },
+        {
+            "source": "oracle",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5094339622641509,
+            "lift": 1.8679245283018868
+        },
+        {
+            "source": "oracle",
+            "target": "junit",
+            "relationship": "association",
+            "confidence": 0.2830188679245283,
+            "lift": 2.8737300435413644
+        },
+        {
+            "source": "oracle",
+            "target": "maven",
+            "relationship": "association",
+            "confidence": 0.2641509433962264,
+            "lift": 2.9886792452830186
+        },
+        {
+            "source": "oracle",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.4150943396226415,
+            "lift": 1.5958966843744273
+        },
+        {
+            "source": "oracle",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.33962264150943394,
+            "lift": 1.601078167115903
+        },
+        {
+            "source": "oracle",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.39622641509433965,
+            "lift": 2.705270006506181
+        },
+        {
+            "source": "pl/sql",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8749999999999999,
+            "lift": 1.0896226415094339
+        },
+        {
+            "source": "pl/sql",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 1.8333333333333335
+        },
+        {
+            "source": "pl/sql",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.6249999999999999,
+            "lift": 4.669811320754716
+        },
+        {
+            "source": "unix/linux",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9090909090909092,
+            "lift": 1.1320754716981134
+        },
+        {
+            "source": "linux",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.888888888888889,
+            "lift": 1.106918238993711
+        },
+        {
+            "source": "linux",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.29629629629629634,
+            "lift": 1.08641975308642
+        },
+        {
+            "source": "linux",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.40740740740740744,
+            "lift": 1.5663430420711975
+        },
+        {
+            "source": "spring",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.4854368932038835,
+            "lift": 2.4645257654966395
+        },
+        {
+            "source": "spring",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8349514563106796,
+            "lift": 1.0397508701227332
+        },
+        {
+            "source": "spring",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.37864077669902907,
+            "lift": 1.3883495145631066
+        },
+        {
+            "source": "spring",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.31067961165048547,
+            "lift": 1.464632454923717
+        },
+        {
+            "source": "mysql",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9411764705882354,
+            "lift": 1.1720310765815762
+        },
+        {
+            "source": "mysql",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.5882352941176471,
+            "lift": 2.2615648201027985
+        },
+        {
+            "source": "tomcat",
+            "target": "ajax",
+            "relationship": "association",
+            "confidence": 0.40740740740740744,
+            "lift": 4.481481481481482
+        },
+        {
+            "source": "tomcat",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.33333333333333337,
+            "lift": 1.6923076923076925
+        },
+        {
+            "source": "tomcat",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7407407407407408,
+            "lift": 0.9224318658280923
+        },
+        {
+            "source": "tomcat",
+            "target": "jdbc",
+            "relationship": "association",
+            "confidence": 0.29629629629629634,
+            "lift": 5.333333333333334
+        },
+        {
+            "source": "tomcat",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.40740740740740744,
+            "lift": 4.36036036036036
+        },
+        {
+            "source": "tomcat",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.6296296296296297,
+            "lift": 2.308641975308642
+        },
+        {
+            "source": "tomcat",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.4444444444444445,
+            "lift": 3.3207547169811322
+        },
+        {
+            "source": "tomcat",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.5555555555555556,
+            "lift": 2.1359223300970873
+        },
+        {
+            "source": "tomcat",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.40740740740740744,
+            "lift": 2.7816091954022992
+        },
+        {
+            "source": "jms",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.32,
+            "lift": 1.6246153846153848
+        },
+        {
+            "source": "jms",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7999999999999999,
+            "lift": 0.9962264150943396
+        },
+        {
+            "source": "jms",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5599999999999999,
+            "lift": 2.0533333333333332
+        },
+        {
+            "source": "jms",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.32,
+            "lift": 1.5085714285714285
+        },
+        {
+            "source": "jms",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.32,
+            "lift": 2.1848275862068967
+        },
+        {
+            "source": "js",
+            "target": "ajax",
+            "relationship": "association",
+            "confidence": 0.2777777777777778,
+            "lift": 3.055555555555556
+        },
+        {
+            "source": "js",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.35185185185185186,
+            "lift": 3.0962962962962965
+        },
+        {
+            "source": "js",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.2777777777777778,
+            "lift": 1.4102564102564104
+        },
+        {
+            "source": "js",
+            "target": "html",
+            "relationship": "association",
+            "confidence": 0.3425925925925926,
+            "lift": 2.949275362318841
+        },
+        {
+            "source": "js",
+            "target": "j2ee",
+            "relationship": "association",
+            "confidence": 0.2777777777777778,
+            "lift": 1.4864864864864864
+        },
+        {
+            "source": "js",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8148148148148149,
+            "lift": 1.0146750524109016
+        },
+        {
+            "source": "js",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.25,
+            "lift": 2.6756756756756754
+        },
+        {
+            "source": "js",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.25,
+            "lift": 1.8679245283018868
+        },
+        {
+            "source": "js",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.3611111111111111,
+            "lift": 1.3883495145631066
+        },
+        {
+            "source": "js",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.29629629629629634,
+            "lift": 2.0229885057471266
+        },
+        {
+            "source": "jira",
+            "target": "git",
+            "relationship": "association",
+            "confidence": 0.888888888888889,
+            "lift": 8.585365853658537
+        },
+        {
+            "source": "jira",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.888888888888889,
+            "lift": 1.106918238993711
+        },
+        {
+            "source": "maven",
+            "target": "ajax",
+            "relationship": "association",
+            "confidence": 0.2571428571428572,
+            "lift": 2.8285714285714287
+        },
+        {
+            "source": "maven",
+            "target": "ant",
+            "relationship": "association",
+            "confidence": 0.2857142857142857,
+            "lift": 9.428571428571427
+        },
+        {
+            "source": "maven",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.2857142857142857,
+            "lift": 2.5142857142857142
+        },
+        {
+            "source": "maven",
+            "target": "git",
+            "relationship": "association",
+            "confidence": 0.2571428571428572,
+            "lift": 2.483623693379791
+        },
+        {
+            "source": "maven",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.39999999999999997,
+            "lift": 2.0307692307692307
+        },
+        {
+            "source": "maven",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9142857142857144,
+            "lift": 1.1385444743935311
+        },
+        {
+            "source": "maven",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.4857142857142857,
+            "lift": 1.780952380952381
+        },
+        {
+            "source": "maven",
+            "target": "junit",
+            "relationship": "association",
+            "confidence": 0.3142857142857143,
+            "lift": 3.1912087912087914
+        },
+        {
+            "source": "maven",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.39999999999999997,
+            "lift": 2.9886792452830186
+        },
+        {
+            "source": "maven",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.4285714285714286,
+            "lift": 1.6477115117891818
+        },
+        {
+            "source": "maven",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.34285714285714286,
+            "lift": 1.616326530612245
+        },
+        {
+            "source": "maven",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.3142857142857143,
+            "lift": 2.1458128078817733
+        },
+        {
+            "source": "hibernate",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8461538461538461,
+            "lift": 1.053701015965167
+        },
+        {
+            "source": "hibernate",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.38461538461538464,
+            "lift": 1.4102564102564104
+        },
+        {
+            "source": "hibernate",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.6410256410256411,
+            "lift": 2.4645257654966395
+        },
+        {
+            "source": "hibernate",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.3076923076923077,
+            "lift": 1.4505494505494505
+        },
+        {
+            "source": "kafka",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9166666666666666,
+            "lift": 1.1415094339622642
+        },
+        {
+            "source": "cassandra",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.2452830188679247
+        },
+        {
+            "source": "spark",
+            "target": "hadoop",
+            "relationship": "association",
+            "confidence": 0.888888888888889,
+            "lift": 16.761904761904763
+        },
+        {
+            "source": "spark",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.2452830188679247
+        },
+        {
+            "source": "hadoop",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8095238095238095,
+            "lift": 1.0080862533692723
+        },
+        {
+            "source": "hadoop",
+            "target": "junit",
+            "relationship": "association",
+            "confidence": 0.380952380952381,
+            "lift": 3.8681318681318686
+        },
+        {
+            "source": "hadoop",
+            "target": "spark",
+            "relationship": "association",
+            "confidence": 0.380952380952381,
+            "lift": 16.761904761904763
+        },
+        {
+            "source": "core java",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.26666666666666666,
+            "lift": 1.9924528301886792
+        },
+        {
+            "source": "core java",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.26666666666666666,
+            "lift": 1.2571428571428571
+        },
+        {
+            "source": "restful web service",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9047619047619047,
+            "lift": 1.1266846361185983
+        },
+        {
+            "source": "restful web service",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.47619047619047616,
+            "lift": 1.746031746031746
+        },
+        {
+            "source": "j2ee",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8918918918918918,
+            "lift": 1.1106578276389596
+        },
+        {
+            "source": "j2ee",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.4054054054054054,
+            "lift": 1.4864864864864864
+        },
+        {
+            "source": "j2ee",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.29729729729729726,
+            "lift": 1.1430070847546574
+        },
+        {
+            "source": "j2ee",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.25675675675675674,
+            "lift": 1.2104247104247103
+        },
+        {
+            "source": "spring frameworks",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9166666666666666,
+            "lift": 1.1415094339622642
+        },
+        {
+            "source": "spring frameworks",
+            "target": "maven",
+            "relationship": "association",
+            "confidence": 0.33333333333333337,
+            "lift": 3.771428571428572
+        },
+        {
+            "source": "spring frameworks",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 1.7678571428571428
+        },
+        {
+            "source": "jsp",
+            "target": "ajax",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 4.125
+        },
+        {
+            "source": "jsp",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.41666666666666663,
+            "lift": 3.6666666666666665
+        },
+        {
+            "source": "jsp",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.4583333333333333,
+            "lift": 2.326923076923077
+        },
+        {
+            "source": "jsp",
+            "target": "j2ee",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 2.6756756756756754
+        },
+        {
+            "source": "jsp",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9166666666666666,
+            "lift": 1.1415094339622642
+        },
+        {
+            "source": "jsp",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 4.013513513513513
+        },
+        {
+            "source": "jsp",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.6666666666666667,
+            "lift": 2.444444444444445
+        },
+        {
+            "source": "jsp",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.4583333333333333,
+            "lift": 3.4245283018867925
+        },
+        {
+            "source": "jsp",
+            "target": "servlet",
+            "relationship": "association",
+            "confidence": 0.41666666666666663,
+            "lift": 10.312499999999998
+        },
+        {
+            "source": "jsp",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 1.441747572815534
+        },
+        {
+            "source": "jsp",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.41666666666666663,
+            "lift": 2.8448275862068964
+        },
+        {
+            "source": "jsf",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9090909090909092,
+            "lift": 1.1320754716981134
+        },
+        {
+            "source": "ajax",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.4722222222222222,
+            "lift": 4.155555555555556
+        },
+        {
+            "source": "ajax",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.38888888888888884,
+            "lift": 1.9743589743589742
+        },
+        {
+            "source": "ajax",
+            "target": "html",
+            "relationship": "association",
+            "confidence": 0.3055555555555555,
+            "lift": 2.6304347826086953
+        },
+        {
+            "source": "ajax",
+            "target": "j2ee",
+            "relationship": "association",
+            "confidence": 0.4444444444444445,
+            "lift": 2.3783783783783785
+        },
+        {
+            "source": "ajax",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8333333333333334,
+            "lift": 1.037735849056604
+        },
+        {
+            "source": "ajax",
+            "target": "jdbc",
+            "relationship": "association",
+            "confidence": 0.3055555555555555,
+            "lift": 5.5
+        },
+        {
+            "source": "ajax",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.4166666666666667,
+            "lift": 4.45945945945946
+        },
+        {
+            "source": "ajax",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.8333333333333334,
+            "lift": 3.055555555555556
+        },
+        {
+            "source": "ajax",
+            "target": "jsp",
+            "relationship": "association",
+            "confidence": 0.25,
+            "lift": 4.125
+        },
+        {
+            "source": "ajax",
+            "target": "junit",
+            "relationship": "association",
+            "confidence": 0.38888888888888884,
+            "lift": 3.9487179487179485
+        },
+        {
+            "source": "ajax",
+            "target": "maven",
+            "relationship": "association",
+            "confidence": 0.25,
+            "lift": 2.8285714285714287
+        },
+        {
+            "source": "ajax",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.36111111111111116,
+            "lift": 2.6981132075471703
+        },
+        {
+            "source": "ajax",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.4444444444444445,
+            "lift": 1.70873786407767
+        },
+        {
+            "source": "ajax",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.3333333333333333,
+            "lift": 1.5714285714285714
+        },
+        {
+            "source": "ajax",
+            "target": "tomcat",
+            "relationship": "association",
+            "confidence": 0.3055555555555555,
+            "lift": 4.481481481481481
+        },
+        {
+            "source": "ajax",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.5833333333333334,
+            "lift": 3.9827586206896552
+        },
+        {
+            "source": "eclipse",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8,
+            "lift": 0.9962264150943397
+        },
+        {
+            "source": "eclipse",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5499999999999999,
+            "lift": 2.0166666666666666
+        },
+        {
+            "source": "eclipse",
+            "target": "junit",
+            "relationship": "association",
+            "confidence": 0.5499999999999999,
+            "lift": 5.584615384615384
+        },
+        {
+            "source": "eclipse",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.45,
+            "lift": 2.1214285714285714
+        },
+        {
+            "source": "xml",
+            "target": "ajax",
+            "relationship": "association",
+            "confidence": 0.3620689655172414,
+            "lift": 3.9827586206896552
+        },
+        {
+            "source": "xml",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.2758620689655173,
+            "lift": 2.427586206896552
+        },
+        {
+            "source": "xml",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.3103448275862069,
+            "lift": 1.5755968169761274
+        },
+        {
+            "source": "xml",
+            "target": "html",
+            "relationship": "association",
+            "confidence": 0.2758620689655173,
+            "lift": 2.374812593703149
+        },
+        {
+            "source": "xml",
+            "target": "j2ee",
+            "relationship": "association",
+            "confidence": 0.3103448275862069,
+            "lift": 1.6607642124883504
+        },
+        {
+            "source": "xml",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7241379310344828,
+            "lift": 0.9017566688353936
+        },
+        {
+            "source": "xml",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5517241379310346,
+            "lift": 2.022988505747127
+        },
+        {
+            "source": "xml",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.3620689655172414,
+            "lift": 2.705270006506181
+        },
+        {
+            "source": "xml",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.3448275862068965,
+            "lift": 1.3257448945430195
+        },
+        {
+            "source": "xml",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.39655172413793105,
+            "lift": 1.8694581280788178
+        },
+        {
+            "source": "relational database",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8571428571428572,
+            "lift": 1.0673854447439355
+        },
+        {
+            "source": "rest api",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.2452830188679247
+        },
+        {
+            "source": "docker",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.2452830188679247
+        },
+        {
+            "source": "soap",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.4545454545454546,
+            "lift": 2.307692307692308
+        },
+        {
+            "source": "soap",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8636363636363636,
+            "lift": 1.0754716981132075
+        },
+        {
+            "source": "soap",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.3636363636363637,
+            "lift": 1.3333333333333337
+        },
+        {
+            "source": "soap",
+            "target": "json",
+            "relationship": "association",
+            "confidence": 0.4090909090909091,
+            "lift": 6.75
+        },
+        {
+            "source": "soap",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.3636363636363637,
+            "lift": 2.716981132075472
+        },
+        {
+            "source": "soap",
+            "target": "rest",
+            "relationship": "association",
+            "confidence": 0.590909090909091,
+            "lift": 9.360000000000001
+        },
+        {
+            "source": "soap",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.3636363636363637,
+            "lift": 1.3980582524271847
+        },
+        {
+            "source": "soap",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.3636363636363637,
+            "lift": 1.7142857142857146
+        },
+        {
+            "source": "soap",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.4090909090909091,
+            "lift": 2.793103448275862
+        },
+        {
+            "source": "agile",
+            "target": "j2ee",
+            "relationship": "association",
+            "confidence": 0.2758620689655173,
+            "lift": 1.4762348555452005
+        },
+        {
+            "source": "agile",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7931034482758621,
+            "lift": 0.9876382563435264
+        },
+        {
+            "source": "angular",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.27027027027027023,
+            "lift": 2.378378378378378
+        },
+        {
+            "source": "angular",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.29729729729729726,
+            "lift": 1.5093555093555093
+        },
+        {
+            "source": "angular",
+            "target": "html5",
+            "relationship": "association",
+            "confidence": 0.27027027027027023,
+            "lift": 4.459459459459459
+        },
+        {
+            "source": "angular",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8378378378378378,
+            "lift": 1.0433452320244774
+        },
+        {
+            "source": "angular",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.32432432432432434,
+            "lift": 3.471146822498174
+        },
+        {
+            "source": "angular",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.6216216216216216,
+            "lift": 2.2792792792792795
+        },
+        {
+            "source": "angular",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.35135135135135137,
+            "lift": 1.35082655471005
+        },
+        {
+            "source": "jquery",
+            "target": "ajax",
+            "relationship": "association",
+            "confidence": 0.4054054054054054,
+            "lift": 4.459459459459459
+        },
+        {
+            "source": "jquery",
+            "target": "angular",
+            "relationship": "association",
+            "confidence": 0.32432432432432434,
+            "lift": 3.471146822498174
+        },
+        {
+            "source": "jquery",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.37837837837837834,
+            "lift": 3.3297297297297295
+        },
+        {
+            "source": "jquery",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.43243243243243246,
+            "lift": 2.1954261954261955
+        },
+        {
+            "source": "jquery",
+            "target": "html",
+            "relationship": "association",
+            "confidence": 0.32432432432432434,
+            "lift": 2.792009400705053
+        },
+        {
+            "source": "jquery",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8108108108108107,
+            "lift": 1.0096889342172362
+        },
+        {
+            "source": "jquery",
+            "target": "jdbc",
+            "relationship": "association",
+            "confidence": 0.29729729729729726,
+            "lift": 5.351351351351351
+        },
+        {
+            "source": "jquery",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.7297297297297296,
+            "lift": 2.6756756756756754
+        },
+        {
+            "source": "jquery",
+            "target": "junit",
+            "relationship": "association",
+            "confidence": 0.4054054054054054,
+            "lift": 4.116424116424116
+        },
+        {
+            "source": "jquery",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.4054054054054054,
+            "lift": 3.029066802651708
+        },
+        {
+            "source": "jquery",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.43243243243243246,
+            "lift": 1.6625557596431384
+        },
+        {
+            "source": "jquery",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.27027027027027023,
+            "lift": 1.2741312741312738
+        },
+        {
+            "source": "jquery",
+            "target": "tomcat",
+            "relationship": "association",
+            "confidence": 0.29729729729729726,
+            "lift": 4.36036036036036
+        },
+        {
+            "source": "jquery",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.32432432432432434,
+            "lift": 2.2143522833178007
+        },
+        {
+            "source": "ant",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8333333333333333,
+            "lift": 1.0377358490566038
+        },
+        {
+            "source": "ant",
+            "target": "maven",
+            "relationship": "association",
+            "confidence": 0.8333333333333333,
+            "lift": 9.428571428571427
+        },
+        {
+            "source": "agile methodology",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.2452830188679247
+        },
+        {
+            "source": "jdbc",
+            "target": "ajax",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 5.5
+        },
+        {
+            "source": "jdbc",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.4545454545454546,
+            "lift": 2.307692307692308
+        },
+        {
+            "source": "jdbc",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7272727272727274,
+            "lift": 0.9056603773584908
+        },
+        {
+            "source": "jdbc",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 5.351351351351351
+        },
+        {
+            "source": "jdbc",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.7727272727272727,
+            "lift": 2.8333333333333335
+        },
+        {
+            "source": "jdbc",
+            "target": "junit",
+            "relationship": "association",
+            "confidence": 0.3636363636363637,
+            "lift": 3.692307692307693
+        },
+        {
+            "source": "jdbc",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.3636363636363637,
+            "lift": 2.716981132075472
+        },
+        {
+            "source": "jdbc",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.4545454545454546,
+            "lift": 1.7475728155339807
+        },
+        {
+            "source": "jdbc",
+            "target": "tomcat",
+            "relationship": "association",
+            "confidence": 0.3636363636363637,
+            "lift": 5.333333333333335
+        },
+        {
+            "source": "jdbc",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 3.413793103448276
+        },
+        {
+            "source": "unix",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7647058823529412,
+            "lift": 0.9522752497225306
+        },
+        {
+            "source": "shell scripting",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7272727272727274,
+            "lift": 0.9056603773584908
+        },
+        {
+            "source": "css",
+            "target": "ajax",
+            "relationship": "association",
+            "confidence": 0.37777777777777777,
+            "lift": 4.155555555555555
+        },
+        {
+            "source": "css",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.2888888888888889,
+            "lift": 1.4666666666666668
+        },
+        {
+            "source": "css",
+            "target": "html",
+            "relationship": "association",
+            "confidence": 0.6222222222222222,
+            "lift": 5.356521739130435
+        },
+        {
+            "source": "css",
+            "target": "j2ee",
+            "relationship": "association",
+            "confidence": 0.3555555555555556,
+            "lift": 1.902702702702703
+        },
+        {
+            "source": "css",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8,
+            "lift": 0.9962264150943397
+        },
+        {
+            "source": "css",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.3111111111111111,
+            "lift": 3.3297297297297295
+        },
+        {
+            "source": "css",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.8444444444444444,
+            "lift": 3.0962962962962965
+        },
+        {
+            "source": "css",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.26666666666666666,
+            "lift": 1.9924528301886792
+        },
+        {
+            "source": "css",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.37777777777777777,
+            "lift": 1.4524271844660193
+        },
+        {
+            "source": "css",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.3555555555555556,
+            "lift": 2.427586206896552
+        },
+        {
+            "source": ".net",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.2452830188679247
+        },
+        {
+            "source": "struts",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.6153846153846154,
+            "lift": 3.124260355029586
+        },
+        {
+            "source": "struts",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.846153846153846,
+            "lift": 1.0537010159651667
+        },
+        {
+            "source": "struts",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.923076923076923,
+            "lift": 3.54891710231516
+        },
+        {
+            "source": "ejb",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.7272727272727274,
+            "lift": 2.6666666666666674
+        },
+        {
+            "source": "db2",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8181818181818182,
+            "lift": 1.018867924528302
+        },
+        {
+            "source": "web service",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 1.903846153846154
+        },
+        {
+            "source": "web service",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8333333333333333,
+            "lift": 1.0377358490566038
+        },
+        {
+            "source": "web service",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.33333333333333337,
+            "lift": 1.2222222222222225
+        },
+        {
+            "source": "web service",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.5833333333333333,
+            "lift": 2.242718446601941
+        },
+        {
+            "source": "web service",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.41666666666666663,
+            "lift": 2.8448275862068964
+        },
+        {
+            "source": "servlet",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8125,
+            "lift": 1.0117924528301887
+        },
+        {
+            "source": "servlet",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 1.8333333333333335
+        },
+        {
+            "source": "servlet",
+            "target": "jsp",
+            "relationship": "association",
+            "confidence": 0.6249999999999999,
+            "lift": 10.312499999999998
+        },
+        {
+            "source": "servlet",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 1.9223300970873787
+        },
+        {
+            "source": "servlet",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.6249999999999999,
+            "lift": 4.267241379310344
+        },
+        {
+            "source": "json",
+            "target": "ajax",
+            "relationship": "association",
+            "confidence": 0.33333333333333337,
+            "lift": 3.666666666666667
+        },
+        {
+            "source": "json",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.41666666666666663,
+            "lift": 3.6666666666666665
+        },
+        {
+            "source": "json",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.875,
+            "lift": 1.089622641509434
+        },
+        {
+            "source": "json",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 4.013513513513513
+        },
+        {
+            "source": "json",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5833333333333333,
+            "lift": 2.138888888888889
+        },
+        {
+            "source": "json",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 2.80188679245283
+        },
+        {
+            "source": "json",
+            "target": "rest",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 5.9399999999999995
+        },
+        {
+            "source": "json",
+            "target": "soap",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 6.75
+        },
+        {
+            "source": "json",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 1.441747572815534
+        },
+        {
+            "source": "json",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 1.7678571428571428
+        },
+        {
+            "source": "json",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 3.413793103448276
+        },
+        {
+            "source": "angular js",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6874999999999999,
+            "lift": 0.856132075471698
+        },
+        {
+            "source": "angular js",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5625,
+            "lift": 2.0625
+        },
+        {
+            "source": "angular js",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.6249999999999999,
+            "lift": 2.402912621359223
+        },
+        {
+            "source": "angular js",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.5625,
+            "lift": 3.8405172413793105
+        },
+        {
+            "source": "bootstrap",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.6923076923076923,
+            "lift": 6.092307692307692
+        },
+        {
+            "source": "bootstrap",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.846153846153846,
+            "lift": 1.0537010159651667
+        },
+        {
+            "source": "bootstrap",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.6923076923076923,
+            "lift": 2.5384615384615388
+        },
+        {
+            "source": "http",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9166666666666666,
+            "lift": 1.1415094339622642
+        },
+        {
+            "source": "http",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.6666666666666667,
+            "lift": 2.444444444444445
+        },
+        {
+            "source": "scrum",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.2452830188679247
+        },
+        {
+            "source": "html",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.6086956521739131,
+            "lift": 5.356521739130435
+        },
+        {
+            "source": "html",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.28260869565217395,
+            "lift": 1.4347826086956523
+        },
+        {
+            "source": "html",
+            "target": "j2ee",
+            "relationship": "association",
+            "confidence": 0.3695652173913043,
+            "lift": 1.9776733254994123
+        },
+        {
+            "source": "html",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8478260869565217,
+            "lift": 1.0557834290401968
+        },
+        {
+            "source": "html",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.2608695652173913,
+            "lift": 2.7920094007050524
+        },
+        {
+            "source": "html",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.8043478260869565,
+            "lift": 2.949275362318841
+        },
+        {
+            "source": "html",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.28260869565217395,
+            "lift": 2.111566858080394
+        },
+        {
+            "source": "html",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.32608695652173914,
+            "lift": 1.2536935415787251
+        },
+        {
+            "source": "html",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.3478260869565218,
+            "lift": 2.374812593703149
+        },
+        {
+            "source": "design pattern",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8235294117647058,
+            "lift": 1.025527192008879
+        },
+        {
+            "source": "html5",
+            "target": "angular",
+            "relationship": "association",
+            "confidence": 0.41666666666666663,
+            "lift": 4.459459459459459
+        },
+        {
+            "source": "html5",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.33333333333333337,
+            "lift": 2.9333333333333336
+        },
+        {
+            "source": "html5",
+            "target": "css3",
+            "relationship": "association",
+            "confidence": 0.33333333333333337,
+            "lift": 16.5
+        },
+        {
+            "source": "html5",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.875,
+            "lift": 1.089622641509434
+        },
+        {
+            "source": "html5",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.875,
+            "lift": 3.2083333333333335
+        },
+        {
+            "source": "c++",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7692307692307692,
+            "lift": 0.9579100145137881
+        },
+        {
+            "source": "multithreading",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6666666666666667,
+            "lift": 0.8301886792452832
+        },
+        {
+            "source": "jenkins",
+            "target": "git",
+            "relationship": "association",
+            "confidence": 0.47826086956521735,
+            "lift": 4.6193001060445384
+        },
+        {
+            "source": "jenkins",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.3478260869565218,
+            "lift": 1.7658862876254184
+        },
+        {
+            "source": "jenkins",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9565217391304347,
+            "lift": 1.1911402789171452
+        },
+        {
+            "source": "jenkins",
+            "target": "junit",
+            "relationship": "association",
+            "confidence": 0.43478260869565216,
+            "lift": 4.414715719063545
+        },
+        {
+            "source": "jenkins",
+            "target": "maven",
+            "relationship": "association",
+            "confidence": 0.3478260869565218,
+            "lift": 3.935403726708075
+        },
+        {
+            "source": "jenkins",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.43478260869565216,
+            "lift": 1.6715913887716336
+        },
+        {
+            "source": "soa",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8333333333333333,
+            "lift": 1.0377358490566038
+        },
+        {
+            "source": "xslt",
+            "target": "ajax",
+            "relationship": "association",
+            "confidence": 0.6153846153846154,
+            "lift": 6.769230769230769
+        },
+        {
+            "source": "xslt",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6153846153846154,
+            "lift": 0.7663280116110306
+        },
+        {
+            "source": "xslt",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.7692307692307692,
+            "lift": 2.8205128205128203
+        },
+        {
+            "source": "xslt",
+            "target": "junit",
+            "relationship": "association",
+            "confidence": 0.6153846153846154,
+            "lift": 6.248520710059172
+        },
+        {
+            "source": "xslt",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.6153846153846154,
+            "lift": 4.597968069666183
+        },
+        {
+            "source": "xslt",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.923076923076923,
+            "lift": 6.302387267904509
+        },
+        {
+            "source": "spring mvc",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 2.5384615384615388
+        },
+        {
+            "source": "spring mvc",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9375,
+            "lift": 1.1674528301886793
+        },
+        {
+            "source": "spring mvc",
+            "target": "jquery",
+            "relationship": "association",
+            "confidence": 0.5625,
+            "lift": 6.02027027027027
+        },
+        {
+            "source": "spring mvc",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 1.8333333333333335
+        },
+        {
+            "source": "rest",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.43999999999999995,
+            "lift": 2.233846153846154
+        },
+        {
+            "source": "rest",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7599999999999999,
+            "lift": 0.9464150943396226
+        },
+        {
+            "source": "rest",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.36,
+            "lift": 1.32
+        },
+        {
+            "source": "rest",
+            "target": "json",
+            "relationship": "association",
+            "confidence": 0.36,
+            "lift": 5.9399999999999995
+        },
+        {
+            "source": "rest",
+            "target": "soap",
+            "relationship": "association",
+            "confidence": 0.52,
+            "lift": 9.360000000000001
+        },
+        {
+            "source": "rest",
+            "target": "spring",
+            "relationship": "association",
+            "confidence": 0.48,
+            "lift": 1.8454368932038834
+        },
+        {
+            "source": "rest",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.32,
+            "lift": 1.5085714285714285
+        },
+        {
+            "source": "rest",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.32,
+            "lift": 2.1848275862068967
+        },
+        {
+            "source": "jboss",
+            "target": "hibernate",
+            "relationship": "association",
+            "confidence": 0.4705882352941177,
+            "lift": 2.389140271493213
+        },
+        {
+            "source": "jboss",
+            "target": "j2ee",
+            "relationship": "association",
+            "confidence": 0.5882352941176471,
+            "lift": 3.14785373608903
+        },
+        {
+            "source": "jboss",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8823529411764707,
+            "lift": 1.0987791342952278
+        },
+        {
+            "source": "jboss",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.4705882352941177,
+            "lift": 1.7254901960784317
+        },
+        {
+            "source": "jboss",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.4705882352941177,
+            "lift": 3.5160932297447283
+        },
+        {
+            "source": "websphere",
+            "target": "j2ee",
+            "relationship": "association",
+            "confidence": 0.5294117647058824,
+            "lift": 2.833068362480127
+        },
+        {
+            "source": "websphere",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7058823529411765,
+            "lift": 0.8790233074361822
+        },
+        {
+            "source": "websphere",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5882352941176471,
+            "lift": 2.1568627450980395
+        },
+        {
+            "source": "websphere",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.4705882352941177,
+            "lift": 3.212981744421907
+        },
+        {
+            "source": "weblogic",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.6428571428571429,
+            "lift": 4.803234501347709
+        },
+        {
+            "source": "css3",
+            "target": "html5",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 16.5
+        },
+        {
+            "source": "svn",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.888888888888889,
+            "lift": 1.106918238993711
+        },
+        {
+            "source": "java",
+            "target": "core java",
+            "relationship": "prerequisite",
+            "weight": 0.96
+        },
+        {
+            "source": "core java",
+            "target": "j2ee",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "core java",
+            "target": "object oriented programming",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "core java",
+            "target": "data structures",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "core java",
+            "target": "multithreading",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "core java",
+            "target": "collections",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "j2ee",
+            "target": "servlet",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "j2ee",
+            "target": "jsp",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "j2ee",
+            "target": "jdbc",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "java",
+            "target": "spring",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "spring",
+            "target": "spring boot",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "spring",
+            "target": "spring mvc",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "spring",
+            "target": "spring frameworks",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "java",
+            "target": "hibernate",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "jdbc",
+            "target": "hibernate",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "core java",
+            "target": "jms",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "object oriented programming",
+            "target": "design pattern",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "sql",
+            "target": "jdbc",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "sql",
+            "target": "hibernate",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "sql",
+            "target": "oracle",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "sql",
+            "target": "mysql",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "sql",
+            "target": "postgresql",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "sql",
+            "target": "db2",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "java",
+            "target": "xml",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "xml",
+            "target": "xslt",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "xml",
+            "target": "web service",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "web service",
+            "target": "soap",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "web service",
+            "target": "rest",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "soap",
+            "target": "rest",
+            "relationship": "prerequisite",
+            "weight": 0.82
+        },
+        {
+            "source": "rest",
+            "target": "rest web services",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "rest",
+            "target": "restful web service",
+            "relationship": "prerequisite",
+            "weight": 0.95
+        },
+        {
+            "source": "json",
+            "target": "rest",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "web service",
+            "target": "json",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "html",
+            "target": "css",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "html",
+            "target": "js",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "js",
+            "target": "jquery",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "js",
+            "target": "ajax",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "js",
+            "target": "angular",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "js",
+            "target": "angular js",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "js",
+            "target": "react",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "html",
+            "target": "html5",
+            "relationship": "prerequisite",
+            "weight": 0.95
+        },
+        {
+            "source": "css",
+            "target": "css3",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "jsp",
+            "target": "jsf",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "j2ee",
+            "target": "ejb",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "j2ee",
+            "target": "jndi",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "j2ee",
+            "target": "jms",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "j2ee",
+            "target": "rmi",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "java",
+            "target": "maven",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "java",
+            "target": "ant",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "java",
+            "target": "gradle",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "java",
+            "target": "junit",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "unit testing",
+            "target": "junit",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "test driven development",
+            "target": "junit",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "tdd",
+            "target": "junit",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "java",
+            "target": "tomcat",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "java",
+            "target": "jboss",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "java",
+            "target": "websphere",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "java",
+            "target": "weblogic",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "git",
+            "target": "svn",
+            "relationship": "prerequisite",
+            "weight": 0.82
+        },
+        {
+            "source": "agile",
+            "target": "scrum",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "agile",
+            "target": "agile methodology",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "agile",
+            "target": "agile methodologies",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "agile",
+            "target": "agile development",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "agile",
+            "target": "jira",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "continuous integration",
+            "target": "jenkins",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "database",
+            "target": "sql",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "database",
+            "target": "rdbms",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "database",
+            "target": "relational database",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "sql",
+            "target": "pl/sql",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "core java",
+            "target": "eclipse",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "linux",
+            "target": "unix",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "unix",
+            "target": "shell scripting",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "linux",
+            "target": "unix/linux",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "core java",
+            "target": "scala",
+            "relationship": "prerequisite",
+            "weight": 0.82
+        },
+        {
+            "source": "core java",
+            "target": "c++",
+            "relationship": "prerequisite",
+            "weight": 0.78
+        },
+        {
+            "source": "rest",
+            "target": "api",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "service oriented architecture",
+            "target": "soa",
+            "relationship": "prerequisite",
+            "weight": 0.95
+        },
+        {
+            "source": "soa",
+            "target": "web service",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "multi-threading",
+            "target": "multithreading",
+            "relationship": "prerequisite",
+            "weight": 0.96
+        },
+        {
+            "source": "orm solutions",
+            "target": "hibernate",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "object-oriented design",
+            "target": "design pattern",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "http",
+            "target": "web service",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "http",
+            "target": "rest",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "tcp/ip",
+            "target": "http",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "struts",
+            "target": "spring",
+            "relationship": "prerequisite",
+            "weight": 0.83
+        },
+        {
+            "source": "gwt",
+            "target": "j2ee",
+            "relationship": "prerequisite",
+            "weight": 0.81
+        },
+        {
+            "source": "j2ee",
+            "target": "jpa",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "ajax",
+            "target": "html",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "ajax",
+            "target": "javascript",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "spring",
+            "target": "spring security",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "hibernate",
+            "target": "jpa",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "sql",
+            "target": "jpa",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "core java",
+            "target": "java 8",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "core java",
+            "target": "java 11",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "core java",
+            "target": "lambdas",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "core java",
+            "target": "streams api",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "core java",
+            "target": "concurrency",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "microservices",
+            "target": "spring boot",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "microservices",
+            "target": "spring cloud",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "rest",
+            "target": "microservices",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "distributed system",
+            "target": "microservices",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "data structures",
+            "target": "algorithm",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "aws",
+            "target": "cloud",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "azure",
+            "target": "cloud",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "docker",
+            "target": "kubernetes",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "container",
+            "target": "docker",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "devops",
+            "target": "ci/cd",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "ci/cd",
+            "target": "jenkins",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "spring boot",
+            "target": "springboot",
+            "relationship": "prerequisite",
+            "weight": 0.96
+        },
+        {
+            "source": "core java",
+            "target": "garbage collection",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "core java",
+            "target": "jvm",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "core java",
+            "target": "java ee",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "java ee",
+            "target": "jee",
+            "relationship": "prerequisite",
+            "weight": 0.95
+        },
+        {
+            "source": "kafka",
+            "target": "rabbitmq",
+            "relationship": "prerequisite",
+            "weight": 0.82
+        },
+        {
+            "source": "message queue",
+            "target": "kafka",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "message queue",
+            "target": "rabbitmq",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "java",
+            "target": "message queue",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "java",
+            "target": "algorithms",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "nosql",
+            "target": "mongodb",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "nosql",
+            "target": "cassandra",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "mq",
+            "target": "jms",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        }
+    ]
+}

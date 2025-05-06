@@ -1,0 +1,3878 @@
+{
+    "skills": [
+        {
+            "id": "python",
+            "name": "python",
+            "type": "language",
+            "frequency": 221
+        },
+        {
+            "id": "java",
+            "name": "java",
+            "type": "language",
+            "frequency": 275
+        },
+        {
+            "id": "php",
+            "name": "php",
+            "type": "language",
+            "frequency": 14
+        },
+        {
+            "id": "aws",
+            "name": "aws",
+            "type": "platform",
+            "frequency": 170
+        },
+        {
+            "id": "flask",
+            "name": "flask",
+            "type": "framework",
+            "frequency": 5
+        },
+        {
+            "id": "django",
+            "name": "django",
+            "type": "framework",
+            "frequency": 5
+        },
+        {
+            "id": "postgres",
+            "name": "postgres",
+            "type": "database",
+            "frequency": 9
+        },
+        {
+            "id": "elasticsearch",
+            "name": "elasticsearch",
+            "type": "database",
+            "frequency": 16
+        },
+        {
+            "id": "dynamodb",
+            "name": "dynamodb",
+            "type": "database",
+            "frequency": 10
+        },
+        {
+            "id": "redis",
+            "name": "redis",
+            "type": "database",
+            "frequency": 16
+        },
+        {
+            "id": "kinesis",
+            "name": "kinesis",
+            "type": "events",
+            "frequency": 6
+        },
+        {
+            "id": "kafka",
+            "name": "kafka",
+            "type": "event-driven technologies",
+            "frequency": 30
+        },
+        {
+            "id": "rabbitmq",
+            "name": "rabbitmq",
+            "type": "event-driven technologies",
+            "frequency": 7
+        },
+        {
+            "id": "microservices",
+            "name": "microservices",
+            "type": "concept",
+            "frequency": 17
+        },
+        {
+            "id": "eclipse",
+            "name": "eclipse",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "http",
+            "name": "http",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "json",
+            "name": "json",
+            "type": "concept",
+            "frequency": 36
+        },
+        {
+            "id": "rest",
+            "name": "rest",
+            "type": "concept",
+            "frequency": 23
+        },
+        {
+            "id": "xml",
+            "name": "xml",
+            "type": "concept",
+            "frequency": 43
+        },
+        {
+            "id": "linux",
+            "name": "linux",
+            "type": "platform",
+            "frequency": 106
+        },
+        {
+            "id": "spark",
+            "name": "spark",
+            "type": "tool",
+            "frequency": 44
+        },
+        {
+            "id": "redshift",
+            "name": "redshift",
+            "type": "tool",
+            "frequency": 15
+        },
+        {
+            "id": "sql",
+            "name": "sql",
+            "type": "language",
+            "frequency": 114
+        },
+        {
+            "id": "js",
+            "name": "js",
+            "type": "language",
+            "frequency": 115
+        },
+        {
+            "id": "react",
+            "name": "react",
+            "type": "framework",
+            "frequency": 47
+        },
+        {
+            "id": "angular",
+            "name": "angular",
+            "type": "framework",
+            "frequency": 33
+        },
+        {
+            "id": "vue",
+            "name": "vue",
+            "type": "framework",
+            "frequency": 6
+        },
+        {
+            "id": "object-oriented design",
+            "name": "object-oriented design",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "swift",
+            "name": "swift",
+            "type": "language",
+            "frequency": 6
+        },
+        {
+            "id": "objective c",
+            "name": "objective c",
+            "type": "language",
+            "frequency": 10
+        },
+        {
+            "id": "algorithm",
+            "name": "algorithm",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "data structure",
+            "name": "data structure",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "object-oriented programming",
+            "name": "object-oriented programming",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "design patterns",
+            "name": "design patterns",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "shell scripting",
+            "name": "shell scripting",
+            "type": "tool",
+            "frequency": 17
+        },
+        {
+            "id": "database systems",
+            "name": "database systems",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "kubernetes",
+            "name": "kubernetes",
+            "type": "platform",
+            "frequency": 67
+        },
+        {
+            "id": "ec2",
+            "name": "ec2",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "machine learning",
+            "name": "machine learning",
+            "type": "concept",
+            "frequency": 20
+        },
+        {
+            "id": "c++",
+            "name": "c++",
+            "type": "language",
+            "frequency": 49
+        },
+        {
+            "id": "tensorflow",
+            "name": "tensorflow",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "computer vision",
+            "name": "computer vision",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "pytorch",
+            "name": "pytorch",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "c/c++",
+            "name": "c/c++",
+            "type": "language",
+            "frequency": 25
+        },
+        {
+            "id": "ruby on rails",
+            "name": "ruby on rails",
+            "type": "framework",
+            "frequency": 9
+        },
+        {
+            "id": "docker",
+            "name": "docker",
+            "type": "tool",
+            "frequency": 63
+        },
+        {
+            "id": "ci/cd",
+            "name": "ci/cd",
+            "type": "methodology",
+            "frequency": 17
+        },
+        {
+            "id": "terraform",
+            "name": "terraform",
+            "type": "tool",
+            "frequency": 45
+        },
+        {
+            "id": "cloudformation",
+            "name": "cloudformation",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "node",
+            "name": "node",
+            "type": "language",
+            "frequency": 28
+        },
+        {
+            "id": "scala",
+            "name": "scala",
+            "type": "language",
+            "frequency": 37
+        },
+        {
+            "id": "typescript",
+            "name": "typescript",
+            "type": "language",
+            "frequency": 16
+        },
+        {
+            "id": "azure",
+            "name": "azure",
+            "type": "platform",
+            "frequency": 84
+        },
+        {
+            "id": "service oriented architecture",
+            "name": "service oriented architecture",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "agile",
+            "name": "agile",
+            "type": "methodology",
+            "frequency": 56
+        },
+        {
+            "id": "git",
+            "name": "git",
+            "type": "tool",
+            "frequency": 51
+        },
+        {
+            "id": "maven",
+            "name": "maven",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "jenkin",
+            "name": "jenkin",
+            "type": "tool",
+            "frequency": 26
+        },
+        {
+            "id": "azure devops",
+            "name": "azure devops",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "c#",
+            "name": "c#",
+            "type": "language",
+            "frequency": 81
+        },
+        {
+            "id": "html",
+            "name": "html",
+            "type": "language",
+            "frequency": 38
+        },
+        {
+            "id": "css",
+            "name": "css",
+            "type": "language",
+            "frequency": 29
+        },
+        {
+            "id": "restful api",
+            "name": "restful api",
+            "type": "concept",
+            "frequency": 13
+        },
+        {
+            "id": "jira",
+            "name": "jira",
+            "type": "tool",
+            "frequency": 20
+        },
+        {
+            "id": "perl",
+            "name": "perl",
+            "type": "language",
+            "frequency": 33
+        },
+        {
+            "id": "linux/unix",
+            "name": "linux/unix",
+            "type": "platform",
+            "frequency": 7
+        },
+        {
+            "id": "tcp/ip",
+            "name": "tcp/ip",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "dns",
+            "name": "dns",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "networking",
+            "name": "networking",
+            "type": "concept",
+            "frequency": 21
+        },
+        {
+            "id": "kanban",
+            "name": "kanban",
+            "type": "methodology",
+            "frequency": 11
+        },
+        {
+            "id": "application security",
+            "name": "application security",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "unix/linux",
+            "name": "unix/linux",
+            "type": "platform",
+            "frequency": 19
+        },
+        {
+            "id": "windows",
+            "name": "windows",
+            "type": "platform",
+            "frequency": 10
+        },
+        {
+            "id": "powershell",
+            "name": "powershell",
+            "type": "language",
+            "frequency": 34
+        },
+        {
+            "id": "rest api",
+            "name": "rest api",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "jquery",
+            "name": "jquery",
+            "type": "tool",
+            "frequency": 27
+        },
+        {
+            "id": "ajax",
+            "name": "ajax",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "relational database",
+            "name": "relational database",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "nosql",
+            "name": "nosql",
+            "type": "concept",
+            "frequency": 37
+        },
+        {
+            "id": "splunk",
+            "name": "splunk",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": "ansible",
+            "name": "ansible",
+            "type": "tool",
+            "frequency": 41
+        },
+        {
+            "id": "vmware",
+            "name": "vmware",
+            "type": "tool",
+            "frequency": 24
+        },
+        {
+            "id": "bamboo",
+            "name": "bamboo",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "emr",
+            "name": "emr",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "hadoop",
+            "name": "hadoop",
+            "type": "tool",
+            "frequency": 60
+        },
+        {
+            "id": "hive",
+            "name": "hive",
+            "type": "tool",
+            "frequency": 25
+        },
+        {
+            "id": "databricks",
+            "name": "databricks",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "bitbucket",
+            "name": "bitbucket",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "lambda",
+            "name": "lambda",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "s3",
+            "name": "s3",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "graphql",
+            "name": "graphql",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "ruby",
+            "name": "ruby",
+            "type": "language",
+            "frequency": 41
+        },
+        {
+            "id": "redux",
+            "name": "redux",
+            "type": "framework",
+            "frequency": 5
+        },
+        {
+            "id": "mysql",
+            "name": "mysql",
+            "type": "tool",
+            "frequency": 27
+        },
+        {
+            "id": "database",
+            "name": "database",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "api",
+            "name": "api",
+            "type": "concept",
+            "frequency": 13
+        },
+        {
+            "id": ".net",
+            "name": ".net",
+            "type": "language",
+            "frequency": 47
+        },
+        {
+            "id": "scripting",
+            "name": "scripting",
+            "type": "concept",
+            "frequency": 17
+        },
+        {
+            "id": "tableau",
+            "name": "tableau",
+            "type": "tool",
+            "frequency": 21
+        },
+        {
+            "id": "airflow",
+            "name": "airflow",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "aws technologies",
+            "name": "aws technologies",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "mapreduce",
+            "name": "mapreduce",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "gcp",
+            "name": "gcp",
+            "type": "platform",
+            "frequency": 27
+        },
+        {
+            "id": "rdbms",
+            "name": "rdbms",
+            "type": "concept",
+            "frequency": 17
+        },
+        {
+            "id": "mongodb",
+            "name": "mongodb",
+            "type": "tool",
+            "frequency": 27
+        },
+        {
+            "id": "scrum",
+            "name": "scrum",
+            "type": "methodology",
+            "frequency": 22
+        },
+        {
+            "id": "nosql database",
+            "name": "nosql database",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "sass",
+            "name": "sass",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "postgresql",
+            "name": "postgresql",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "oauth",
+            "name": "oauth",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "go",
+            "name": "go",
+            "type": "language",
+            "frequency": 31
+        },
+        {
+            "id": "helm",
+            "name": "helm",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "snowflake",
+            "name": "snowflake",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "golang",
+            "name": "golang",
+            "type": "language",
+            "frequency": 11
+        },
+        {
+            "id": "distributed system",
+            "name": "distributed system",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "big data",
+            "name": "big data",
+            "type": "concept",
+            "frequency": 23
+        },
+        {
+            "id": "iaas",
+            "name": "iaas",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "saas",
+            "name": "saas",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "paas",
+            "name": "paas",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "agile development",
+            "name": "agile development",
+            "type": "methodology",
+            "frequency": 13
+        },
+        {
+            "id": "continuous integration",
+            "name": "continuous integration",
+            "type": "methodology",
+            "frequency": 22
+        },
+        {
+            "id": "tdd",
+            "name": "tdd",
+            "type": "methodology",
+            "frequency": 10
+        },
+        {
+            "id": "cassandra",
+            "name": "cassandra",
+            "type": "tool",
+            "frequency": 15
+        },
+        {
+            "id": "prometheus",
+            "name": "prometheus",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "grafana",
+            "name": "grafana",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "puppet",
+            "name": "puppet",
+            "type": "tool",
+            "frequency": 37
+        },
+        {
+            "id": "chef",
+            "name": "chef",
+            "type": "tool",
+            "frequency": 40
+        },
+        {
+            "id": "azure functions",
+            "name": "azure functions",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "adf",
+            "name": "adf",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "load balancer",
+            "name": "load balancer",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "firewall",
+            "name": "firewall",
+            "type": "tool",
+            "frequency": 18
+        },
+        {
+            "id": "asp.net",
+            "name": "asp.net",
+            "type": "platform",
+            "frequency": 18
+        },
+        {
+            "id": "salesforce.com",
+            "name": "salesforce.com",
+            "type": "platform",
+            "frequency": 10
+        },
+        {
+            "id": "spring",
+            "name": "spring",
+            "type": "tool",
+            "frequency": 17
+        },
+        {
+            "id": "j2ee",
+            "name": "j2ee",
+            "type": "platform",
+            "frequency": 26
+        },
+        {
+            "id": "jsp",
+            "name": "jsp",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "soap",
+            "name": "soap",
+            "type": "concept",
+            "frequency": 18
+        },
+        {
+            "id": "ldap",
+            "name": "ldap",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "cloud computing",
+            "name": "cloud computing",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "hadoop eco-system",
+            "name": "hadoop eco-system",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "distributed computing",
+            "name": "distributed computing",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "object oriented design",
+            "name": "object oriented design",
+            "type": "methodology",
+            "frequency": 8
+        },
+        {
+            "id": "bash",
+            "name": "bash",
+            "type": "language",
+            "frequency": 27
+        },
+        {
+            "id": "zookeeper",
+            "name": "zookeeper",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "hdfs",
+            "name": "hdfs",
+            "type": "platform",
+            "frequency": 10
+        },
+        {
+            "id": "hbase",
+            "name": "hbase",
+            "type": "platform",
+            "frequency": 17
+        },
+        {
+            "id": "itil",
+            "name": "itil",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "cloud",
+            "name": "cloud",
+            "type": "concept",
+            "frequency": 14
+        },
+        {
+            "id": "devops",
+            "name": "devops",
+            "type": "concept",
+            "frequency": 35
+        },
+        {
+            "id": "unit testing",
+            "name": "unit testing",
+            "type": "methodology",
+            "frequency": 6
+        },
+        {
+            "id": "scripting languages",
+            "name": "scripting languages",
+            "type": "language",
+            "frequency": 9
+        },
+        {
+            "id": "ios",
+            "name": "ios",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "software development",
+            "name": "software development",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "c",
+            "name": "c",
+            "type": "language",
+            "frequency": 16
+        },
+        {
+            "id": "powershell scripting",
+            "name": "powershell scripting",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "amazon web services (aws)",
+            "name": "amazon web services (aws)",
+            "type": "platform",
+            "frequency": 17
+        },
+        {
+            "id": "google cloud platform (gcp)",
+            "name": "google cloud platform (gcp)",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "r",
+            "name": "r",
+            "type": "language",
+            "frequency": 17
+        },
+        {
+            "id": "sql server",
+            "name": "sql server",
+            "type": "database",
+            "frequency": 38
+        },
+        {
+            "id": "oracle",
+            "name": "oracle",
+            "type": "database",
+            "frequency": 55
+        },
+        {
+            "id": "subversion",
+            "name": "subversion",
+            "type": "DevOps",
+            "frequency": 5
+        },
+        {
+            "id": "data science",
+            "name": "data science",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "storage",
+            "name": "storage",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "virtualization",
+            "name": "virtualization",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "yaml",
+            "name": "yaml",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "elk",
+            "name": "elk",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "microsoft cloud",
+            "name": "microsoft cloud",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "cloud architectures",
+            "name": "cloud architectures",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "site reliability principles",
+            "name": "site reliability principles",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "configuration management",
+            "name": "configuration management",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "mdm",
+            "name": "mdm",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "nginx",
+            "name": "nginx",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "elastic search",
+            "name": "elastic search",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "openstack",
+            "name": "openstack",
+            "type": "platform",
+            "frequency": 13
+        },
+        {
+            "id": "cloud services",
+            "name": "cloud services",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "o365",
+            "name": "o365",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "shell",
+            "name": "shell",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "monitoring",
+            "name": "monitoring",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "github",
+            "name": "github",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "automation",
+            "name": "automation",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "sas",
+            "name": "sas",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "rust",
+            "name": "rust",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "apache spark",
+            "name": "apache spark",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "html5",
+            "name": "html5",
+            "type": "language",
+            "frequency": 30
+        },
+        {
+            "id": "css3",
+            "name": "css3",
+            "type": "language",
+            "frequency": 10
+        },
+        {
+            "id": "aws services",
+            "name": "aws services",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "api gateway",
+            "name": "api gateway",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "problem solving",
+            "name": "problem solving",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "pl/sql",
+            "name": "pl/sql",
+            "type": "language",
+            "frequency": 6
+        },
+        {
+            "id": "unix",
+            "name": "unix",
+            "type": "platform",
+            "frequency": 22
+        },
+        {
+            "id": "visual studio",
+            "name": "visual studio",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "tfs",
+            "name": "tfs",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "agile methodologies",
+            "name": "agile methodologies",
+            "type": "methodology",
+            "frequency": 10
+        },
+        {
+            "id": "mulesoft",
+            "name": "mulesoft",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "selenium",
+            "name": "selenium",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "data analysis",
+            "name": "data analysis",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "salesforce",
+            "name": "salesforce",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "testing",
+            "name": "testing",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "database technologies",
+            "name": "database technologies",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "confluence",
+            "name": "confluence",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "aws iam",
+            "name": "aws iam",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "security",
+            "name": "security",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "agile/scrum",
+            "name": "agile/scrum",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "project management",
+            "name": "project management",
+            "type": "concept",
+            "frequency": 14
+        },
+        {
+            "id": "data modeling",
+            "name": "data modeling",
+            "type": "concept",
+            "frequency": 18
+        },
+        {
+            "id": "etl",
+            "name": "etl",
+            "type": "concept",
+            "frequency": 13
+        },
+        {
+            "id": "continuous delivery",
+            "name": "continuous delivery",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "hibernate",
+            "name": "hibernate",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "logstash",
+            "name": "logstash",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "cloud security",
+            "name": "cloud security",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "active directory",
+            "name": "active directory",
+            "type": "tool",
+            "frequency": 27
+        },
+        {
+            "id": "vpn",
+            "name": "vpn",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "cloud foundry",
+            "name": "cloud foundry",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "t-sql",
+            "name": "t-sql",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "db2",
+            "name": "db2",
+            "type": "platform",
+            "frequency": 10
+        },
+        {
+            "id": "automated testing",
+            "name": "automated testing",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "artifactory",
+            "name": "artifactory",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "tomcat",
+            "name": "tomcat",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "teradata",
+            "name": "teradata",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "cisco",
+            "name": "cisco",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "window",
+            "name": "window",
+            "type": "platform",
+            "frequency": 22
+        },
+        {
+            "id": "iis",
+            "name": "iis",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "websphere",
+            "name": "websphere",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "san",
+            "name": "san",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "jenkins",
+            "name": "jenkins",
+            "type": "tool",
+            "frequency": 24
+        },
+        {
+            "id": "pki",
+            "name": "pki",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "cissp",
+            "name": "cissp",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "encryption",
+            "name": "encryption",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "html 5",
+            "name": "html 5",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "angular js",
+            "name": "angular js",
+            "type": "framework",
+            "frequency": 8
+        },
+        {
+            "id": "erp",
+            "name": "erp",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "togaf",
+            "name": "togaf",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "data architecture",
+            "name": "data architecture",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "information security",
+            "name": "information security",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "big data technologies",
+            "name": "big data technologies",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "soa",
+            "name": "soa",
+            "type": "concept",
+            "frequency": 16
+        },
+        {
+            "id": "data warehousing",
+            "name": "data warehousing",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "enterprise architecture",
+            "name": "enterprise architecture",
+            "type": "concept",
+            "frequency": 17
+        },
+        {
+            "id": "network security",
+            "name": "network security",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "oracle hcm cloud",
+            "name": "oracle hcm cloud",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "oracle ebs hcm",
+            "name": "oracle ebs hcm",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "ms visio",
+            "name": "ms visio",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "ms powerpoint",
+            "name": "ms powerpoint",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "jboss",
+            "name": "jboss",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "hp",
+            "name": "hp",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "etl tool",
+            "name": "etl tool",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "data governance",
+            "name": "data governance",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "webservice",
+            "name": "webservice",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "bootstrap",
+            "name": "bootstrap",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "wcf",
+            "name": "wcf",
+            "type": "platform",
+            "frequency": 13
+        },
+        {
+            "id": "vb.net",
+            "name": "vb.net",
+            "type": "language",
+            "frequency": 7
+        },
+        {
+            "id": "mvc",
+            "name": "mvc",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "web api",
+            "name": "web api",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "xslt",
+            "name": "xslt",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "xp",
+            "name": "xp",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "sharepoint",
+            "name": "sharepoint",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "web service",
+            "name": "web service",
+            "type": "tool",
+            "frequency": 20
+        },
+        {
+            "id": "informatica",
+            "name": "informatica",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "ms sql server",
+            "name": "ms sql server",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "apex",
+            "name": "apex",
+            "type": "language",
+            "frequency": 7
+        },
+        {
+            "id": "visualforce",
+            "name": "visualforce",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "android",
+            "name": "android",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "sdlc",
+            "name": "sdlc",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "network",
+            "name": "network",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "design pattern",
+            "name": "design pattern",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "web development",
+            "name": "web development",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "lean",
+            "name": "lean",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "scaled agile framework (safe)",
+            "name": "scaled agile framework (safe)",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "test automation",
+            "name": "test automation",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "netbackup",
+            "name": "netbackup",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "uml",
+            "name": "uml",
+            "type": "tool",
+            "frequency": 14
+        },
+        {
+            "id": "agile methodology",
+            "name": "agile methodology",
+            "type": "methodology",
+            "frequency": 9
+        },
+        {
+            "id": "f5",
+            "name": "f5",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "waterfall",
+            "name": "waterfall",
+            "type": "methodology",
+            "frequency": 7
+        },
+        {
+            "id": "sqoop",
+            "name": "sqoop",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "flume",
+            "name": "flume",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "junit",
+            "name": "junit",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "sap",
+            "name": "sap",
+            "type": "platform",
+            "frequency": 11
+        },
+        {
+            "id": "wireless",
+            "name": "wireless",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "visio",
+            "name": "visio",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "data structures",
+            "name": "data structures",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "api design",
+            "name": "api design",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "pig",
+            "name": "pig",
+            "type": "tool",
+            "frequency": 15
+        },
+        {
+            "id": "apache",
+            "name": "apache",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "map reduce",
+            "name": "map reduce",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "storm",
+            "name": "storm",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "distributed systems",
+            "name": "distributed systems",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "emc",
+            "name": "emc",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft sql server",
+            "name": "microsoft sql server",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": ".net frameworks",
+            "name": ".net frameworks",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "network protocol",
+            "name": "network protocol",
+            "type": "concept",
+            "frequency": 5
+        }
+    ],
+    "relationships": [
+        {
+            "source": "python",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.2981651376146789,
+            "lift": 1.5719830628087508
+        },
+        {
+            "source": "python",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4954128440366973,
+            "lift": 1.6228413383702105
+        },
+        {
+            "source": "java",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.23529411764705885,
+            "lift": 1.2405151409676298
+        },
+        {
+            "source": "java",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.21323529411764705,
+            "lift": 1.6666021671826625
+        },
+        {
+            "source": "java",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.3970588235294118,
+            "lift": 1.6228413383702107
+        },
+        {
+            "source": "aws",
+            "target": "azure",
+            "relationship": "association",
+            "confidence": 0.23668639053254437,
+            "lift": 2.5408141441505663
+        },
+        {
+            "source": "aws",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.37869822485207105,
+            "lift": 1.2405151409676298
+        },
+        {
+            "source": "aws",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.38461538461538464,
+            "lift": 1.571983062808751
+        },
+        {
+            "source": "kafka",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.46666666666666673,
+            "lift": 1.5286764705882354
+        },
+        {
+            "source": "kafka",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 2.043577981651376
+        },
+        {
+            "source": "kafka",
+            "target": "spark",
+            "relationship": "association",
+            "confidence": 0.43333333333333335,
+            "lift": 8.97906976744186
+        },
+        {
+            "source": "microservices",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7058823529411764,
+            "lift": 2.312283737024221
+        },
+        {
+            "source": "json",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.47222222222222215,
+            "lift": 1.5468749999999998
+        },
+        {
+            "source": "json",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.36111111111111105,
+            "lift": 2.822368421052631
+        },
+        {
+            "source": "json",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.41666666666666663,
+            "lift": 9.054878048780488
+        },
+        {
+            "source": "rest",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5217391304347826,
+            "lift": 1.709079283887468
+        },
+        {
+            "source": "xml",
+            "target": "html",
+            "relationship": "association",
+            "confidence": 0.2926829268292683,
+            "lift": 7.048121292023731
+        },
+        {
+            "source": "xml",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4878048780487805,
+            "lift": 1.597919655667145
+        },
+        {
+            "source": "xml",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.41463414634146345,
+            "lift": 3.2406931964056485
+        },
+        {
+            "source": "xml",
+            "target": "json",
+            "relationship": "association",
+            "confidence": 0.36585365853658536,
+            "lift": 9.054878048780488
+        },
+        {
+            "source": "linux",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.32075471698113206,
+            "lift": 1.691079602545495
+        },
+        {
+            "source": "linux",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.3584905660377358,
+            "lift": 1.1743201997780244
+        },
+        {
+            "source": "linux",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.4056603773584906,
+            "lift": 1.6579972303963997
+        },
+        {
+            "source": "spark",
+            "target": "hadoop",
+            "relationship": "association",
+            "confidence": 0.5116279069767441,
+            "lift": 7.726448561292864
+        },
+        {
+            "source": "spark",
+            "target": "hive",
+            "relationship": "association",
+            "confidence": 0.3023255813953488,
+            "lift": 10.774883720930232
+        },
+        {
+            "source": "spark",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5581395348837209,
+            "lift": 1.8283173734610123
+        },
+        {
+            "source": "spark",
+            "target": "kafka",
+            "relationship": "association",
+            "confidence": 0.3023255813953488,
+            "lift": 8.97906976744186
+        },
+        {
+            "source": "spark",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5348837209302325,
+            "lift": 2.186153189673565
+        },
+        {
+            "source": "spark",
+            "target": "scala",
+            "relationship": "association",
+            "confidence": 0.3023255813953488,
+            "lift": 7.922708618331053
+        },
+        {
+            "source": "sql",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.21428571428571425,
+            "lift": 1.129754860524091
+        },
+        {
+            "source": "sql",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4285714285714285,
+            "lift": 1.4038865546218484
+        },
+        {
+            "source": "sql",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.3571428571428571,
+            "lift": 1.4596985583224114
+        },
+        {
+            "source": "js",
+            "target": "c#",
+            "relationship": "association",
+            "confidence": 0.2368421052631579,
+            "lift": 2.6378289473684213
+        },
+        {
+            "source": "js",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.22807017543859648,
+            "lift": 7.25751879699248
+        },
+        {
+            "source": "js",
+            "target": "html",
+            "relationship": "association",
+            "confidence": 0.2368421052631579,
+            "lift": 5.703413940256046
+        },
+        {
+            "source": "js",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5087719298245613,
+            "lift": 1.6666021671826623
+        },
+        {
+            "source": "js",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.35964912280701755,
+            "lift": 1.4699420569773056
+        },
+        {
+            "source": "js",
+            "target": "react",
+            "relationship": "association",
+            "confidence": 0.2192982456140351,
+            "lift": 4.157334826427772
+        },
+        {
+            "source": "react",
+            "target": "angular",
+            "relationship": "association",
+            "confidence": 0.36170212765957444,
+            "lift": 9.76595744680851
+        },
+        {
+            "source": "react",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.2978723404255319,
+            "lift": 1.57043938058668
+        },
+        {
+            "source": "react",
+            "target": "c#",
+            "relationship": "association",
+            "confidence": 0.276595744680851,
+            "lift": 3.0805851063829786
+        },
+        {
+            "source": "react",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.48936170212765956,
+            "lift": 1.6030193992490613
+        },
+        {
+            "source": "react",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5319148936170213,
+            "lift": 4.157334826427771
+        },
+        {
+            "source": "angular",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4848484848484849,
+            "lift": 1.5882352941176472
+        },
+        {
+            "source": "angular",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.5757575757575758,
+            "lift": 4.5
+        },
+        {
+            "source": "angular",
+            "target": "react",
+            "relationship": "association",
+            "confidence": 0.5151515151515151,
+            "lift": 9.76595744680851
+        },
+        {
+            "source": "kubernetes",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.21212121212121215,
+            "lift": 4.725000000000001
+        },
+        {
+            "source": "kubernetes",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.4545454545454546,
+            "lift": 2.3964497041420123
+        },
+        {
+            "source": "kubernetes",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.5454545454545455,
+            "lift": 7.838709677419356
+        },
+        {
+            "source": "kubernetes",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4090909090909091,
+            "lift": 1.3400735294117647
+        },
+        {
+            "source": "kubernetes",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.2272727272727273,
+            "lift": 1.9103773584905661
+        },
+        {
+            "source": "kubernetes",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5151515151515151,
+            "lift": 2.1055045871559632
+        },
+        {
+            "source": "kubernetes",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.3484848484848485,
+            "lift": 7.22093023255814
+        },
+        {
+            "source": "machine learning",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.65,
+            "lift": 2.656651376146789
+        },
+        {
+            "source": "c++",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.24489795918367346,
+            "lift": 1.291148412027533
+        },
+        {
+            "source": "c++",
+            "target": "c#",
+            "relationship": "association",
+            "confidence": 0.30612244897959184,
+            "lift": 3.4094387755102042
+        },
+        {
+            "source": "c++",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6938775510204082,
+            "lift": 2.2729591836734695
+        },
+        {
+            "source": "c++",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.4285714285714286,
+            "lift": 1.751638269986894
+        },
+        {
+            "source": "c/c++",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.76,
+            "lift": 2.489558823529412
+        },
+        {
+            "source": "c/c++",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.48,
+            "lift": 3.751578947368421
+        },
+        {
+            "source": "c/c++",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.76,
+            "lift": 3.106238532110092
+        },
+        {
+            "source": "docker",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.25806451612903225,
+            "lift": 5.748387096774194
+        },
+        {
+            "source": "docker",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.48387096774193544,
+            "lift": 2.5510593624737545
+        },
+        {
+            "source": "docker",
+            "target": "azure",
+            "relationship": "association",
+            "confidence": 0.22580645161290325,
+            "lift": 2.4240186552662264
+        },
+        {
+            "source": "docker",
+            "target": "git",
+            "relationship": "association",
+            "confidence": 0.22580645161290325,
+            "lift": 3.944971537001898
+        },
+        {
+            "source": "docker",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4193548387096774,
+            "lift": 1.3736954459203035
+        },
+        {
+            "source": "docker",
+            "target": "jenkin",
+            "relationship": "association",
+            "confidence": 0.24193548387096772,
+            "lift": 8.622580645161289
+        },
+        {
+            "source": "docker",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5806451612903226,
+            "lift": 7.838709677419356
+        },
+        {
+            "source": "docker",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.25806451612903225,
+            "lift": 2.1692026780279976
+        },
+        {
+            "source": "docker",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5806451612903226,
+            "lift": 2.3731873335306304
+        },
+        {
+            "source": "docker",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.3870967741935484,
+            "lift": 8.021005251312827
+        },
+        {
+            "source": "terraform",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.27906976744186046,
+            "lift": 6.216279069767443
+        },
+        {
+            "source": "terraform",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.6744186046511627,
+            "lift": 3.5556625842851237
+        },
+        {
+            "source": "terraform",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.5581395348837209,
+            "lift": 8.021005251312827
+        },
+        {
+            "source": "terraform",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.441860465116279,
+            "lift": 1.4474179206566347
+        },
+        {
+            "source": "terraform",
+            "target": "jenkin",
+            "relationship": "association",
+            "confidence": 0.27906976744186046,
+            "lift": 9.946046511627907
+        },
+        {
+            "source": "terraform",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5348837209302325,
+            "lift": 7.220930232558139
+        },
+        {
+            "source": "terraform",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.627906976744186,
+            "lift": 2.5663537443994024
+        },
+        {
+            "source": "node",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.4285714285714285,
+            "lift": 2.259509721048182
+        },
+        {
+            "source": "node",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6785714285714285,
+            "lift": 2.22282037815126
+        },
+        {
+            "source": "node",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.6428571428571429,
+            "lift": 5.0244360902255645
+        },
+        {
+            "source": "node",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.4285714285714285,
+            "lift": 1.7516382699868935
+        },
+        {
+            "source": "scala",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.823529411764706,
+            "lift": 2.697664359861592
+        },
+        {
+            "source": "scala",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 2.043577981651376
+        },
+        {
+            "source": "scala",
+            "target": "spark",
+            "relationship": "association",
+            "confidence": 0.38235294117647056,
+            "lift": 7.922708618331052
+        },
+        {
+            "source": "azure",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.48192771084337344,
+            "lift": 2.5408141441505663
+        },
+        {
+            "source": "azure",
+            "target": "c#",
+            "relationship": "association",
+            "confidence": 0.24096385542168672,
+            "lift": 2.683734939759036
+        },
+        {
+            "source": "azure",
+            "target": "gcp",
+            "relationship": "association",
+            "confidence": 0.20481927710843373,
+            "lift": 6.759036144578313
+        },
+        {
+            "source": "azure",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.36144578313253006,
+            "lift": 1.1840007087172217
+        },
+        {
+            "source": "azure",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.36144578313253006,
+            "lift": 1.4772852879407536
+        },
+        {
+            "source": "agile",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.26785714285714285,
+            "lift": 0.8774290966386554
+        },
+        {
+            "source": "agile",
+            "target": "scrum",
+            "relationship": "association",
+            "confidence": 0.26785714285714285,
+            "lift": 10.848214285714286
+        },
+        {
+            "source": "git",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.27450980392156865,
+            "lift": 1.4472676644622346
+        },
+        {
+            "source": "git",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.27450980392156865,
+            "lift": 3.944971537001898
+        },
+        {
+            "source": "git",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.3137254901960784,
+            "lift": 1.027681660899654
+        },
+        {
+            "source": "git",
+            "target": "jenkin",
+            "relationship": "association",
+            "confidence": 0.2941176470588235,
+            "lift": 10.482352941176469
+        },
+        {
+            "source": "git",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.2352941176470588,
+            "lift": 3.176470588235294
+        },
+        {
+            "source": "git",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.2549019607843137,
+            "lift": 2.1426193118756935
+        },
+        {
+            "source": "git",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.4705882352941176,
+            "lift": 1.9233675121424714
+        },
+        {
+            "source": "jenkin",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.48,
+            "lift": 2.5306508875739646
+        },
+        {
+            "source": "jenkin",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.6,
+            "lift": 8.622580645161289
+        },
+        {
+            "source": "jenkin",
+            "target": "git",
+            "relationship": "association",
+            "confidence": 0.6,
+            "lift": 10.482352941176469
+        },
+        {
+            "source": "jenkin",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.52,
+            "lift": 1.7033823529411765
+        },
+        {
+            "source": "jenkin",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.64,
+            "lift": 2.6157798165137613
+        },
+        {
+            "source": "jenkin",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.48,
+            "lift": 9.946046511627905
+        },
+        {
+            "source": "c#",
+            "target": "azure",
+            "relationship": "association",
+            "confidence": 0.25,
+            "lift": 2.6837349397590358
+        },
+        {
+            "source": "c#",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5125000000000001,
+            "lift": 1.6788143382352942
+        },
+        {
+            "source": "c#",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.3375,
+            "lift": 2.6378289473684213
+        },
+        {
+            "source": "c#",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.325,
+            "lift": 1.3283256880733945
+        },
+        {
+            "source": "html",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.5135135135135135,
+            "lift": 16.34073359073359
+        },
+        {
+            "source": "html",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.48648648648648657,
+            "lift": 1.5936009538950717
+        },
+        {
+            "source": "html",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.7297297297297298,
+            "lift": 5.703413940256047
+        },
+        {
+            "source": "html",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.32432432432432434,
+            "lift": 7.0481212920237315
+        },
+        {
+            "source": "css",
+            "target": "html",
+            "relationship": "association",
+            "confidence": 0.6785714285714285,
+            "lift": 16.34073359073359
+        },
+        {
+            "source": "css",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 1.6378676470588236
+        },
+        {
+            "source": "css",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.9285714285714285,
+            "lift": 7.25751879699248
+        },
+        {
+            "source": "perl",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.4242424242424243,
+            "lift": 2.2366863905325447
+        },
+        {
+            "source": "perl",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5151515151515151,
+            "lift": 1.6875
+        },
+        {
+            "source": "perl",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7272727272727273,
+            "lift": 2.9724770642201834
+        },
+        {
+            "source": "perl",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.4848484848484849,
+            "lift": 10.53658536585366
+        },
+        {
+            "source": "unix/linux",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6842105263157895,
+            "lift": 2.7964751327860937
+        },
+        {
+            "source": "powershell",
+            "target": "azure",
+            "relationship": "association",
+            "confidence": 0.38235294117647056,
+            "lift": 4.1045357902197015
+        },
+        {
+            "source": "powershell",
+            "target": "c#",
+            "relationship": "association",
+            "confidence": 0.4705882352941177,
+            "lift": 5.241176470588236
+        },
+        {
+            "source": "powershell",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.3529411764705882,
+            "lift": 1.1561418685121105
+        },
+        {
+            "source": "powershell",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6470588235294117,
+            "lift": 2.6446303291958984
+        },
+        {
+            "source": "jquery",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.6296296296296297,
+            "lift": 4.921052631578948
+        },
+        {
+            "source": "nosql",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.35135135135135137,
+            "lift": 1.8523908523908525
+        },
+        {
+            "source": "nosql",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5135135135135135,
+            "lift": 1.6821343402225755
+        },
+        {
+            "source": "nosql",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.4324324324324325,
+            "lift": 3.4401544401544406
+        },
+        {
+            "source": "ansible",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.55,
+            "lift": 2.8997041420118346
+        },
+        {
+            "source": "ansible",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.525,
+            "lift": 11.99423076923077
+        },
+        {
+            "source": "ansible",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.4000000000000001,
+            "lift": 5.748387096774194
+        },
+        {
+            "source": "ansible",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.35000000000000003,
+            "lift": 1.1465073529411767
+        },
+        {
+            "source": "ansible",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.35000000000000003,
+            "lift": 4.7250000000000005
+        },
+        {
+            "source": "ansible",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 3.152122641509434
+        },
+        {
+            "source": "ansible",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.47500000000000003,
+            "lift": 11.438513513513515
+        },
+        {
+            "source": "ansible",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.65,
+            "lift": 2.656651376146789
+        },
+        {
+            "source": "ansible",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.3,
+            "lift": 6.519512195121951
+        },
+        {
+            "source": "ansible",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.3,
+            "lift": 6.216279069767442
+        },
+        {
+            "source": "hadoop",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.2542372881355932,
+            "lift": 1.3403871226557016
+        },
+        {
+            "source": "hadoop",
+            "target": "hive",
+            "relationship": "association",
+            "confidence": 0.2542372881355932,
+            "lift": 9.061016949152542
+        },
+        {
+            "source": "hadoop",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.44067796610169485,
+            "lift": 1.443544366899302
+        },
+        {
+            "source": "hadoop",
+            "target": "nosql",
+            "relationship": "association",
+            "confidence": 0.23728813559322035,
+            "lift": 5.714154832798901
+        },
+        {
+            "source": "hadoop",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.38983050847457623,
+            "lift": 1.5932980873892084
+        },
+        {
+            "source": "hadoop",
+            "target": "spark",
+            "relationship": "association",
+            "confidence": 0.37288135593220334,
+            "lift": 7.726448561292864
+        },
+        {
+            "source": "hadoop",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.28813559322033894,
+            "lift": 2.2922215496368032
+        },
+        {
+            "source": "hive",
+            "target": "hadoop",
+            "relationship": "association",
+            "confidence": 0.6,
+            "lift": 9.061016949152542
+        },
+        {
+            "source": "hive",
+            "target": "hbase",
+            "relationship": "association",
+            "confidence": 0.48,
+            "lift": 25.157647058823528
+        },
+        {
+            "source": "hive",
+            "target": "pig",
+            "relationship": "association",
+            "confidence": 0.6,
+            "lift": 35.64
+        },
+        {
+            "source": "hive",
+            "target": "spark",
+            "relationship": "association",
+            "confidence": 0.52,
+            "lift": 10.774883720930232
+        },
+        {
+            "source": "ruby",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.2926829268292683,
+            "lift": 6.519512195121951
+        },
+        {
+            "source": "ruby",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.36585365853658536,
+            "lift": 1.9288497618703997
+        },
+        {
+            "source": "ruby",
+            "target": "bash",
+            "relationship": "association",
+            "confidence": 0.34146341463414637,
+            "lift": 11.26829268292683
+        },
+        {
+            "source": "ruby",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5853658536585366,
+            "lift": 1.9175035868005739
+        },
+        {
+            "source": "ruby",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.2926829268292683,
+            "lift": 2.4601932811780944
+        },
+        {
+            "source": "ruby",
+            "target": "perl",
+            "relationship": "association",
+            "confidence": 0.39024390243902446,
+            "lift": 10.53658536585366
+        },
+        {
+            "source": "ruby",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7804878048780489,
+            "lift": 3.1899753859923927
+        },
+        {
+            "source": "mysql",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5555555555555556,
+            "lift": 2.9289940828402368
+        },
+        {
+            "source": "mysql",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4444444444444444,
+            "lift": 1.4558823529411764
+        },
+        {
+            "source": "mysql",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.48148148148148145,
+            "lift": 1.9678899082568806
+        },
+        {
+            "source": ".net",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.47826086956521735,
+            "lift": 1.566656010230179
+        },
+        {
+            "source": "gcp",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.8518518518518519,
+            "lift": 4.49112426035503
+        },
+        {
+            "source": "gcp",
+            "target": "azure",
+            "relationship": "association",
+            "confidence": 0.6296296296296297,
+            "lift": 6.759036144578313
+        },
+        {
+            "source": "gcp",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5185185185185186,
+            "lift": 1.698529411764706
+        },
+        {
+            "source": "gcp",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5185185185185186,
+            "lift": 2.119266055045872
+        },
+        {
+            "source": "mongodb",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 2.636094674556213
+        },
+        {
+            "source": "mongodb",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4615384615384615,
+            "lift": 1.5118778280542986
+        },
+        {
+            "source": "mongodb",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5384615384615385,
+            "lift": 2.2007762879322517
+        },
+        {
+            "source": "scrum",
+            "target": "agile",
+            "relationship": "association",
+            "confidence": 0.6818181818181819,
+            "lift": 10.848214285714286
+        },
+        {
+            "source": "go",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6774193548387096,
+            "lift": 2.219046489563567
+        },
+        {
+            "source": "go",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.3870967741935484,
+            "lift": 5.225806451612903
+        },
+        {
+            "source": "go",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6774193548387096,
+            "lift": 2.7687185557857354
+        },
+        {
+            "source": "puppet",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.5135135135135135,
+            "lift": 11.438513513513513
+        },
+        {
+            "source": "puppet",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5405405405405406,
+            "lift": 2.8498320806013115
+        },
+        {
+            "source": "puppet",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.864864864864865,
+            "lift": 19.75883575883576
+        },
+        {
+            "source": "puppet",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.32432432432432434,
+            "lift": 1.0624006359300477
+        },
+        {
+            "source": "puppet",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.35135135135135137,
+            "lift": 2.953340132585416
+        },
+        {
+            "source": "puppet",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5135135135135135,
+            "lift": 2.0988098189933053
+        },
+        {
+            "source": "chef",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.5384615384615384,
+            "lift": 11.99423076923077
+        },
+        {
+            "source": "chef",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.48717948717948717,
+            "lift": 2.568502503413746
+        },
+        {
+            "source": "chef",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.3333333333333333,
+            "lift": 1.0919117647058822
+        },
+        {
+            "source": "chef",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.3333333333333333,
+            "lift": 2.80188679245283
+        },
+        {
+            "source": "chef",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.8205128205128206,
+            "lift": 19.75883575883576
+        },
+        {
+            "source": "chef",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5128205128205128,
+            "lift": 2.0959774170783345
+        },
+        {
+            "source": "asp.net",
+            "target": "c#",
+            "relationship": "association",
+            "confidence": 0.823529411764706,
+            "lift": 9.172058823529413
+        },
+        {
+            "source": "spring",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.823529411764706,
+            "lift": 2.697664359861592
+        },
+        {
+            "source": "j2ee",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.576923076923077,
+            "lift": 1.8898472850678736
+        },
+        {
+            "source": "bash",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.4444444444444444,
+            "lift": 2.3431952662721893
+        },
+        {
+            "source": "bash",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.4444444444444444,
+            "lift": 3.735849056603773
+        },
+        {
+            "source": "bash",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9259259259259259,
+            "lift": 3.7844036697247705
+        },
+        {
+            "source": "bash",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.5185185185185186,
+            "lift": 11.268292682926832
+        },
+        {
+            "source": "hbase",
+            "target": "hive",
+            "relationship": "association",
+            "confidence": 0.7058823529411764,
+            "lift": 25.157647058823528
+        },
+        {
+            "source": "devops",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5428571428571428,
+            "lift": 2.862045646661031
+        },
+        {
+            "source": "amazon web services (aws)",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7058823529411764,
+            "lift": 2.885051268213707
+        },
+        {
+            "source": "r",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.8823529411764706,
+            "lift": 3.6063140852671345
+        },
+        {
+            "source": "sql server",
+            "target": "c#",
+            "relationship": "association",
+            "confidence": 0.368421052631579,
+            "lift": 4.103289473684211
+        },
+        {
+            "source": "sql server",
+            "target": "oracle",
+            "relationship": "association",
+            "confidence": 0.368421052631579,
+            "lift": 5.96842105263158
+        },
+        {
+            "source": "oracle",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4545454545454546,
+            "lift": 1.4889705882352942
+        },
+        {
+            "source": "oracle",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.29090909090909095,
+            "lift": 2.3142857142857145
+        },
+        {
+            "source": "oracle",
+            "target": "sql server",
+            "relationship": "association",
+            "confidence": 0.2545454545454546,
+            "lift": 5.968421052631579
+        },
+        {
+            "source": "html5",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.39999999999999997,
+            "lift": 1.3102941176470588
+        },
+        {
+            "source": "html5",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.6333333333333333,
+            "lift": 4.95
+        },
+        {
+            "source": "unix",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5909090909090909,
+            "lift": 1.9356617647058825
+        },
+        {
+            "source": "window",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.7727272727272728,
+            "lift": 6.495283018867926
+        },
+        {
+            "source": "jenkins",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 2.636094674556213
+        },
+        {
+            "source": "pig",
+            "target": "hive",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 35.64
+        },
+        {
+            "source": "sql",
+            "target": "database",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "database",
+            "target": "data modeling",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "data modeling",
+            "target": "data architecture",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "database",
+            "target": "rdbms",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "database",
+            "target": "nosql",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "sql",
+            "target": "oracle",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "sql",
+            "target": "sql server",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "sql",
+            "target": "mysql",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "sql",
+            "target": "postgresql",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "data modeling",
+            "target": "data warehousing",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "data modeling",
+            "target": "dimensional modeling",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "data warehousing",
+            "target": "etl",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "etl",
+            "target": "informatica",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "etl",
+            "target": "data integration",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "data integration",
+            "target": "data governance",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "python",
+            "target": "pandas",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "python",
+            "target": "data analysis",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "data modeling",
+            "target": "er modeling",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "nosql",
+            "target": "mongodb",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "nosql",
+            "target": "cassandra",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "nosql",
+            "target": "redis",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "cloud",
+            "target": "aws",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "cloud",
+            "target": "azure",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "cloud",
+            "target": "gcp",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "aws",
+            "target": "s3",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "aws",
+            "target": "redshift",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "big data",
+            "target": "hadoop",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "hadoop",
+            "target": "hdfs",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "hadoop",
+            "target": "mapreduce",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "hadoop",
+            "target": "hive",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "hadoop",
+            "target": "hbase",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "hadoop",
+            "target": "spark",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "big data",
+            "target": "data lake",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "spark",
+            "target": "databricks",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "data warehousing",
+            "target": "snowflake",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "linux",
+            "target": "bash",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "linux",
+            "target": "shell scripting",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "linux",
+            "target": "scripting",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "scripting",
+            "target": "automation",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "automation",
+            "target": "ci/cd",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "git",
+            "target": "github",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "git",
+            "target": "bitbucket",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "python",
+            "target": "flask",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "python",
+            "target": "django",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "java",
+            "target": "spring",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "java",
+            "target": "hibernate",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "docker",
+            "target": "kubernetes",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "kubernetes",
+            "target": "helm",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "api",
+            "target": "rest api",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "api",
+            "target": "graphql",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "rest",
+            "target": "soap",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "networking",
+            "target": "tcp/ip",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "networking",
+            "target": "http",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "data science",
+            "target": "machine learning",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "data modeling",
+            "target": "uml",
+            "relationship": "prerequisite",
+            "weight": 0.84
+        },
+        {
+            "source": "software development",
+            "target": "sdlc",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "agile",
+            "target": "scrum",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "agile",
+            "target": "kanban",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "project management",
+            "target": "agile",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "kafka",
+            "target": "rabbitmq",
+            "relationship": "prerequisite",
+            "weight": 0.8
+        },
+        {
+            "source": "kafka",
+            "target": "event-driven architecture",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "data architecture",
+            "target": "enterprise architecture",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "enterprise architecture",
+            "target": "togaf",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "distributed system",
+            "target": "microservices",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "service oriented architecture",
+            "target": "soa",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "data quality",
+            "target": "data governance",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "security",
+            "target": "network security",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "security",
+            "target": "cloud security",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "security",
+            "target": "encryption",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "security",
+            "target": "active directory",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "mysql",
+            "target": "database",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "postgresql",
+            "target": "database",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "oracle",
+            "target": "database",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "sql server",
+            "target": "database",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "data warehouse",
+            "target": "olap",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "database",
+            "target": "oltp",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "data warehousing",
+            "target": "business intelligence",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "business intelligence",
+            "target": "tableau",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "data visualization",
+            "target": "tableau",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "etl",
+            "target": "data pipeline",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "data pipeline",
+            "target": "airflow",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "monitoring",
+            "target": "splunk",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "monitoring",
+            "target": "prometheus",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "monitoring",
+            "target": "grafana",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "terraform",
+            "target": "infrastructure as code",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "puppet",
+            "target": "infrastructure as code",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "chef",
+            "target": "infrastructure as code",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "ansible",
+            "target": "infrastructure as code",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "cloud",
+            "target": "iaas",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "cloud",
+            "target": "paas",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "cloud",
+            "target": "saas",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "devops",
+            "target": "ci/cd",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "devops",
+            "target": "continuous integration",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "devops",
+            "target": "infrastructure as code",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "go",
+            "target": "distributed systems",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "java",
+            "target": "distributed systems",
+            "relationship": "prerequisite",
+            "weight": 0.84
+        },
+        {
+            "source": "scripting languages",
+            "target": "python",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "scripting languages",
+            "target": "perl",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "scripting languages",
+            "target": "bash",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "elasticsearch",
+            "target": "kibana",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "elasticsearch",
+            "target": "logstash",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "elk",
+            "target": "log analysis",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "virtualization",
+            "target": "vmware",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "virtualization",
+            "target": "docker",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "data",
+            "target": "data lifecycle",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "data lifecycle",
+            "target": "data governance",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "firewall",
+            "target": "network security",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "load balancer",
+            "target": "high availability",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "load balancer",
+            "target": "scalability",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "agile methodologies",
+            "target": "tdd",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "data structure",
+            "target": "algorithm",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "algorithm",
+            "target": "problem solving",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "object oriented design",
+            "target": "design patterns",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "cloud architectures",
+            "target": "site reliability principles",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        }
+    ]
+}

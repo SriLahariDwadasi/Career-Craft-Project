@@ -1,0 +1,2791 @@
+{
+    "skills": [
+        {
+            "id": "c#",
+            "name": "c#",
+            "type": "language",
+            "frequency": 91
+        },
+        {
+            "id": ".net frameworks",
+            "name": ".net frameworks",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "sql",
+            "name": "sql",
+            "type": "language",
+            "frequency": 222
+        },
+        {
+            "id": "powershell",
+            "name": "powershell",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": "visual studio",
+            "name": "visual studio",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "git",
+            "name": "git",
+            "type": "tool",
+            "frequency": 43
+        },
+        {
+            "id": "software development",
+            "name": "software development",
+            "type": "concept",
+            "frequency": 17
+        },
+        {
+            "id": "microsoft office",
+            "name": "microsoft office",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "spark",
+            "name": "spark",
+            "type": "tool",
+            "frequency": 37
+        },
+        {
+            "id": "hadoop",
+            "name": "hadoop",
+            "type": "tool",
+            "frequency": 31
+        },
+        {
+            "id": "java",
+            "name": "java",
+            "type": "language",
+            "frequency": 238
+        },
+        {
+            "id": "scala",
+            "name": "scala",
+            "type": "language",
+            "frequency": 24
+        },
+        {
+            "id": "networking",
+            "name": "networking",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "nosql",
+            "name": "nosql",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "c++",
+            "name": "c++",
+            "type": "language",
+            "frequency": 104
+        },
+        {
+            "id": "cuda",
+            "name": "cuda",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "linear algebra",
+            "name": "linear algebra",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "linux",
+            "name": "linux",
+            "type": "platform",
+            "frequency": 78
+        },
+        {
+            "id": "data structure",
+            "name": "data structure",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "embedded system",
+            "name": "embedded system",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "angular",
+            "name": "angular",
+            "type": "tool",
+            "frequency": 19
+        },
+        {
+            "id": "azure",
+            "name": "azure",
+            "type": "platform",
+            "frequency": 16
+        },
+        {
+            "id": "maven",
+            "name": "maven",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "jenkin",
+            "name": "jenkin",
+            "type": "tool",
+            "frequency": 24
+        },
+        {
+            "id": "perl",
+            "name": "perl",
+            "type": "language",
+            "frequency": 45
+        },
+        {
+            "id": "python",
+            "name": "python",
+            "type": "language",
+            "frequency": 273
+        },
+        {
+            "id": "c/c++",
+            "name": "c/c++",
+            "type": "language",
+            "frequency": 46
+        },
+        {
+            "id": "unit testing",
+            "name": "unit testing",
+            "type": "methodology",
+            "frequency": 7
+        },
+        {
+            "id": "continuous integration",
+            "name": "continuous integration",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "relational database",
+            "name": "relational database",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "data warehousing",
+            "name": "data warehousing",
+            "type": "concept",
+            "frequency": 13
+        },
+        {
+            "id": "machine learning",
+            "name": "machine learning",
+            "type": "concept",
+            "frequency": 76
+        },
+        {
+            "id": "data science",
+            "name": "data science",
+            "type": "concept",
+            "frequency": 15
+        },
+        {
+            "id": "big data",
+            "name": "big data",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "aws",
+            "name": "aws",
+            "type": "platform",
+            "frequency": 64
+        },
+        {
+            "id": "natural language processing (nlp)",
+            "name": "natural language processing (nlp)",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "information retrieval",
+            "name": "information retrieval",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "deep learning",
+            "name": "deep learning",
+            "type": "concept",
+            "frequency": 18
+        },
+        {
+            "id": "keras",
+            "name": "keras",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "mahout",
+            "name": "mahout",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "scikit learn",
+            "name": "scikit learn",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "c",
+            "name": "c",
+            "type": "language",
+            "frequency": 32
+        },
+        {
+            "id": "eclipse",
+            "name": "eclipse",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "tfs",
+            "name": "tfs",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "kafka",
+            "name": "kafka",
+            "type": "tool",
+            "frequency": 17
+        },
+        {
+            "id": "etl",
+            "name": "etl",
+            "type": "concept",
+            "frequency": 34
+        },
+        {
+            "id": "pl/sql",
+            "name": "pl/sql",
+            "type": "language",
+            "frequency": 16
+        },
+        {
+            "id": "sharepoint",
+            "name": "sharepoint",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "excel",
+            "name": "excel",
+            "type": "tool",
+            "frequency": 25
+        },
+        {
+            "id": "hive",
+            "name": "hive",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": "statistics",
+            "name": "statistics",
+            "type": "concept",
+            "frequency": 17
+        },
+        {
+            "id": "computer vision",
+            "name": "computer vision",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "c programming",
+            "name": "c programming",
+            "type": "language",
+            "frequency": 7
+        },
+        {
+            "id": "html",
+            "name": "html",
+            "type": "language",
+            "frequency": 34
+        },
+        {
+            "id": "js",
+            "name": "js",
+            "type": "language",
+            "frequency": 86
+        },
+        {
+            "id": "css",
+            "name": "css",
+            "type": "language",
+            "frequency": 25
+        },
+        {
+            "id": "golang",
+            "name": "golang",
+            "type": "language",
+            "frequency": 12
+        },
+        {
+            "id": "power bi",
+            "name": "power bi",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "ruby",
+            "name": "ruby",
+            "type": "language",
+            "frequency": 15
+        },
+        {
+            "id": "cucumber",
+            "name": "cucumber",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "xml",
+            "name": "xml",
+            "type": "concept",
+            "frequency": 60
+        },
+        {
+            "id": "json",
+            "name": "json",
+            "type": "concept",
+            "frequency": 20
+        },
+        {
+            "id": "cryptography",
+            "name": "cryptography",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "postgresql",
+            "name": "postgresql",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "redshift",
+            "name": "redshift",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "github",
+            "name": "github",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "r",
+            "name": "r",
+            "type": "language",
+            "frequency": 48
+        },
+        {
+            "id": "cloud computing",
+            "name": "cloud computing",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "restful api",
+            "name": "restful api",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "jira",
+            "name": "jira",
+            "type": "tool",
+            "frequency": 24
+        },
+        {
+            "id": "ansible",
+            "name": "ansible",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "kubernetes",
+            "name": "kubernetes",
+            "type": "platform",
+            "frequency": 25
+        },
+        {
+            "id": "docker",
+            "name": "docker",
+            "type": "platform",
+            "frequency": 27
+        },
+        {
+            "id": "agile",
+            "name": "agile",
+            "type": "methodology",
+            "frequency": 60
+        },
+        {
+            "id": "automation",
+            "name": "automation",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "algorithm",
+            "name": "algorithm",
+            "type": "concept",
+            "frequency": 13
+        },
+        {
+            "id": "selenium",
+            "name": "selenium",
+            "type": "tool",
+            "frequency": 50
+        },
+        {
+            "id": "sql server",
+            "name": "sql server",
+            "type": "platform",
+            "frequency": 39
+        },
+        {
+            "id": "devops",
+            "name": "devops",
+            "type": "concept",
+            "frequency": 17
+        },
+        {
+            "id": "rest",
+            "name": "rest",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "sdlc",
+            "name": "sdlc",
+            "type": "concept",
+            "frequency": 19
+        },
+        {
+            "id": "labview",
+            "name": "labview",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "software engineering",
+            "name": "software engineering",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "tcp/ip",
+            "name": "tcp/ip",
+            "type": "concept",
+            "frequency": 13
+        },
+        {
+            "id": "microservices",
+            "name": "microservices",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "react",
+            "name": "react",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": "node",
+            "name": "node",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": "sas",
+            "name": "sas",
+            "type": "tool",
+            "frequency": 20
+        },
+        {
+            "id": "spss",
+            "name": "spss",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "automated testing tools",
+            "name": "automated testing tools",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "unix shell scripting",
+            "name": "unix shell scripting",
+            "type": "language",
+            "frequency": 8
+        },
+        {
+            "id": "matlab",
+            "name": "matlab",
+            "type": "tool",
+            "frequency": 18
+        },
+        {
+            "id": "data visualization",
+            "name": "data visualization",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "tensorflow",
+            "name": "tensorflow",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "pytorch",
+            "name": "pytorch",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "confluence",
+            "name": "confluence",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "splunk",
+            "name": "splunk",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "analytics",
+            "name": "analytics",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "data mining",
+            "name": "data mining",
+            "type": "concept",
+            "frequency": 13
+        },
+        {
+            "id": "statistical modeling",
+            "name": "statistical modeling",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "tableau",
+            "name": "tableau",
+            "type": "tool",
+            "frequency": 19
+        },
+        {
+            "id": "a/b testing",
+            "name": "a/b testing",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "rdbms",
+            "name": "rdbms",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "molecular biology",
+            "name": "molecular biology",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "data analytics",
+            "name": "data analytics",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "servicenow",
+            "name": "servicenow",
+            "type": "platform",
+            "frequency": 10
+        },
+        {
+            "id": "oracle",
+            "name": "oracle",
+            "type": "tool",
+            "frequency": 52
+        },
+        {
+            "id": "salesforce",
+            "name": "salesforce",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "informatica",
+            "name": "informatica",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "elasticsearch",
+            "name": "elasticsearch",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "prometheus",
+            "name": "prometheus",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "go",
+            "name": "go",
+            "type": "language",
+            "frequency": 17
+        },
+        {
+            "id": "unix/linux",
+            "name": "unix/linux",
+            "type": "platform",
+            "frequency": 7
+        },
+        {
+            "id": "mysql",
+            "name": "mysql",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": ".net",
+            "name": ".net",
+            "type": "platform",
+            "frequency": 34
+        },
+        {
+            "id": "rest api",
+            "name": "rest api",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "t-sql",
+            "name": "t-sql",
+            "type": "language",
+            "frequency": 11
+        },
+        {
+            "id": "ssis",
+            "name": "ssis",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": "grafana",
+            "name": "grafana",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "bash",
+            "name": "bash",
+            "type": "language",
+            "frequency": 14
+        },
+        {
+            "id": "unix",
+            "name": "unix",
+            "type": "platform",
+            "frequency": 30
+        },
+        {
+            "id": "spring",
+            "name": "spring",
+            "type": "framework",
+            "frequency": 10
+        },
+        {
+            "id": "restful web service",
+            "name": "restful web service",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "database",
+            "name": "database",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "junit",
+            "name": "junit",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "mulesoft",
+            "name": "mulesoft",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "typescript",
+            "name": "typescript",
+            "type": "language",
+            "frequency": 15
+        },
+        {
+            "id": "automated testing",
+            "name": "automated testing",
+            "type": "methodology",
+            "frequency": 13
+        },
+        {
+            "id": "root cause analysis",
+            "name": "root cause analysis",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "statistical analysis",
+            "name": "statistical analysis",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "swift",
+            "name": "swift",
+            "type": "language",
+            "frequency": 7
+        },
+        {
+            "id": "pandas",
+            "name": "pandas",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "ci/cd",
+            "name": "ci/cd",
+            "type": "methodology",
+            "frequency": 11
+        },
+        {
+            "id": "adobe analytics",
+            "name": "adobe analytics",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft office suite",
+            "name": "microsoft office suite",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "spring boot",
+            "name": "spring boot",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "http",
+            "name": "http",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "mpi",
+            "name": "mpi",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "data analysis",
+            "name": "data analysis",
+            "type": "concept",
+            "frequency": 22
+        },
+        {
+            "id": "data modeling",
+            "name": "data modeling",
+            "type": "concept",
+            "frequency": 15
+        },
+        {
+            "id": "objective c",
+            "name": "objective c",
+            "type": "language",
+            "frequency": 7
+        },
+        {
+            "id": "terraform",
+            "name": "terraform",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "programming languages",
+            "name": "programming languages",
+            "type": "language",
+            "frequency": 7
+        },
+        {
+            "id": "linux/unix",
+            "name": "linux/unix",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "ios",
+            "name": "ios",
+            "type": "platform",
+            "frequency": 12
+        },
+        {
+            "id": "reliability engineering",
+            "name": "reliability engineering",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "appdynamics",
+            "name": "appdynamics",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "datadog",
+            "name": "datadog",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "nlp",
+            "name": "nlp",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "cassandra",
+            "name": "cassandra",
+            "type": "tool",
+            "frequency": 14
+        },
+        {
+            "id": "asp.net",
+            "name": "asp.net",
+            "type": "platform",
+            "frequency": 16
+        },
+        {
+            "id": "mvc",
+            "name": "mvc",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "scalability",
+            "name": "scalability",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "security",
+            "name": "security",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "gcp",
+            "name": "gcp",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "distributed system",
+            "name": "distributed system",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "graphql",
+            "name": "graphql",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "communication skills",
+            "name": "communication skills",
+            "type": "soft",
+            "frequency": 7
+        },
+        {
+            "id": "agile methodologies",
+            "name": "agile methodologies",
+            "type": "methodology",
+            "frequency": 8
+        },
+        {
+            "id": "soap",
+            "name": "soap",
+            "type": "tool",
+            "frequency": 15
+        },
+        {
+            "id": "html5",
+            "name": "html5",
+            "type": "language",
+            "frequency": 12
+        },
+        {
+            "id": "jquery",
+            "name": "jquery",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "api",
+            "name": "api",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "jcl",
+            "name": "jcl",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "can",
+            "name": "can",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "airflow",
+            "name": "airflow",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "test automation",
+            "name": "test automation",
+            "type": "methodology",
+            "frequency": 6
+        },
+        {
+            "id": "data architecture",
+            "name": "data architecture",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "database design",
+            "name": "database design",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "agile methodology",
+            "name": "agile methodology",
+            "type": "methodology",
+            "frequency": 6
+        },
+        {
+            "id": "scripting",
+            "name": "scripting",
+            "type": "concept",
+            "frequency": 13
+        },
+        {
+            "id": "shell scripting",
+            "name": "shell scripting",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": "active directory",
+            "name": "active directory",
+            "type": "platform",
+            "frequency": 15
+        },
+        {
+            "id": "mongodb",
+            "name": "mongodb",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "word",
+            "name": "word",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "performance testing",
+            "name": "performance testing",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "security testing",
+            "name": "security testing",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "agile development",
+            "name": "agile development",
+            "type": "methodology",
+            "frequency": 11
+        },
+        {
+            "id": "tdd",
+            "name": "tdd",
+            "type": "methodology",
+            "frequency": 6
+        },
+        {
+            "id": "php",
+            "name": "php",
+            "type": "language",
+            "frequency": 8
+        },
+        {
+            "id": "dynatrace",
+            "name": "dynatrace",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "dns",
+            "name": "dns",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "puppet",
+            "name": "puppet",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "microsoft excel",
+            "name": "microsoft excel",
+            "type": "tool",
+            "frequency": 14
+        },
+        {
+            "id": "project management",
+            "name": "project management",
+            "type": "concept",
+            "frequency": 23
+        },
+        {
+            "id": "scrum",
+            "name": "scrum",
+            "type": "methodology",
+            "frequency": 13
+        },
+        {
+            "id": "j2ee",
+            "name": "j2ee",
+            "type": "platform",
+            "frequency": 20
+        },
+        {
+            "id": "windows operating system",
+            "name": "windows operating system",
+            "type": "platform",
+            "frequency": 7
+        },
+        {
+            "id": "teradata",
+            "name": "teradata",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "jmeter",
+            "name": "jmeter",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "microsoft word",
+            "name": "microsoft word",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "ms excel",
+            "name": "ms excel",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "quality center",
+            "name": "quality center",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "qtp",
+            "name": "qtp",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "websphere",
+            "name": "websphere",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "db2",
+            "name": "db2",
+            "type": "tool",
+            "frequency": 17
+        },
+        {
+            "id": "window",
+            "name": "window",
+            "type": "platform",
+            "frequency": 17
+        },
+        {
+            "id": "android",
+            "name": "android",
+            "type": "platform",
+            "frequency": 12
+        },
+        {
+            "id": "documentation",
+            "name": "documentation",
+            "type": "methodology",
+            "frequency": 7
+        },
+        {
+            "id": "manual testing",
+            "name": "manual testing",
+            "type": "methodology",
+            "frequency": 8
+        },
+        {
+            "id": "ms project",
+            "name": "ms project",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "ldap",
+            "name": "ldap",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "informatica powercenter",
+            "name": "informatica powercenter",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "oracle database",
+            "name": "oracle database",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "hbase",
+            "name": "hbase",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "cobol",
+            "name": "cobol",
+            "type": "language",
+            "frequency": 9
+        },
+        {
+            "id": "ims",
+            "name": "ims",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "microsoft active directory",
+            "name": "microsoft active directory",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "dhcp",
+            "name": "dhcp",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "qlikview",
+            "name": "qlikview",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "event driven architecture",
+            "name": "event driven architecture",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "web service",
+            "name": "web service",
+            "type": "concept",
+            "frequency": 34
+        },
+        {
+            "id": "integration",
+            "name": "integration",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "verilog",
+            "name": "verilog",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "sap",
+            "name": "sap",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "troubleshooting",
+            "name": "troubleshooting",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "technical writing",
+            "name": "technical writing",
+            "type": "methodology",
+            "frequency": 6
+        },
+        {
+            "id": "data warehouse",
+            "name": "data warehouse",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "vbscript",
+            "name": "vbscript",
+            "type": "language",
+            "frequency": 8
+        },
+        {
+            "id": "soapui",
+            "name": "soapui",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "loadrunner",
+            "name": "loadrunner",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "hyperion essbase",
+            "name": "hyperion essbase",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "wcf",
+            "name": "wcf",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "vmware",
+            "name": "vmware",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "microsoft sql",
+            "name": "microsoft sql",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "jenkins",
+            "name": "jenkins",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": "pig",
+            "name": "pig",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "core java",
+            "name": "core java",
+            "type": "language",
+            "frequency": 7
+        },
+        {
+            "id": "performance tuning",
+            "name": "performance tuning",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "xslt",
+            "name": "xslt",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "entity framework",
+            "name": "entity framework",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "css3",
+            "name": "css3",
+            "type": "language",
+            "frequency": 7
+        },
+        {
+            "id": "ajax",
+            "name": "ajax",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "xsd",
+            "name": "xsd",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "soap ui",
+            "name": "soap ui",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "jms",
+            "name": "jms",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "operating system",
+            "name": "operating system",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "windows server",
+            "name": "windows server",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "ms sql server",
+            "name": "ms sql server",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "wsdl",
+            "name": "wsdl",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "quality assurance",
+            "name": "quality assurance",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "ssrs",
+            "name": "ssrs",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "spring frameworks",
+            "name": "spring frameworks",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "soa",
+            "name": "soa",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "hyperion planning",
+            "name": "hyperion planning",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "testing",
+            "name": "testing",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "jsp",
+            "name": "jsp",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "apache",
+            "name": "apache",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "business intelligence",
+            "name": "business intelligence",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "ms office",
+            "name": "ms office",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "hp alm",
+            "name": "hp alm",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "cognos",
+            "name": "cognos",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "testng",
+            "name": "testng",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "svn",
+            "name": "svn",
+            "type": "tool",
+            "frequency": 5
+        }
+    ],
+    "relationships": [
+        {
+            "source": "c#",
+            "target": "c++",
+            "relationship": "association",
+            "confidence": 0.23333333333333334,
+            "lift": 2.393910256410256
+        },
+        {
+            "source": "c#",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5666666666666667,
+            "lift": 2.5839031339031338
+        },
+        {
+            "source": "c#",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.32222222222222224,
+            "lift": 1.2686756867568676
+        },
+        {
+            "source": "c#",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.25555555555555554,
+            "lift": 1.2338360985419807
+        },
+        {
+            "source": "sql",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.23529411764705882,
+            "lift": 1.0729009552538964
+        },
+        {
+            "source": "sql",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.3438914027149322,
+            "lift": 1.3539930874421868
+        },
+        {
+            "source": "git",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4186046511627907,
+            "lift": 1.9087656529516996
+        },
+        {
+            "source": "git",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5116279069767442,
+            "lift": 2.01441688835493
+        },
+        {
+            "source": "spark",
+            "target": "hadoop",
+            "relationship": "association",
+            "confidence": 0.4054054054054054,
+            "lift": 13.953792502179597
+        },
+        {
+            "source": "spark",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4054054054054054,
+            "lift": 1.8485793485793485
+        },
+        {
+            "source": "spark",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.45945945945945943,
+            "lift": 1.8090156577241445
+        },
+        {
+            "source": "hadoop",
+            "target": "spark",
+            "relationship": "association",
+            "confidence": 0.4838709677419355,
+            "lift": 13.953792502179597
+        },
+        {
+            "source": "java",
+            "target": "c#",
+            "relationship": "association",
+            "confidence": 0.21794871794871795,
+            "lift": 2.5839031339031338
+        },
+        {
+            "source": "java",
+            "target": "c++",
+            "relationship": "association",
+            "confidence": 0.21794871794871795,
+            "lift": 2.236070019723866
+        },
+        {
+            "source": "java",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.36324786324786323,
+            "lift": 1.430204686662251
+        },
+        {
+            "source": "java",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.22222222222222224,
+            "lift": 1.0729009552538964
+        },
+        {
+            "source": "scala",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7083333333333334,
+            "lift": 2.7888991389913897
+        },
+        {
+            "source": "c++",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.49038461538461536,
+            "lift": 2.236070019723866
+        },
+        {
+            "source": "c++",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.548076923076923,
+            "lift": 2.1579264831109843
+        },
+        {
+            "source": "linux",
+            "target": "c++",
+            "relationship": "association",
+            "confidence": 0.2948717948717949,
+            "lift": 3.0252712031558184
+        },
+        {
+            "source": "linux",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.28205128205128205,
+            "lift": 1.2861056322594784
+        },
+        {
+            "source": "linux",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.47435897435897445,
+            "lift": 1.8676790614059988
+        },
+        {
+            "source": "jenkin",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7083333333333334,
+            "lift": 2.7888991389913897
+        },
+        {
+            "source": "perl",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4444444444444444,
+            "lift": 2.0265906932573596
+        },
+        {
+            "source": "perl",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5111111111111111,
+            "lift": 2.012382123821238
+        },
+        {
+            "source": "python",
+            "target": "c++",
+            "relationship": "association",
+            "confidence": 0.2103321033210332,
+            "lift": 2.157926483110985
+        },
+        {
+            "source": "python",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.3136531365313653,
+            "lift": 1.430204686662251
+        },
+        {
+            "source": "python",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.28044280442804426,
+            "lift": 1.3539930874421866
+        },
+        {
+            "source": "c/c++",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.3333333333333333,
+            "lift": 1.51994301994302
+        },
+        {
+            "source": "c/c++",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.4666666666666667,
+            "lift": 1.837392373923739
+        },
+        {
+            "source": "machine learning",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6,
+            "lift": 2.362361623616236
+        },
+        {
+            "source": "machine learning",
+            "target": "r",
+            "relationship": "association",
+            "confidence": 0.2666666666666666,
+            "lift": 6.053900709219857
+        },
+        {
+            "source": "machine learning",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.3333333333333333,
+            "lift": 1.6093514328808445
+        },
+        {
+            "source": "aws",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.40625,
+            "lift": 1.8524305555555556
+        },
+        {
+            "source": "aws",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6093749999999999,
+            "lift": 2.399273523985239
+        },
+        {
+            "source": "aws",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.21874999999999997,
+            "lift": 1.0561368778280542
+        },
+        {
+            "source": "c",
+            "target": "c++",
+            "relationship": "association",
+            "confidence": 0.65625,
+            "lift": 6.732872596153846
+        },
+        {
+            "source": "c",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.46875,
+            "lift": 1.8455950184501844
+        },
+        {
+            "source": "etl",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 2.414027149321267
+        },
+        {
+            "source": "html",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.5588235294117647,
+            "lift": 23.85058823529412
+        },
+        {
+            "source": "html",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.676470588235294,
+            "lift": 8.392954856361149
+        },
+        {
+            "source": "js",
+            "target": "css",
+            "relationship": "association",
+            "confidence": 0.23255813953488372,
+            "lift": 9.925581395348837
+        },
+        {
+            "source": "js",
+            "target": "html",
+            "relationship": "association",
+            "confidence": 0.2674418604651163,
+            "lift": 8.39295485636115
+        },
+        {
+            "source": "js",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.40697674418604657,
+            "lift": 1.8557443848141526
+        },
+        {
+            "source": "js",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.313953488372093,
+            "lift": 1.2361194542177978
+        },
+        {
+            "source": "js",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.22093023255813957,
+            "lift": 1.0666631590024205
+        },
+        {
+            "source": "css",
+            "target": "html",
+            "relationship": "association",
+            "confidence": 0.76,
+            "lift": 23.850588235294115
+        },
+        {
+            "source": "css",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.7999999999999999,
+            "lift": 9.925581395348837
+        },
+        {
+            "source": "xml",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.36666666666666664,
+            "lift": 1.671937321937322
+        },
+        {
+            "source": "xml",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.26666666666666666,
+            "lift": 3.3085271317829457
+        },
+        {
+            "source": "xml",
+            "target": "json",
+            "relationship": "association",
+            "confidence": 0.25,
+            "lift": 13.3375
+        },
+        {
+            "source": "xml",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.3166666666666667,
+            "lift": 1.5288838612368025
+        },
+        {
+            "source": "xml",
+            "target": "web service",
+            "relationship": "association",
+            "confidence": 0.2833333333333333,
+            "lift": 9.16111111111111
+        },
+        {
+            "source": "json",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.75,
+            "lift": 13.3375
+        },
+        {
+            "source": "r",
+            "target": "machine learning",
+            "relationship": "association",
+            "confidence": 0.42553191489361697,
+            "lift": 6.053900709219857
+        },
+        {
+            "source": "r",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9148936170212766,
+            "lift": 3.6021826175708562
+        },
+        {
+            "source": "r",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.723404255319149,
+            "lift": 3.4926350245499185
+        },
+        {
+            "source": "kubernetes",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.64,
+            "lift": 25.291851851851852
+        },
+        {
+            "source": "kubernetes",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.72,
+            "lift": 2.834833948339483
+        },
+        {
+            "source": "docker",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5925925925925927,
+            "lift": 25.291851851851852
+        },
+        {
+            "source": "docker",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7037037037037038,
+            "lift": 2.7706710400437338
+        },
+        {
+            "source": "agile",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.26666666666666666,
+            "lift": 1.215954415954416
+        },
+        {
+            "source": "agile",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.30000000000000004,
+            "lift": 1.4484162895927604
+        },
+        {
+            "source": "selenium",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 2.27991452991453
+        },
+        {
+            "source": "selenium",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.27999999999999997,
+            "lift": 1.3518552036199094
+        },
+        {
+            "source": "oracle",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.34615384615384615,
+            "lift": 1.5784023668639053
+        },
+        {
+            "source": "oracle",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.3653846153846154,
+            "lift": 1.7640967629655413
+        },
+        {
+            "source": "go",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.8235294117647058,
+            "lift": 3.242457130453657
+        },
+        {
+            "source": ".net",
+            "target": "c#",
+            "relationship": "association",
+            "confidence": 0.4411764705882353,
+            "lift": 5.230392156862745
+        },
+        {
+            "source": ".net",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4411764705882353,
+            "lift": 2.0116892911010558
+        },
+        {
+            "source": "j2ee",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7000000000000001,
+            "lift": 3.191880341880342
+        },
+        {
+            "source": "web service",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4242424242424242,
+            "lift": 1.9344729344729343
+        },
+        {
+            "source": "web service",
+            "target": "xml",
+            "relationship": "association",
+            "confidence": 0.5151515151515151,
+            "lift": 9.161111111111111
+        },
+        {
+            "source": "programming",
+            "target": "java",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "programming",
+            "target": "python",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "programming",
+            "target": "c#",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "programming",
+            "target": "javascript",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "java",
+            "target": "junit",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "java",
+            "target": "testng",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "python",
+            "target": "pytest",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "c#",
+            "target": "nunit",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "javascript",
+            "target": "jasmine",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "javascript",
+            "target": "mocha",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "javascript",
+            "target": "jest",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "testing",
+            "target": "unit testing",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "testing",
+            "target": "integration testing",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "testing",
+            "target": "functional testing",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "testing",
+            "target": "regression testing",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "testing",
+            "target": "performance testing",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "testing",
+            "target": "security testing",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "testing",
+            "target": "manual testing",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "testing",
+            "target": "automated testing",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "testing",
+            "target": "load testing",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "automated testing",
+            "target": "selenium",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "automated testing",
+            "target": "cucumber",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "automated testing",
+            "target": "appium",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "automated testing",
+            "target": "test automation",
+            "relationship": "prerequisite",
+            "weight": 0.95
+        },
+        {
+            "source": "selenium",
+            "target": "selenium webdriver",
+            "relationship": "prerequisite",
+            "weight": 0.96
+        },
+        {
+            "source": "selenium",
+            "target": "selenium grid",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "automation",
+            "target": "continuous integration",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "continuous integration",
+            "target": "jenkins",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "continuous integration",
+            "target": "ci/cd",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "ci/cd",
+            "target": "ci/cd pipeline",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "version control",
+            "target": "git",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "git",
+            "target": "github",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "database",
+            "target": "sql",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "sql",
+            "target": "database testing",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "database",
+            "target": "mysql",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "database",
+            "target": "postgresql",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "database",
+            "target": "oracle",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "database",
+            "target": "sql server",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "software development",
+            "target": "sdlc",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "sdlc",
+            "target": "agile",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "sdlc",
+            "target": "waterfall",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "agile",
+            "target": "scrum",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "agile",
+            "target": "kanban",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "agile",
+            "target": "jira",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "performance testing",
+            "target": "jmeter",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "performance testing",
+            "target": "loadrunner",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "security testing",
+            "target": "penetration testing",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "security testing",
+            "target": "owasp",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "rest",
+            "target": "rest api",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "rest api",
+            "target": "api testing",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "api testing",
+            "target": "postman",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "api testing",
+            "target": "soapui",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "api testing",
+            "target": "rest assured",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "web service",
+            "target": "soap",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "web service",
+            "target": "rest",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "soap",
+            "target": "soap ui",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "xml",
+            "target": "xsd",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "xml",
+            "target": "xpath",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "xml",
+            "target": "xslt",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "bdd",
+            "target": "cucumber",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "bdd",
+            "target": "specflow",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "tdd",
+            "target": "unit testing",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "web",
+            "target": "html",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "web",
+            "target": "css",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "web",
+            "target": "js",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "devops",
+            "target": "ci/cd",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "devops",
+            "target": "docker",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "docker",
+            "target": "containerization",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "docker",
+            "target": "kubernetes",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "monitoring",
+            "target": "splunk",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "monitoring",
+            "target": "prometheus",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "monitoring",
+            "target": "grafana",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "test management",
+            "target": "quality center",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "test management",
+            "target": "testrail",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "test management",
+            "target": "zephyr",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "test management",
+            "target": "qtest",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "test management",
+            "target": "testlink",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "mobile testing",
+            "target": "appium",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "mobile testing",
+            "target": "android testing",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "mobile testing",
+            "target": "ios testing",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "android",
+            "target": "android testing",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "ios",
+            "target": "ios testing",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "cloud",
+            "target": "aws",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "cloud",
+            "target": "azure",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "cloud",
+            "target": "gcp",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "code coverage",
+            "target": "jacoco",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "code coverage",
+            "target": "cobertura",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "testing",
+            "target": "test design",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "test design",
+            "target": "test cases",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "test design",
+            "target": "test scenarios",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "test design",
+            "target": "test suite",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "testing",
+            "target": "test planning",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "test planning",
+            "target": "test plan",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "test planning",
+            "target": "test strategy",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "testing",
+            "target": "defect tracking",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "defect tracking",
+            "target": "bugzilla",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "defect tracking",
+            "target": "mantis",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "api",
+            "target": "rest api",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "api",
+            "target": "soap api",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "api",
+            "target": "graphql",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "web testing",
+            "target": "cross browser testing",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "web testing",
+            "target": "responsive testing",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "continuous testing",
+            "target": "ci/cd pipeline",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "continuous testing",
+            "target": "test automation framework",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "test automation framework",
+            "target": "page object model",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "test automation framework",
+            "target": "data driven testing",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "test automation framework",
+            "target": "keyword driven testing",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "test automation framework",
+            "target": "hybrid framework",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "mocking",
+            "target": "mockito",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "mocking",
+            "target": "moq",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "security",
+            "target": "security testing",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "linux",
+            "target": "bash",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "bash",
+            "target": "shell scripting",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "networking",
+            "target": "tcp/ip",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "java",
+            "target": "selenium java",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "python",
+            "target": "selenium python",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "c#",
+            "target": "selenium c#",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "js",
+            "target": "selenium javascript",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "code quality",
+            "target": "sonarqube",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "code quality",
+            "target": "checkstyle",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "code quality",
+            "target": "eslint",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "ui testing",
+            "target": "selenium",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "ui testing",
+            "target": "cypress",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "ui testing",
+            "target": "protractor",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "ui testing",
+            "target": "playwright",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        }
+    ]
+}

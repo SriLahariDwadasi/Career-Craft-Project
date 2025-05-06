@@ -1,0 +1,31 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+alembic
+requests
+beautifulsoup4
+google-api-python-client
+dotenv
+selenium
+isodate
+mysql-connector-python
+bcrypt
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+pymupdf
+sentence-transformers
+cachetools
+rapidfuzz
+pulp
+python-docx
+reportlab
+docx2pdf ; sys_platform == 'win32'  # Windows only
+pypandoc  # for cross-platform conversion
+google-genai

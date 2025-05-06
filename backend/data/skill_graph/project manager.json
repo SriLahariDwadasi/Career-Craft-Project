@@ -1,0 +1,2410 @@
+{
+    "skills": [
+        {
+            "id": "project management",
+            "name": "project management",
+            "type": "methodology",
+            "frequency": 178
+        },
+        {
+            "id": "natural language processing (nlp)",
+            "name": "natural language processing (nlp)",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "machine learning",
+            "name": "machine learning",
+            "type": "concept",
+            "frequency": 14
+        },
+        {
+            "id": "spark",
+            "name": "spark",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft office suite",
+            "name": "microsoft office suite",
+            "type": "tool",
+            "frequency": 33
+        },
+        {
+            "id": "database management",
+            "name": "database management",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "data analysis",
+            "name": "data analysis",
+            "type": "concept",
+            "frequency": 17
+        },
+        {
+            "id": "sas",
+            "name": "sas",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "data management",
+            "name": "data management",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "big data",
+            "name": "big data",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "python",
+            "name": "python",
+            "type": "language",
+            "frequency": 52
+        },
+        {
+            "id": "r",
+            "name": "r",
+            "type": "language",
+            "frequency": 8
+        },
+        {
+            "id": "java",
+            "name": "java",
+            "type": "language",
+            "frequency": 65
+        },
+        {
+            "id": "aws",
+            "name": "aws",
+            "type": "platform",
+            "frequency": 34
+        },
+        {
+            "id": "azure",
+            "name": "azure",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "gcp",
+            "name": "gcp",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "sql",
+            "name": "sql",
+            "type": "language",
+            "frequency": 98
+        },
+        {
+            "id": "software",
+            "name": "software",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft office",
+            "name": "microsoft office",
+            "type": "tool",
+            "frequency": 52
+        },
+        {
+            "id": "network security",
+            "name": "network security",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "devops",
+            "name": "devops",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "san",
+            "name": "san",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "itil",
+            "name": "itil",
+            "type": "concept",
+            "frequency": 25
+        },
+        {
+            "id": "relational database",
+            "name": "relational database",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "agile development",
+            "name": "agile development",
+            "type": "methodology",
+            "frequency": 8
+        },
+        {
+            "id": "jira",
+            "name": "jira",
+            "type": "tool",
+            "frequency": 20
+        },
+        {
+            "id": "linux",
+            "name": "linux",
+            "type": "platform",
+            "frequency": 60
+        },
+        {
+            "id": "js",
+            "name": "js",
+            "type": "language",
+            "frequency": 39
+        },
+        {
+            "id": "mysql",
+            "name": "mysql",
+            "type": "tool",
+            "frequency": 18
+        },
+        {
+            "id": "git",
+            "name": "git",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "nosql",
+            "name": "nosql",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "troubleshooting skills",
+            "name": "troubleshooting skills",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "powershell",
+            "name": "powershell",
+            "type": "tool",
+            "frequency": 32
+        },
+        {
+            "id": "networking concepts",
+            "name": "networking concepts",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "database",
+            "name": "database",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "data analytics",
+            "name": "data analytics",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "typescript",
+            "name": "typescript",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "postgresql",
+            "name": "postgresql",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "rest",
+            "name": "rest",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "docker",
+            "name": "docker",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "kubernetes",
+            "name": "kubernetes",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "data mining",
+            "name": "data mining",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "data visualization",
+            "name": "data visualization",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "oracle",
+            "name": "oracle",
+            "type": "tool",
+            "frequency": 38
+        },
+        {
+            "id": "hadoop",
+            "name": "hadoop",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "shell scripting",
+            "name": "shell scripting",
+            "type": "tool",
+            "frequency": 18
+        },
+        {
+            "id": "splunk",
+            "name": "splunk",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "crm",
+            "name": "crm",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "erp",
+            "name": "erp",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "network administration",
+            "name": "network administration",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "servicenow",
+            "name": "servicenow",
+            "type": "platform",
+            "frequency": 7
+        },
+        {
+            "id": "linux administration",
+            "name": "linux administration",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "networking",
+            "name": "networking",
+            "type": "methodology",
+            "frequency": 41
+        },
+        {
+            "id": "ms office",
+            "name": "ms office",
+            "type": "tool",
+            "frequency": 32
+        },
+        {
+            "id": "outlook",
+            "name": "outlook",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "agile methodologies",
+            "name": "agile methodologies",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "node",
+            "name": "node",
+            "type": "language",
+            "frequency": 6
+        },
+        {
+            "id": "angular",
+            "name": "angular",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "react",
+            "name": "react",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "market analysis",
+            "name": "market analysis",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "photoshop",
+            "name": "photoshop",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "business analysis",
+            "name": "business analysis",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "recruiting",
+            "name": "recruiting",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "excel",
+            "name": "excel",
+            "type": "tool",
+            "frequency": 49
+        },
+        {
+            "id": "marketing",
+            "name": "marketing",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "collaboration",
+            "name": "collaboration",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "ms office suite",
+            "name": "ms office suite",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "microsoft office applications",
+            "name": "microsoft office applications",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "sap",
+            "name": "sap",
+            "type": "tool",
+            "frequency": 20
+        },
+        {
+            "id": "salesforce.com",
+            "name": "salesforce.com",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "product development",
+            "name": "product development",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft active directory",
+            "name": "microsoft active directory",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "vmware",
+            "name": "vmware",
+            "type": "tool",
+            "frequency": 56
+        },
+        {
+            "id": "inventory management",
+            "name": "inventory management",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "microsoft excel",
+            "name": "microsoft excel",
+            "type": "tool",
+            "frequency": 21
+        },
+        {
+            "id": "software development",
+            "name": "software development",
+            "type": "concept",
+            "frequency": 16
+        },
+        {
+            "id": "siem",
+            "name": "siem",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "scripting languages",
+            "name": "scripting languages",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "product management",
+            "name": "product management",
+            "type": "concept",
+            "frequency": 18
+        },
+        {
+            "id": "quality assurance",
+            "name": "quality assurance",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "documentation",
+            "name": "documentation",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "hipaa",
+            "name": "hipaa",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "cloud computing",
+            "name": "cloud computing",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "bash",
+            "name": "bash",
+            "type": "language",
+            "frequency": 10
+        },
+        {
+            "id": "ruby",
+            "name": "ruby",
+            "type": "language",
+            "frequency": 13
+        },
+        {
+            "id": "json",
+            "name": "json",
+            "type": "language",
+            "frequency": 9
+        },
+        {
+            "id": "html",
+            "name": "html",
+            "type": "language",
+            "frequency": 23
+        },
+        {
+            "id": "css",
+            "name": "css",
+            "type": "language",
+            "frequency": 18
+        },
+        {
+            "id": "ms excel",
+            "name": "ms excel",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "ms powerpoint",
+            "name": "ms powerpoint",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "ms project",
+            "name": "ms project",
+            "type": "tool",
+            "frequency": 39
+        },
+        {
+            "id": "visual studio",
+            "name": "visual studio",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "c#",
+            "name": "c#",
+            "type": "language",
+            "frequency": 18
+        },
+        {
+            "id": "sccm",
+            "name": "sccm",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "windows os",
+            "name": "windows os",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "active directory",
+            "name": "active directory",
+            "type": "platform",
+            "frequency": 103
+        },
+        {
+            "id": "powershell scripting",
+            "name": "powershell scripting",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "vbscript",
+            "name": "vbscript",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "linux operating system",
+            "name": "linux operating system",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "xml",
+            "name": "xml",
+            "type": "language",
+            "frequency": 18
+        },
+        {
+            "id": "iis",
+            "name": "iis",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "microsoft exchange",
+            "name": "microsoft exchange",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "communication skills",
+            "name": "communication skills",
+            "type": "",
+            "frequency": 25
+        },
+        {
+            "id": "web server",
+            "name": "web server",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "smtp",
+            "name": "smtp",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "windows server",
+            "name": "windows server",
+            "type": "platform",
+            "frequency": 41
+        },
+        {
+            "id": "web service",
+            "name": "web service",
+            "type": "tool",
+            "frequency": 18
+        },
+        {
+            "id": "virtualization",
+            "name": "virtualization",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "microsoft project",
+            "name": "microsoft project",
+            "type": "tool",
+            "frequency": 24
+        },
+        {
+            "id": "salesforce",
+            "name": "salesforce",
+            "type": "tool",
+            "frequency": 20
+        },
+        {
+            "id": "information security",
+            "name": "information security",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "risk management",
+            "name": "risk management",
+            "type": "concept",
+            "frequency": 16
+        },
+        {
+            "id": "cissp",
+            "name": "cissp",
+            "type": "concept",
+            "frequency": 14
+        },
+        {
+            "id": "firewall",
+            "name": "firewall",
+            "type": "tool",
+            "frequency": 17
+        },
+        {
+            "id": "vpn",
+            "name": "vpn",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "unix",
+            "name": "unix",
+            "type": "platform",
+            "frequency": 23
+        },
+        {
+            "id": "windows operating system",
+            "name": "windows operating system",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "unix shell scripting",
+            "name": "unix shell scripting",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "agile",
+            "name": "agile",
+            "type": "methodology",
+            "frequency": 56
+        },
+        {
+            "id": "windows server administration",
+            "name": "windows server administration",
+            "type": "platform",
+            "frequency": 7
+        },
+        {
+            "id": "scripting",
+            "name": "scripting",
+            "type": "concept",
+            "frequency": 19
+        },
+        {
+            "id": "change management",
+            "name": "change management",
+            "type": "concept",
+            "frequency": 25
+        },
+        {
+            "id": "word",
+            "name": "word",
+            "type": "tool",
+            "frequency": 15
+        },
+        {
+            "id": "powerpoint",
+            "name": "powerpoint",
+            "type": "tool",
+            "frequency": 20
+        },
+        {
+            "id": "etl",
+            "name": "etl",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "saas",
+            "name": "saas",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "sdlc",
+            "name": "sdlc",
+            "type": "concept",
+            "frequency": 27
+        },
+        {
+            "id": "pmp certification",
+            "name": "pmp certification",
+            "type": "concept",
+            "frequency": 14
+        },
+        {
+            "id": "network",
+            "name": "network",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "windows 7",
+            "name": "windows 7",
+            "type": "platform",
+            "frequency": 17
+        },
+        {
+            "id": "group policies",
+            "name": "group policies",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "remedy",
+            "name": "remedy",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "sql server",
+            "name": "sql server",
+            "type": "tool",
+            "frequency": 32
+        },
+        {
+            "id": "perl",
+            "name": "perl",
+            "type": "language",
+            "frequency": 26
+        },
+        {
+            "id": ".net",
+            "name": ".net",
+            "type": "platform",
+            "frequency": 27
+        },
+        {
+            "id": "pmp",
+            "name": "pmp",
+            "type": "concept",
+            "frequency": 14
+        },
+        {
+            "id": "soa",
+            "name": "soa",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "tcp/ip",
+            "name": "tcp/ip",
+            "type": "concept",
+            "frequency": 30
+        },
+        {
+            "id": "disaster recovery",
+            "name": "disaster recovery",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "unix/linux",
+            "name": "unix/linux",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "c++",
+            "name": "c++",
+            "type": "language",
+            "frequency": 12
+        },
+        {
+            "id": "security",
+            "name": "security",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "vendor management",
+            "name": "vendor management",
+            "type": "concept",
+            "frequency": 16
+        },
+        {
+            "id": "project coordination",
+            "name": "project coordination",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "account management",
+            "name": "account management",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "visio",
+            "name": "visio",
+            "type": "tool",
+            "frequency": 24
+        },
+        {
+            "id": "software development lifecycle",
+            "name": "software development lifecycle",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "microsoft word",
+            "name": "microsoft word",
+            "type": "tool",
+            "frequency": 18
+        },
+        {
+            "id": "microsoft outlook",
+            "name": "microsoft outlook",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "performance tuning",
+            "name": "performance tuning",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "agile methodology",
+            "name": "agile methodology",
+            "type": "methodology",
+            "frequency": 7
+        },
+        {
+            "id": "window",
+            "name": "window",
+            "type": "platform",
+            "frequency": 29
+        },
+        {
+            "id": "troubleshooting",
+            "name": "troubleshooting",
+            "type": "methodology",
+            "frequency": 18
+        },
+        {
+            "id": "leadership",
+            "name": "leadership",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "communication",
+            "name": "communication",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "scrum",
+            "name": "scrum",
+            "type": "concept",
+            "frequency": 19
+        },
+        {
+            "id": "it security",
+            "name": "it security",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "storage",
+            "name": "storage",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "business intelligence",
+            "name": "business intelligence",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "exchange",
+            "name": "exchange",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "agile/scrum",
+            "name": "agile/scrum",
+            "type": "methodology",
+            "frequency": 8
+        },
+        {
+            "id": "waterfall",
+            "name": "waterfall",
+            "type": "methodology",
+            "frequency": 7
+        },
+        {
+            "id": "data modeling",
+            "name": "data modeling",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "dns",
+            "name": "dns",
+            "type": "concept",
+            "frequency": 21
+        },
+        {
+            "id": "voip",
+            "name": "voip",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "websphere",
+            "name": "websphere",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "svn",
+            "name": "svn",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft exchange server",
+            "name": "microsoft exchange server",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "ids/ips",
+            "name": "ids/ips",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "tcp/ip networking",
+            "name": "tcp/ip networking",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "ldap",
+            "name": "ldap",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "apache",
+            "name": "apache",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "tomcat",
+            "name": "tomcat",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "jboss",
+            "name": "jboss",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "business development",
+            "name": "business development",
+            "type": "concept",
+            "frequency": 20
+        },
+        {
+            "id": "client relationship management",
+            "name": "client relationship management",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "microsoft office products",
+            "name": "microsoft office products",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "citrix",
+            "name": "citrix",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "t-sql",
+            "name": "t-sql",
+            "type": "language",
+            "frequency": 7
+        },
+        {
+            "id": "oracle database",
+            "name": "oracle database",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "database design",
+            "name": "database design",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "office 365",
+            "name": "office 365",
+            "type": "platform",
+            "frequency": 11
+        },
+        {
+            "id": "group policy",
+            "name": "group policy",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "network troubleshooting",
+            "name": "network troubleshooting",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "z/os",
+            "name": "z/os",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "dhcp",
+            "name": "dhcp",
+            "type": "platform",
+            "frequency": 15
+        },
+        {
+            "id": "help desk support",
+            "name": "help desk support",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "microsoft visio",
+            "name": "microsoft visio",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "data warehousing",
+            "name": "data warehousing",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "php",
+            "name": "php",
+            "type": "language",
+            "frequency": 10
+        },
+        {
+            "id": "cisco routers",
+            "name": "cisco routers",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft sql server",
+            "name": "microsoft sql server",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "a+",
+            "name": "a+",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft powerpoint",
+            "name": "microsoft powerpoint",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "vulnerability management",
+            "name": "vulnerability management",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "peoplesoft",
+            "name": "peoplesoft",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "j2ee",
+            "name": "j2ee",
+            "type": "language",
+            "frequency": 10
+        },
+        {
+            "id": "operating system",
+            "name": "operating system",
+            "type": "platform",
+            "frequency": 7
+        },
+        {
+            "id": "ms office applications",
+            "name": "ms office applications",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "technical support",
+            "name": "technical support",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "sharepoint",
+            "name": "sharepoint",
+            "type": "tool",
+            "frequency": 34
+        },
+        {
+            "id": "erp system",
+            "name": "erp system",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "unix scripting",
+            "name": "unix scripting",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "tableau",
+            "name": "tableau",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "microsoft windows",
+            "name": "microsoft windows",
+            "type": "platform",
+            "frequency": 7
+        },
+        {
+            "id": "incident response",
+            "name": "incident response",
+            "type": "methodology",
+            "frequency": 8
+        },
+        {
+            "id": "program management",
+            "name": "program management",
+            "type": "concept",
+            "frequency": 13
+        },
+        {
+            "id": "sales",
+            "name": "sales",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "vb.net",
+            "name": "vb.net",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "ms word",
+            "name": "ms word",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "asp.net",
+            "name": "asp.net",
+            "type": "language",
+            "frequency": 8
+        },
+        {
+            "id": "jquery",
+            "name": "jquery",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "lan/wan",
+            "name": "lan/wan",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "pl/sql",
+            "name": "pl/sql",
+            "type": "language",
+            "frequency": 11
+        },
+        {
+            "id": "ssrs",
+            "name": "ssrs",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "ssis",
+            "name": "ssis",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "workday",
+            "name": "workday",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "ms visio",
+            "name": "ms visio",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "ticketing system",
+            "name": "ticketing system",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "stakeholder management",
+            "name": "stakeholder management",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "desktop support",
+            "name": "desktop support",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "consulting",
+            "name": "consulting",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "db2",
+            "name": "db2",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "scrum master",
+            "name": "scrum master",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "shaw",
+            "name": "shaw",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "application development",
+            "name": "application development",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "crm system",
+            "name": "crm system",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "html5",
+            "name": "html5",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "rally",
+            "name": "rally",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "it project management",
+            "name": "it project management",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "it infrastructure",
+            "name": "it infrastructure",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "customer service",
+            "name": "customer service",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "ccna",
+            "name": "ccna",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "continuous integration",
+            "name": "continuous integration",
+            "type": "methodology",
+            "frequency": 7
+        },
+        {
+            "id": "release management",
+            "name": "release management",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "organizational skills",
+            "name": "organizational skills",
+            "type": "soft",
+            "frequency": 5
+        },
+        {
+            "id": "problem solving",
+            "name": "problem solving",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "quickbooks",
+            "name": "quickbooks",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "interpersonal skills",
+            "name": "interpersonal skills",
+            "type": "soft",
+            "frequency": 9
+        },
+        {
+            "id": "analytical skills",
+            "name": "analytical skills",
+            "type": "soft",
+            "frequency": 9
+        },
+        {
+            "id": "access data base",
+            "name": "access data base",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "project management methodologies",
+            "name": "project management methodologies",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "hyper-v",
+            "name": "hyper-v",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "itil framework",
+            "name": "itil framework",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "puppet",
+            "name": "puppet",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "aix",
+            "name": "aix",
+            "type": "platform",
+            "frequency": 7
+        },
+        {
+            "id": "web technologies",
+            "name": "web technologies",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "cisco",
+            "name": "cisco",
+            "type": "platform",
+            "frequency": 13
+        },
+        {
+            "id": "jenkins",
+            "name": "jenkins",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "ms sql",
+            "name": "ms sql",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "adobe creative suite",
+            "name": "adobe creative suite",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "google analytics",
+            "name": "google analytics",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "solarwinds",
+            "name": "solarwinds",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "windows active directory",
+            "name": "windows active directory",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "server",
+            "name": "server",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "lan",
+            "name": "lan",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "wan",
+            "name": "wan",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "tfs",
+            "name": "tfs",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "web services technologies",
+            "name": "web services technologies",
+            "type": "concept",
+            "frequency": 5
+        }
+    ],
+    "relationships": [
+        {
+            "source": "python",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.34615384615384615,
+            "lift": 6.2199519230769225
+        },
+        {
+            "source": "python",
+            "target": "perl",
+            "relationship": "association",
+            "confidence": 0.28846153846153844,
+            "lift": 12.758875739644969
+        },
+        {
+            "source": "java",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.23437499999999997,
+            "lift": 6.911057692307691
+        },
+        {
+            "source": "java",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.28125,
+            "lift": 6.2199519230769225
+        },
+        {
+            "source": "js",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.3846153846153846,
+            "lift": 6.911057692307692
+        },
+        {
+            "source": "excel",
+            "target": "word",
+            "relationship": "association",
+            "confidence": 0.3061224489795918,
+            "lift": 23.469387755102037
+        },
+        {
+            "source": "vmware",
+            "target": "active directory",
+            "relationship": "association",
+            "confidence": 0.41818181818181815,
+            "lift": 4.669020300088261
+        },
+        {
+            "source": "vmware",
+            "target": "windows server",
+            "relationship": "association",
+            "confidence": 0.3090909090909091,
+            "lift": 8.669623059866963
+        },
+        {
+            "source": "microsoft excel",
+            "target": "microsoft word",
+            "relationship": "association",
+            "confidence": 0.8095238095238094,
+            "lift": 51.71957671957671
+        },
+        {
+            "source": "ms project",
+            "target": "project management",
+            "relationship": "association",
+            "confidence": 0.3846153846153846,
+            "lift": 2.498913515862668
+        },
+        {
+            "source": "active directory",
+            "target": "vmware",
+            "relationship": "association",
+            "confidence": 0.2233009708737864,
+            "lift": 4.669020300088261
+        },
+        {
+            "source": "windows server",
+            "target": "active directory",
+            "relationship": "association",
+            "confidence": 0.4390243902439025,
+            "lift": 4.901728628936775
+        },
+        {
+            "source": "windows server",
+            "target": "vmware",
+            "relationship": "association",
+            "confidence": 0.41463414634146345,
+            "lift": 8.669623059866963
+        },
+        {
+            "source": "word",
+            "target": "excel",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 23.46938775510204
+        },
+        {
+            "source": "perl",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5769230769230769,
+            "lift": 12.758875739644969
+        },
+        {
+            "source": "microsoft word",
+            "target": "microsoft excel",
+            "relationship": "association",
+            "confidence": 0.9444444444444444,
+            "lift": 51.719576719576715
+        },
+        {
+            "source": "project management",
+            "target": "risk management",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "project management",
+            "target": "stakeholder management",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "project management",
+            "target": "ms project",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "project management",
+            "target": "scrum",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "project management",
+            "target": "pmp",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "project management",
+            "target": "agile",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "project management",
+            "target": "waterfall",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "agile",
+            "target": "scrum",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "agile",
+            "target": "kanban",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "agile",
+            "target": "jira",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "scrum",
+            "target": "scrum master",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "scrum",
+            "target": "sprint planning",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "microsoft office",
+            "target": "excel",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "microsoft office",
+            "target": "powerpoint",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "microsoft office",
+            "target": "word",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "microsoft office",
+            "target": "visio",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "excel",
+            "target": "data analysis",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "excel",
+            "target": "financial modeling",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "excel",
+            "target": "budget management",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "excel",
+            "target": "resource allocation",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "visio",
+            "target": "process mapping",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "visio",
+            "target": "workflow design",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "powerpoint",
+            "target": "presentation skills",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "communication skills",
+            "target": "stakeholder management",
+            "relationship": "prerequisite",
+            "weight": 0.95
+        },
+        {
+            "source": "communication skills",
+            "target": "presentation skills",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "communication skills",
+            "target": "negotiation",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "communication skills",
+            "target": "conflict resolution",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "communication skills",
+            "target": "team management",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "leadership",
+            "target": "team management",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "leadership",
+            "target": "strategic planning",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "leadership",
+            "target": "decision making",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "project management",
+            "target": "leadership",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "pmp",
+            "target": "pmp certification",
+            "relationship": "prerequisite",
+            "weight": 0.96
+        },
+        {
+            "source": "sdlc",
+            "target": "software development",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "sdlc",
+            "target": "agile",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "sdlc",
+            "target": "waterfall",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "change management",
+            "target": "process improvement",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "change management",
+            "target": "organizational change",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "risk management",
+            "target": "risk assessment",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "risk management",
+            "target": "risk mitigation",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "risk management",
+            "target": "contingency planning",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "itil",
+            "target": "service management",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "itil",
+            "target": "itsm",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "itil",
+            "target": "itil framework",
+            "relationship": "prerequisite",
+            "weight": 0.95
+        },
+        {
+            "source": "project management",
+            "target": "budget management",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "project management",
+            "target": "resource management",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "project management",
+            "target": "project coordination",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "project management",
+            "target": "project planning",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "project planning",
+            "target": "wbs",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "project planning",
+            "target": "gantt chart",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "team management",
+            "target": "team leadership",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "team management",
+            "target": "team building",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "team management",
+            "target": "performance management",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "vendor management",
+            "target": "contract management",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "vendor management",
+            "target": "procurement",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "vendor management",
+            "target": "supplier relationship management",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "project management",
+            "target": "vendor management",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "business analysis",
+            "target": "requirements gathering",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "business analysis",
+            "target": "process analysis",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "business analysis",
+            "target": "business process reengineering",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "project management",
+            "target": "business analysis",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "requirements gathering",
+            "target": "functional requirements",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "requirements gathering",
+            "target": "non-functional requirements",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "quality assurance",
+            "target": "quality control",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "quality assurance",
+            "target": "quality management",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "project management",
+            "target": "quality assurance",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "documentation",
+            "target": "technical writing",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "documentation",
+            "target": "process documentation",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "project management",
+            "target": "documentation",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "agile methodologies",
+            "target": "sprint planning",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "agile methodologies",
+            "target": "retrospectives",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "agile methodologies",
+            "target": "standups",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "agile methodologies",
+            "target": "user stories",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "agile",
+            "target": "agile methodologies",
+            "relationship": "prerequisite",
+            "weight": 0.95
+        },
+        {
+            "source": "project management",
+            "target": "program management",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "program management",
+            "target": "portfolio management",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "program management",
+            "target": "benefits management",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "project management",
+            "target": "pmo",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "pmo",
+            "target": "project governance",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "pmo",
+            "target": "portfolio management",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "problem solving",
+            "target": "critical thinking",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "problem solving",
+            "target": "root cause analysis",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "problem solving",
+            "target": "decision making",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "project management",
+            "target": "problem solving",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "analytical skills",
+            "target": "data analysis",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "analytical skills",
+            "target": "critical thinking",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "project management",
+            "target": "analytical skills",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "collaboration",
+            "target": "teamwork",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "collaboration",
+            "target": "stakeholder engagement",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "project management",
+            "target": "collaboration",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "crm",
+            "target": "customer relationship management",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "project management",
+            "target": "crm",
+            "relationship": "prerequisite",
+            "weight": 0.82
+        },
+        {
+            "source": "erp",
+            "target": "enterprise resource planning",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "project management",
+            "target": "erp",
+            "relationship": "prerequisite",
+            "weight": 0.83
+        },
+        {
+            "source": "sharepoint",
+            "target": "document management",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "sharepoint",
+            "target": "collaboration tools",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "project management",
+            "target": "sharepoint",
+            "relationship": "prerequisite",
+            "weight": 0.84
+        },
+        {
+            "source": "jira",
+            "target": "issue tracking",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "jira",
+            "target": "task management",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "jira",
+            "target": "project tracking",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "project management methodologies",
+            "target": "prince2",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "project management methodologies",
+            "target": "pmbok",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "project management",
+            "target": "project management methodologies",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "finance",
+            "target": "budgeting",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "finance",
+            "target": "cost management",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "project management",
+            "target": "finance",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "data management",
+            "target": "data governance",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "data management",
+            "target": "data quality",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "project management",
+            "target": "data management",
+            "relationship": "prerequisite",
+            "weight": 0.82
+        },
+        {
+            "source": "organizational skills",
+            "target": "time management",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "organizational skills",
+            "target": "prioritization",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "project management",
+            "target": "organizational skills",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "interpersonal skills",
+            "target": "relationship building",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "interpersonal skills",
+            "target": "emotional intelligence",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "project management",
+            "target": "interpersonal skills",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "cloud",
+            "target": "aws",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "cloud",
+            "target": "azure",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "project management",
+            "target": "cloud",
+            "relationship": "prerequisite",
+            "weight": 0.8
+        },
+        {
+            "source": "networking",
+            "target": "network architecture",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "project management",
+            "target": "networking",
+            "relationship": "prerequisite",
+            "weight": 0.79
+        },
+        {
+            "source": "security",
+            "target": "information security",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "security",
+            "target": "cybersecurity",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "project management",
+            "target": "security",
+            "relationship": "prerequisite",
+            "weight": 0.81
+        }
+    ]
+}

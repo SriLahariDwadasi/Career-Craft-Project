@@ -1,0 +1,2296 @@
+{
+    "skills": [
+        {
+            "id": "machine learning",
+            "name": "machine learning",
+            "type": "concept",
+            "frequency": 26
+        },
+        {
+            "id": "sql",
+            "name": "sql",
+            "type": "tool",
+            "frequency": 261
+        },
+        {
+            "id": "a/b testing",
+            "name": "a/b testing",
+            "type": "methodology",
+            "frequency": 8
+        },
+        {
+            "id": "python",
+            "name": "python",
+            "type": "language",
+            "frequency": 114
+        },
+        {
+            "id": "data visualization",
+            "name": "data visualization",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "requirements gathering",
+            "name": "requirements gathering",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "aws",
+            "name": "aws",
+            "type": "platform",
+            "frequency": 22
+        },
+        {
+            "id": "azure",
+            "name": "azure",
+            "type": "platform",
+            "frequency": 10
+        },
+        {
+            "id": "sap",
+            "name": "sap",
+            "type": "tool",
+            "frequency": 81
+        },
+        {
+            "id": "microsoft excel",
+            "name": "microsoft excel",
+            "type": "tool",
+            "frequency": 26
+        },
+        {
+            "id": "powerpoint",
+            "name": "powerpoint",
+            "type": "tool",
+            "frequency": 22
+        },
+        {
+            "id": "r",
+            "name": "r",
+            "type": "language",
+            "frequency": 60
+        },
+        {
+            "id": "tableau",
+            "name": "tableau",
+            "type": "tool",
+            "frequency": 68
+        },
+        {
+            "id": "sql server",
+            "name": "sql server",
+            "type": "tool",
+            "frequency": 51
+        },
+        {
+            "id": "oracle sql",
+            "name": "oracle sql",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "statistics",
+            "name": "statistics",
+            "type": "concept",
+            "frequency": 16
+        },
+        {
+            "id": "etl",
+            "name": "etl",
+            "type": "concept",
+            "frequency": 32
+        },
+        {
+            "id": "spark",
+            "name": "spark",
+            "type": "platform",
+            "frequency": 20
+        },
+        {
+            "id": "ms excel",
+            "name": "ms excel",
+            "type": "tool",
+            "frequency": 21
+        },
+        {
+            "id": "crystal reports",
+            "name": "crystal reports",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "microsoft sql",
+            "name": "microsoft sql",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "ms sql server",
+            "name": "ms sql server",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "t-sql",
+            "name": "t-sql",
+            "type": "language",
+            "frequency": 11
+        },
+        {
+            "id": "html5",
+            "name": "html5",
+            "type": "language",
+            "frequency": 6
+        },
+        {
+            "id": "js",
+            "name": "js",
+            "type": "language",
+            "frequency": 34
+        },
+        {
+            "id": "jquery",
+            "name": "jquery",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "css",
+            "name": "css",
+            "type": "language",
+            "frequency": 10
+        },
+        {
+            "id": "rest",
+            "name": "rest",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "c#",
+            "name": "c#",
+            "type": "language",
+            "frequency": 21
+        },
+        {
+            "id": "java",
+            "name": "java",
+            "type": "language",
+            "frequency": 86
+        },
+        {
+            "id": "node",
+            "name": "node",
+            "type": "language",
+            "frequency": 6
+        },
+        {
+            "id": "mysql",
+            "name": "mysql",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "sas",
+            "name": "sas",
+            "type": "tool",
+            "frequency": 24
+        },
+        {
+            "id": "spss",
+            "name": "spss",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "visual basic",
+            "name": "visual basic",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "hadoop",
+            "name": "hadoop",
+            "type": "tool",
+            "frequency": 19
+        },
+        {
+            "id": "alteryx",
+            "name": "alteryx",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "kubernetes",
+            "name": "kubernetes",
+            "type": "platform",
+            "frequency": 7
+        },
+        {
+            "id": "git",
+            "name": "git",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "microsoft sql server",
+            "name": "microsoft sql server",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "microsoft office",
+            "name": "microsoft office",
+            "type": "tool",
+            "frequency": 27
+        },
+        {
+            "id": "database",
+            "name": "database",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "infrastructure",
+            "name": "infrastructure",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "linux",
+            "name": "linux",
+            "type": "platform",
+            "frequency": 27
+        },
+        {
+            "id": "data science",
+            "name": "data science",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "cassandra",
+            "name": "cassandra",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "sap abap",
+            "name": "sap abap",
+            "type": "language",
+            "frequency": 9
+        },
+        {
+            "id": "oracle",
+            "name": "oracle",
+            "type": "tool",
+            "frequency": 49
+        },
+        {
+            "id": "pandas",
+            "name": "pandas",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "data warehousing",
+            "name": "data warehousing",
+            "type": "concept",
+            "frequency": 19
+        },
+        {
+            "id": "api",
+            "name": "api",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "data governance",
+            "name": "data governance",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "vba",
+            "name": "vba",
+            "type": "language",
+            "frequency": 7
+        },
+        {
+            "id": "salesforce",
+            "name": "salesforce",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "excel",
+            "name": "excel",
+            "type": "tool",
+            "frequency": 64
+        },
+        {
+            "id": "word",
+            "name": "word",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "power bi",
+            "name": "power bi",
+            "type": "tool",
+            "frequency": 14
+        },
+        {
+            "id": "statistical modeling",
+            "name": "statistical modeling",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft office suite",
+            "name": "microsoft office suite",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "hive",
+            "name": "hive",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "business intelligence",
+            "name": "business intelligence",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "data modeling",
+            "name": "data modeling",
+            "type": "concept",
+            "frequency": 34
+        },
+        {
+            "id": "relational database",
+            "name": "relational database",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "informatica",
+            "name": "informatica",
+            "type": "tool",
+            "frequency": 14
+        },
+        {
+            "id": "crm",
+            "name": "crm",
+            "type": "platform",
+            "frequency": 10
+        },
+        {
+            "id": "data analysis",
+            "name": "data analysis",
+            "type": "methodology",
+            "frequency": 28
+        },
+        {
+            "id": "project management",
+            "name": "project management",
+            "type": "concept",
+            "frequency": 49
+        },
+        {
+            "id": "deep learning",
+            "name": "deep learning",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "kafka",
+            "name": "kafka",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "bi tool",
+            "name": "bi tool",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "data mining",
+            "name": "data mining",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "google analytics",
+            "name": "google analytics",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "market research",
+            "name": "market research",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "sharepoint",
+            "name": "sharepoint",
+            "type": "tool",
+            "frequency": 24
+        },
+        {
+            "id": "scala",
+            "name": "scala",
+            "type": "language",
+            "frequency": 11
+        },
+        {
+            "id": "teradata",
+            "name": "teradata",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "big data",
+            "name": "big data",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "ms office",
+            "name": "ms office",
+            "type": "tool",
+            "frequency": 21
+        },
+        {
+            "id": "html",
+            "name": "html",
+            "type": "language",
+            "frequency": 15
+        },
+        {
+            "id": "ssis",
+            "name": "ssis",
+            "type": "tool",
+            "frequency": 23
+        },
+        {
+            "id": "workday",
+            "name": "workday",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "jira",
+            "name": "jira",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "c++",
+            "name": "c++",
+            "type": "language",
+            "frequency": 9
+        },
+        {
+            "id": "abap",
+            "name": "abap",
+            "type": "language",
+            "frequency": 26
+        },
+        {
+            "id": "edi",
+            "name": "edi",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "perl",
+            "name": "perl",
+            "type": "language",
+            "frequency": 13
+        },
+        {
+            "id": "unix",
+            "name": "unix",
+            "type": "platform",
+            "frequency": 19
+        },
+        {
+            "id": "hibernate",
+            "name": "hibernate",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "sdlc",
+            "name": "sdlc",
+            "type": "concept",
+            "frequency": 20
+        },
+        {
+            "id": "scripting",
+            "name": "scripting",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "shell scripting",
+            "name": "shell scripting",
+            "type": "concept",
+            "frequency": 12
+        },
+        {
+            "id": "agile development",
+            "name": "agile development",
+            "type": "methodology",
+            "frequency": 8
+        },
+        {
+            "id": "microsoft word",
+            "name": "microsoft word",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "microsoft powerpoint",
+            "name": "microsoft powerpoint",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "financial modeling",
+            "name": "financial modeling",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "data mapping",
+            "name": "data mapping",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "test cases",
+            "name": "test cases",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "agile",
+            "name": "agile",
+            "type": "methodology",
+            "frequency": 39
+        },
+        {
+            "id": "peoplesoft",
+            "name": "peoplesoft",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "programming",
+            "name": "programming",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "unit testing",
+            "name": "unit testing",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "pl/sql",
+            "name": "pl/sql",
+            "type": "language",
+            "frequency": 29
+        },
+        {
+            "id": "qlikview",
+            "name": "qlikview",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "salesforce.com",
+            "name": "salesforce.com",
+            "type": "tool",
+            "frequency": 15
+        },
+        {
+            "id": "sap ecc",
+            "name": "sap ecc",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "data analytics",
+            "name": "data analytics",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "visio",
+            "name": "visio",
+            "type": "tool",
+            "frequency": 29
+        },
+        {
+            "id": "analytics",
+            "name": "analytics",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "access",
+            "name": "access",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "windows server",
+            "name": "windows server",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "sap fico",
+            "name": "sap fico",
+            "type": "platform",
+            "frequency": 15
+        },
+        {
+            "id": "business analysis",
+            "name": "business analysis",
+            "type": "concept",
+            "frequency": 29
+        },
+        {
+            "id": "selenium",
+            "name": "selenium",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "ssa",
+            "name": "ssa",
+            "type": "tool",
+            "frequency": 20
+        },
+        {
+            "id": "ssrs",
+            "name": "ssrs",
+            "type": "tool",
+            "frequency": 30
+        },
+        {
+            "id": "mdx",
+            "name": "mdx",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "workflow",
+            "name": "workflow",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "toad",
+            "name": "toad",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "asp.net",
+            "name": "asp.net",
+            "type": "platform",
+            "frequency": 12
+        },
+        {
+            "id": "hana",
+            "name": "hana",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "business analyst",
+            "name": "business analyst",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "powershell",
+            "name": "powershell",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "active directory",
+            "name": "active directory",
+            "type": "concept",
+            "frequency": 14
+        },
+        {
+            "id": "quality assurance",
+            "name": "quality assurance",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "communication skills",
+            "name": "communication skills",
+            "type": "soft",
+            "frequency": 11
+        },
+        {
+            "id": "obiee",
+            "name": "obiee",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "microsoft access",
+            "name": "microsoft access",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "waterfall",
+            "name": "waterfall",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft visio",
+            "name": "microsoft visio",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "ms word",
+            "name": "ms word",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "ms access",
+            "name": "ms access",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "ms project",
+            "name": "ms project",
+            "type": "tool",
+            "frequency": 14
+        },
+        {
+            "id": "ms powerpoint",
+            "name": "ms powerpoint",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "systems strategy",
+            "name": "systems strategy",
+            "type": "concept",
+            "frequency": 18
+        },
+        {
+            "id": "designing and prototyping",
+            "name": "designing and prototyping",
+            "type": "methodology",
+            "frequency": 8
+        },
+        {
+            "id": "configuration and design",
+            "name": "configuration and design",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft office products",
+            "name": "microsoft office products",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "sap business objects",
+            "name": "sap business objects",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "successfactors",
+            "name": "successfactors",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "cloud based technologies",
+            "name": "cloud based technologies",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "troubleshooting",
+            "name": "troubleshooting",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "testing",
+            "name": "testing",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "integration",
+            "name": "integration",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "vpn",
+            "name": "vpn",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "sap retail",
+            "name": "sap retail",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "cloud",
+            "name": "cloud",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "training",
+            "name": "training",
+            "type": "methodology",
+            "frequency": 6
+        },
+        {
+            "id": "configuration",
+            "name": "configuration",
+            "type": "methodology",
+            "frequency": 7
+        },
+        {
+            "id": "sap mm",
+            "name": "sap mm",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "sap pp",
+            "name": "sap pp",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "sap wm",
+            "name": "sap wm",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "sap sd",
+            "name": "sap sd",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "data warehouse",
+            "name": "data warehouse",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "functional specification",
+            "name": "functional specification",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": ".net",
+            "name": ".net",
+            "type": "language",
+            "frequency": 21
+        },
+        {
+            "id": "analytical skills",
+            "name": "analytical skills",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "test plan",
+            "name": "test plan",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "salesforce integration",
+            "name": "salesforce integration",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "xml",
+            "name": "xml",
+            "type": "language",
+            "frequency": 19
+        },
+        {
+            "id": "wcf",
+            "name": "wcf",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "web service",
+            "name": "web service",
+            "type": "tool",
+            "frequency": 20
+        },
+        {
+            "id": "transact sql",
+            "name": "transact sql",
+            "type": "language",
+            "frequency": 5
+        },
+        {
+            "id": "oracle ebs",
+            "name": "oracle ebs",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "restful interfaces / apis",
+            "name": "restful interfaces / apis",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "devops",
+            "name": "devops",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "etl development",
+            "name": "etl development",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "sap apo",
+            "name": "sap apo",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "oracle exadata",
+            "name": "oracle exadata",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "supply chain",
+            "name": "supply chain",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "erp",
+            "name": "erp",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "stakeholder management",
+            "name": "stakeholder management",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "oracle database",
+            "name": "oracle database",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "unix shell scripting",
+            "name": "unix shell scripting",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": ".net frameworks",
+            "name": ".net frameworks",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "microstrategy",
+            "name": "microstrategy",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "business intelligence tools",
+            "name": "business intelligence tools",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "data integration",
+            "name": "data integration",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "dimensional modeling",
+            "name": "dimensional modeling",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "data quality",
+            "name": "data quality",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "data migration",
+            "name": "data migration",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "business object",
+            "name": "business object",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "angular",
+            "name": "angular",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "designing",
+            "name": "designing",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "database concepts",
+            "name": "database concepts",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "cognos",
+            "name": "cognos",
+            "type": "tool",
+            "frequency": 14
+        },
+        {
+            "id": "ms office suite",
+            "name": "ms office suite",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "documentation",
+            "name": "documentation",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "stored procedure",
+            "name": "stored procedure",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "window",
+            "name": "window",
+            "type": "platform",
+            "frequency": 12
+        },
+        {
+            "id": "performance tuning",
+            "name": "performance tuning",
+            "type": "methodology",
+            "frequency": 7
+        },
+        {
+            "id": "db2",
+            "name": "db2",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "ms visio",
+            "name": "ms visio",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "sap pm",
+            "name": "sap pm",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "sap solutions",
+            "name": "sap solutions",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "cissp",
+            "name": "cissp",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "itil",
+            "name": "itil",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "use case",
+            "name": "use case",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "uml",
+            "name": "uml",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "microsoft project",
+            "name": "microsoft project",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "scrum",
+            "name": "scrum",
+            "type": "methodology",
+            "frequency": 6
+        },
+        {
+            "id": "sybase",
+            "name": "sybase",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "sap ewm",
+            "name": "sap ewm",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "sap bpc",
+            "name": "sap bpc",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "sap ibp",
+            "name": "sap ibp",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "sql server management studio",
+            "name": "sql server management studio",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "html 5",
+            "name": "html 5",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "sap supply chain",
+            "name": "sap supply chain",
+            "type": "concept",
+            "frequency": 9
+        },
+        {
+            "id": "sap ariba",
+            "name": "sap ariba",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "etl tool",
+            "name": "etl tool",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "apo - advanced planning and optimization",
+            "name": "apo - advanced planning and optimization",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "ibp - integrated business planning",
+            "name": "ibp - integrated business planning",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "mii - manufacturing intelligence and integration",
+            "name": "mii - manufacturing intelligence and integration",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "mes - manufacturing execution system",
+            "name": "mes - manufacturing execution system",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "ewm - extended warehouse management",
+            "name": "ewm - extended warehouse management",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "spp - service part planning",
+            "name": "spp - service part planning",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "ariba",
+            "name": "ariba",
+            "type": "tool",
+            "frequency": 6
+        }
+    ],
+    "relationships": [
+        {
+            "source": "machine learning",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.72,
+            "lift": 6.164210526315789
+        },
+        {
+            "source": "machine learning",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.5599999999999999,
+            "lift": 2.11027027027027
+        },
+        {
+            "source": "sql",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.2818532818532819,
+            "lift": 2.4130596762175713
+        },
+        {
+            "source": "python",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.21929824561403508,
+            "lift": 2.5480367585630743
+        },
+        {
+            "source": "python",
+            "target": "r",
+            "relationship": "association",
+            "confidence": 0.4473684210526316,
+            "lift": 7.277192982456141
+        },
+        {
+            "source": "python",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.6403508771929824,
+            "lift": 2.4130596762175713
+        },
+        {
+            "source": "powerpoint",
+            "target": "excel",
+            "relationship": "association",
+            "confidence": 0.6818181818181818,
+            "lift": 10.397727272727272
+        },
+        {
+            "source": "r",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.8500000000000001,
+            "lift": 7.277192982456141
+        },
+        {
+            "source": "r",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.6833333333333333,
+            "lift": 2.575032175032175
+        },
+        {
+            "source": "r",
+            "target": "tableau",
+            "relationship": "association",
+            "confidence": 0.3666666666666667,
+            "lift": 5.2627450980392165
+        },
+        {
+            "source": "tableau",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.411764705882353,
+            "lift": 3.5252837977296183
+        },
+        {
+            "source": "tableau",
+            "target": "r",
+            "relationship": "association",
+            "confidence": 0.3235294117647059,
+            "lift": 5.262745098039216
+        },
+        {
+            "source": "tableau",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.661764705882353,
+            "lift": 2.4937542584601413
+        },
+        {
+            "source": "statistics",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.8124999999999999,
+            "lift": 3.0617760617760617
+        },
+        {
+            "source": "etl",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.5625,
+            "lift": 2.1196911196911197
+        },
+        {
+            "source": "spark",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7000000000000001,
+            "lift": 5.992982456140351
+        },
+        {
+            "source": "js",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5588235294117648,
+            "lift": 6.492997198879554
+        },
+        {
+            "source": "java",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.2261904761904762,
+            "lift": 6.492997198879553
+        },
+        {
+            "source": "java",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.2976190476190476,
+            "lift": 2.5480367585630743
+        },
+        {
+            "source": "java",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.32142857142857145,
+            "lift": 1.2112520683949257
+        },
+        {
+            "source": "sas",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.5833333333333334,
+            "lift": 2.1981981981981984
+        },
+        {
+            "source": "hadoop",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6842105263157894,
+            "lift": 5.857802400738688
+        },
+        {
+            "source": "hadoop",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.6842105263157894,
+            "lift": 2.578337736232473
+        },
+        {
+            "source": "oracle",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.39583333333333337,
+            "lift": 1.491634491634492
+        },
+        {
+            "source": "excel",
+            "target": "powerpoint",
+            "relationship": "association",
+            "confidence": 0.23437499999999997,
+            "lift": 10.397727272727272
+        },
+        {
+            "source": "excel",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.34375,
+            "lift": 1.2953667953667956
+        },
+        {
+            "source": "data modeling",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 1.8841698841698844
+        },
+        {
+            "source": "ssis",
+            "target": "ssa",
+            "relationship": "association",
+            "confidence": 0.6956521739130436,
+            "lift": 33.94782608695653
+        },
+        {
+            "source": "ssis",
+            "target": "ssrs",
+            "relationship": "association",
+            "confidence": 0.7391304347826086,
+            "lift": 24.0463768115942
+        },
+        {
+            "source": "ssa",
+            "target": "ssis",
+            "relationship": "association",
+            "confidence": 0.8000000000000002,
+            "lift": 33.94782608695653
+        },
+        {
+            "source": "ssa",
+            "target": "ssrs",
+            "relationship": "association",
+            "confidence": 0.8000000000000002,
+            "lift": 26.02666666666667
+        },
+        {
+            "source": "ssrs",
+            "target": "sql",
+            "relationship": "association",
+            "confidence": 0.4333333333333333,
+            "lift": 1.632947232947233
+        },
+        {
+            "source": "ssrs",
+            "target": "ssa",
+            "relationship": "association",
+            "confidence": 0.5333333333333333,
+            "lift": 26.026666666666667
+        },
+        {
+            "source": "ssrs",
+            "target": "ssis",
+            "relationship": "association",
+            "confidence": 0.5666666666666667,
+            "lift": 24.046376811594204
+        },
+        {
+            "source": "microsoft office",
+            "target": "data analysis",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "excel",
+            "target": "data analysis",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "excel",
+            "target": "vba",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "excel",
+            "target": "financial modeling",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "excel",
+            "target": "statistical modeling",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "excel",
+            "target": "data visualization",
+            "relationship": "prerequisite",
+            "weight": 0.84
+        },
+        {
+            "source": "sql",
+            "target": "data analysis",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "sql",
+            "target": "database",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "sql",
+            "target": "data warehousing",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "database",
+            "target": "data warehousing",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "database",
+            "target": "data modeling",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "data analysis",
+            "target": "data visualization",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "data analysis",
+            "target": "business analysis",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "data analysis",
+            "target": "tableau",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "data analysis",
+            "target": "power bi",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "data analysis",
+            "target": "data mining",
+            "relationship": "prerequisite",
+            "weight": 0.83
+        },
+        {
+            "source": "data analysis",
+            "target": "analytics",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "data analysis",
+            "target": "data analytics",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "statistics",
+            "target": "data analysis",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "statistics",
+            "target": "statistical modeling",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "statistics",
+            "target": "machine learning",
+            "relationship": "prerequisite",
+            "weight": 0.82
+        },
+        {
+            "source": "python",
+            "target": "data analysis",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "r",
+            "target": "data analysis",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "r",
+            "target": "statistics",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "requirements gathering",
+            "target": "business analysis",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "business analysis",
+            "target": "systems strategy",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "business analysis",
+            "target": "functional specification",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "business analysis",
+            "target": "use case",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "business analysis",
+            "target": "uml",
+            "relationship": "prerequisite",
+            "weight": 0.84
+        },
+        {
+            "source": "business analysis",
+            "target": "designing and prototyping",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "agile",
+            "target": "agile development",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "agile",
+            "target": "scrum",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "agile",
+            "target": "jira",
+            "relationship": "prerequisite",
+            "weight": 0.83
+        },
+        {
+            "source": "sdlc",
+            "target": "waterfall",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "sdlc",
+            "target": "agile",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "project management",
+            "target": "stakeholder management",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "data warehousing",
+            "target": "etl",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "data warehousing",
+            "target": "data modeling",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "data warehousing",
+            "target": "dimensional modeling",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "data modeling",
+            "target": "dimensional modeling",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "etl",
+            "target": "etl development",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "etl",
+            "target": "informatica",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "etl",
+            "target": "ssis",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "etl",
+            "target": "data integration",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "data integration",
+            "target": "data migration",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "data integration",
+            "target": "data mapping",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "business intelligence",
+            "target": "tableau",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "business intelligence",
+            "target": "power bi",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "business intelligence",
+            "target": "qlikview",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "business intelligence",
+            "target": "cognos",
+            "relationship": "prerequisite",
+            "weight": 0.84
+        },
+        {
+            "source": "business intelligence",
+            "target": "microstrategy",
+            "relationship": "prerequisite",
+            "weight": 0.83
+        },
+        {
+            "source": "business intelligence",
+            "target": "ssrs",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "data visualization",
+            "target": "tableau",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "data visualization",
+            "target": "power bi",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "data visualization",
+            "target": "qlikview",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "data governance",
+            "target": "data quality",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "sql",
+            "target": "pl/sql",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "sql",
+            "target": "t-sql",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "sql",
+            "target": "ssrs",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "sql",
+            "target": "ssis",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "sql",
+            "target": "stored procedure",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "data analytics",
+            "target": "big data",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "data analytics",
+            "target": "data science",
+            "relationship": "prerequisite",
+            "weight": 0.82
+        },
+        {
+            "source": "data analytics",
+            "target": "machine learning",
+            "relationship": "prerequisite",
+            "weight": 0.78
+        },
+        {
+            "source": "data analytics",
+            "target": "deep learning",
+            "relationship": "prerequisite",
+            "weight": 0.75
+        },
+        {
+            "source": "data science",
+            "target": "machine learning",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "machine learning",
+            "target": "deep learning",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "business analysis",
+            "target": "erp",
+            "relationship": "prerequisite",
+            "weight": 0.84
+        },
+        {
+            "source": "business analysis",
+            "target": "crm",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "business analysis",
+            "target": "sap",
+            "relationship": "prerequisite",
+            "weight": 0.83
+        },
+        {
+            "source": "business analysis",
+            "target": "salesforce",
+            "relationship": "prerequisite",
+            "weight": 0.82
+        },
+        {
+            "source": "erp",
+            "target": "sap",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "crm",
+            "target": "salesforce",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "sap",
+            "target": "sap abap",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "sap",
+            "target": "sap fico",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "sap",
+            "target": "sap mm",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "sap",
+            "target": "sap sd",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "sap",
+            "target": "sap pp",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "sap",
+            "target": "sap wm",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "sap",
+            "target": "sap apo",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "sap",
+            "target": "sap ewm",
+            "relationship": "prerequisite",
+            "weight": 0.84
+        },
+        {
+            "source": "sap",
+            "target": "sap ibp",
+            "relationship": "prerequisite",
+            "weight": 0.83
+        },
+        {
+            "source": "sap",
+            "target": "sap ariba",
+            "relationship": "prerequisite",
+            "weight": 0.82
+        },
+        {
+            "source": "sap",
+            "target": "sap supply chain",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "sap supply chain",
+            "target": "supply chain",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "project management",
+            "target": "agile",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "project management",
+            "target": "waterfall",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "project management",
+            "target": "documentation",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "data analysis",
+            "target": "a/b testing",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "a/b testing",
+            "target": "experimentation",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "testing",
+            "target": "test cases",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "testing",
+            "target": "test plan",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "testing",
+            "target": "quality assurance",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "testing",
+            "target": "selenium",
+            "relationship": "prerequisite",
+            "weight": 0.83
+        },
+        {
+            "source": "business analysis",
+            "target": "requirements gathering",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "data mining",
+            "target": "big data",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "big data",
+            "target": "hadoop",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "hadoop",
+            "target": "hive",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "hadoop",
+            "target": "spark",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "database",
+            "target": "database concepts",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "database concepts",
+            "target": "relational database",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "linux",
+            "target": "shell scripting",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "html",
+            "target": "css",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "html",
+            "target": "js",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "c#",
+            "target": ".net",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": ".net",
+            "target": "asp.net",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "java",
+            "target": "hibernate",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "programming",
+            "target": "python",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "programming",
+            "target": "java",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "programming",
+            "target": "c#",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "communication skills",
+            "target": "business analysis",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "communication skills",
+            "target": "project management",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "analytical skills",
+            "target": "data analysis",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "analytical skills",
+            "target": "business analysis",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "business intelligence",
+            "target": "data warehousing",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "data warehousing",
+            "target": "teradata",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "data warehousing",
+            "target": "snowflake",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "cloud based technologies",
+            "target": "aws",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "cloud based technologies",
+            "target": "azure",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "data visualization",
+            "target": "communication skills",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "configuration",
+            "target": "configuration and design",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "workflow",
+            "target": "business process",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "rest",
+            "target": "api",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "api",
+            "target": "restful interfaces / apis",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "data analysis",
+            "target": "market research",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "market research",
+            "target": "google analytics",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        }
+    ]
+}

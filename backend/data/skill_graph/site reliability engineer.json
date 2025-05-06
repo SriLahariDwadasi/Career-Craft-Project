@@ -1,0 +1,5139 @@
+{
+    "skills": [
+        {
+            "id": "site reliability engineering",
+            "name": "site reliability engineering",
+            "type": "concept",
+            "frequency": 24
+        },
+        {
+            "id": "devops",
+            "name": "devops",
+            "type": "concept",
+            "frequency": 67
+        },
+        {
+            "id": "software engineering",
+            "name": "software engineering",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "golang",
+            "name": "golang",
+            "type": "language",
+            "frequency": 33
+        },
+        {
+            "id": "python",
+            "name": "python",
+            "type": "language",
+            "frequency": 355
+        },
+        {
+            "id": "terraform",
+            "name": "terraform",
+            "type": "tool",
+            "frequency": 170
+        },
+        {
+            "id": "ansible",
+            "name": "ansible",
+            "type": "tool",
+            "frequency": 141
+        },
+        {
+            "id": "packer",
+            "name": "packer",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "helm",
+            "name": "helm",
+            "type": "tool",
+            "frequency": 20
+        },
+        {
+            "id": "aws",
+            "name": "aws",
+            "type": "platform",
+            "frequency": 217
+        },
+        {
+            "id": "php",
+            "name": "php",
+            "type": "language",
+            "frequency": 13
+        },
+        {
+            "id": "ruby",
+            "name": "ruby",
+            "type": "language",
+            "frequency": 95
+        },
+        {
+            "id": "go",
+            "name": "go",
+            "type": "language",
+            "frequency": 131
+        },
+        {
+            "id": "c",
+            "name": "c",
+            "type": "language",
+            "frequency": 16
+        },
+        {
+            "id": "java",
+            "name": "java",
+            "type": "language",
+            "frequency": 204
+        },
+        {
+            "id": "docker",
+            "name": "docker",
+            "type": "tool",
+            "frequency": 159
+        },
+        {
+            "id": "kubernetes",
+            "name": "kubernetes",
+            "type": "tool",
+            "frequency": 246
+        },
+        {
+            "id": "distributed system",
+            "name": "distributed system",
+            "type": "concept",
+            "frequency": 27
+        },
+        {
+            "id": "security",
+            "name": "security",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "cassandra",
+            "name": "cassandra",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "c++",
+            "name": "c++",
+            "type": "language",
+            "frequency": 25
+        },
+        {
+            "id": "linux",
+            "name": "linux",
+            "type": "platform",
+            "frequency": 197
+        },
+        {
+            "id": "networking protocols",
+            "name": "networking protocols",
+            "type": "concept",
+            "frequency": 22
+        },
+        {
+            "id": "programming languages",
+            "name": "programming languages",
+            "type": "language",
+            "frequency": 8
+        },
+        {
+            "id": "jenkin",
+            "name": "jenkin",
+            "type": "tool",
+            "frequency": 75
+        },
+        {
+            "id": "spinnaker",
+            "name": "spinnaker",
+            "type": "tool",
+            "frequency": 23
+        },
+        {
+            "id": "artifactory",
+            "name": "artifactory",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "chef",
+            "name": "chef",
+            "type": "tool",
+            "frequency": 73
+        },
+        {
+            "id": "splunk",
+            "name": "splunk",
+            "type": "tool",
+            "frequency": 48
+        },
+        {
+            "id": "nginx",
+            "name": "nginx",
+            "type": "tool",
+            "frequency": 17
+        },
+        {
+            "id": "windows",
+            "name": "windows",
+            "type": "platform",
+            "frequency": 20
+        },
+        {
+            "id": "puppet",
+            "name": "puppet",
+            "type": "tool",
+            "frequency": 69
+        },
+        {
+            "id": "powershell",
+            "name": "powershell",
+            "type": "language",
+            "frequency": 39
+        },
+        {
+            "id": "git",
+            "name": "git",
+            "type": "tool",
+            "frequency": 77
+        },
+        {
+            "id": "argocd",
+            "name": "argocd",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "js",
+            "name": "js",
+            "type": "language",
+            "frequency": 55
+        },
+        {
+            "id": "tcp/ip",
+            "name": "tcp/ip",
+            "type": "concept",
+            "frequency": 21
+        },
+        {
+            "id": "kafka",
+            "name": "kafka",
+            "type": "tool",
+            "frequency": 36
+        },
+        {
+            "id": "redis",
+            "name": "redis",
+            "type": "tool",
+            "frequency": 26
+        },
+        {
+            "id": "s3",
+            "name": "s3",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "prometheus",
+            "name": "prometheus",
+            "type": "tool",
+            "frequency": 60
+        },
+        {
+            "id": "relational database",
+            "name": "relational database",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "nagios",
+            "name": "nagios",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "tcp",
+            "name": "tcp",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "dns",
+            "name": "dns",
+            "type": "concept",
+            "frequency": 16
+        },
+        {
+            "id": "automation",
+            "name": "automation",
+            "type": "concept",
+            "frequency": 41
+        },
+        {
+            "id": "monitoring systems",
+            "name": "monitoring systems",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "unix",
+            "name": "unix",
+            "type": "platform",
+            "frequency": 15
+        },
+        {
+            "id": "cloud computing",
+            "name": "cloud computing",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "networking",
+            "name": "networking",
+            "type": "concept",
+            "frequency": 28
+        },
+        {
+            "id": "bash",
+            "name": "bash",
+            "type": "language",
+            "frequency": 91
+        },
+        {
+            "id": "hadoop",
+            "name": "hadoop",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "spark",
+            "name": "spark",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "nosql",
+            "name": "nosql",
+            "type": "tool",
+            "frequency": 19
+        },
+        {
+            "id": "ci/cd",
+            "name": "ci/cd",
+            "type": "concept",
+            "frequency": 59
+        },
+        {
+            "id": "gcp",
+            "name": "gcp",
+            "type": "platform",
+            "frequency": 59
+        },
+        {
+            "id": "postgresql",
+            "name": "postgresql",
+            "type": "database",
+            "frequency": 14
+        },
+        {
+            "id": "mysql",
+            "name": "mysql",
+            "type": "database",
+            "frequency": 25
+        },
+        {
+            "id": "azure devops",
+            "name": "azure devops",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "c#",
+            "name": "c#",
+            "type": "language",
+            "frequency": 28
+        },
+        {
+            "id": "scala",
+            "name": "scala",
+            "type": "language",
+            "frequency": 14
+        },
+        {
+            "id": "grafana",
+            "name": "grafana",
+            "type": "tool",
+            "frequency": 56
+        },
+        {
+            "id": "dynatrace",
+            "name": "dynatrace",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "micro services",
+            "name": "micro services",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "cloud",
+            "name": "cloud",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "servicenow",
+            "name": "servicenow",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "site reliability engineering (sre)",
+            "name": "site reliability engineering (sre)",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "continuous integration",
+            "name": "continuous integration",
+            "type": "methodology",
+            "frequency": 15
+        },
+        {
+            "id": "continuous delivery",
+            "name": "continuous delivery",
+            "type": "methodology",
+            "frequency": 8
+        },
+        {
+            "id": "unix/linux",
+            "name": "unix/linux",
+            "type": "platform",
+            "frequency": 13
+        },
+        {
+            "id": "configuration management",
+            "name": "configuration management",
+            "type": "methodology",
+            "frequency": 28
+        },
+        {
+            "id": "container",
+            "name": "container",
+            "type": "concept",
+            "frequency": 17
+        },
+        {
+            "id": "shell",
+            "name": "shell",
+            "type": "language",
+            "frequency": 13
+        },
+        {
+            "id": "ci/cd pipeline",
+            "name": "ci/cd pipeline",
+            "type": "methodology",
+            "frequency": 25
+        },
+        {
+            "id": "zabbix",
+            "name": "zabbix",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "new relic",
+            "name": "new relic",
+            "type": "tool",
+            "frequency": 13
+        },
+        {
+            "id": "agile",
+            "name": "agile",
+            "type": "methodology",
+            "frequency": 25
+        },
+        {
+            "id": "linux operating system",
+            "name": "linux operating system",
+            "type": "platform",
+            "frequency": 16
+        },
+        {
+            "id": "azure",
+            "name": "azure",
+            "type": "platform",
+            "frequency": 69
+        },
+        {
+            "id": "agile methodologies",
+            "name": "agile methodologies",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "perl",
+            "name": "perl",
+            "type": "language",
+            "frequency": 32
+        },
+        {
+            "id": "oracle",
+            "name": "oracle",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "configuration management system",
+            "name": "configuration management system",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "c/c++",
+            "name": "c/c++",
+            "type": "language",
+            "frequency": 14
+        },
+        {
+            "id": "version control system",
+            "name": "version control system",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "cloud computing platforms",
+            "name": "cloud computing platforms",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "continuous integration tools",
+            "name": "continuous integration tools",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "vmware",
+            "name": "vmware",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "agile development",
+            "name": "agile development",
+            "type": "methodology",
+            "frequency": 9
+        },
+        {
+            "id": "infrastructure as code",
+            "name": "infrastructure as code",
+            "type": "concept",
+            "frequency": 41
+        },
+        {
+            "id": "node",
+            "name": "node",
+            "type": "language",
+            "frequency": 39
+        },
+        {
+            "id": "sql",
+            "name": "sql",
+            "type": "language",
+            "frequency": 46
+        },
+        {
+            "id": "data lake",
+            "name": "data lake",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "debugging",
+            "name": "debugging",
+            "type": "methodology",
+            "frequency": 10
+        },
+        {
+            "id": "shell scripting",
+            "name": "shell scripting",
+            "type": "tool",
+            "frequency": 22
+        },
+        {
+            "id": "database concepts",
+            "name": "database concepts",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "job scheduler",
+            "name": "job scheduler",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "mq",
+            "name": "mq",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "web services",
+            "name": "web services",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "cloud platform",
+            "name": "cloud platform",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": ".net",
+            "name": ".net",
+            "type": "language",
+            "frequency": 18
+        },
+        {
+            "id": "algorithm",
+            "name": "algorithm",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "amazon web services (aws)",
+            "name": "amazon web services (aws)",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "datadog",
+            "name": "datadog",
+            "type": "tool",
+            "frequency": 24
+        },
+        {
+            "id": "linux system administration",
+            "name": "linux system administration",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "typescript",
+            "name": "typescript",
+            "type": "language",
+            "frequency": 9
+        },
+        {
+            "id": "observability",
+            "name": "observability",
+            "type": "concept",
+            "frequency": 8
+        },
+        {
+            "id": "troubleshooting",
+            "name": "troubleshooting",
+            "type": "methodology",
+            "frequency": 23
+        },
+        {
+            "id": "postgres",
+            "name": "postgres",
+            "type": "tool",
+            "frequency": 17
+        },
+        {
+            "id": "istio",
+            "name": "istio",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "bash scripting",
+            "name": "bash scripting",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "scale testing",
+            "name": "scale testing",
+            "type": "concept",
+            "frequency": 15
+        },
+        {
+            "id": "disaster recovery",
+            "name": "disaster recovery",
+            "type": "concept",
+            "frequency": 16
+        },
+        {
+            "id": "capacity planning",
+            "name": "capacity planning",
+            "type": "concept",
+            "frequency": 18
+        },
+        {
+            "id": "microservices architecture",
+            "name": "microservices architecture",
+            "type": "concept",
+            "frequency": 17
+        },
+        {
+            "id": "sre",
+            "name": "sre",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "containerization",
+            "name": "containerization",
+            "type": "methodology",
+            "frequency": 7
+        },
+        {
+            "id": "software delivery platforms",
+            "name": "software delivery platforms",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "cloudformation",
+            "name": "cloudformation",
+            "type": "tool",
+            "frequency": 19
+        },
+        {
+            "id": "gitlab",
+            "name": "gitlab",
+            "type": "tool",
+            "frequency": 14
+        },
+        {
+            "id": "monitoring tools",
+            "name": "monitoring tools",
+            "type": "tool",
+            "frequency": 14
+        },
+        {
+            "id": "restful api",
+            "name": "restful api",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "scripting languages",
+            "name": "scripting languages",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "openshift",
+            "name": "openshift",
+            "type": "platform",
+            "frequency": 9
+        },
+        {
+            "id": "unix shell",
+            "name": "unix shell",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "salt",
+            "name": "salt",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "ecs",
+            "name": "ecs",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "react",
+            "name": "react",
+            "type": "language",
+            "frequency": 13
+        },
+        {
+            "id": "dynamodb",
+            "name": "dynamodb",
+            "type": "language",
+            "frequency": 8
+        },
+        {
+            "id": "virtualization",
+            "name": "virtualization",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "haproxy",
+            "name": "haproxy",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "scripting",
+            "name": "scripting",
+            "type": "concept",
+            "frequency": 13
+        },
+        {
+            "id": "rds",
+            "name": "rds",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "elasticsearch",
+            "name": "elasticsearch",
+            "type": "tool",
+            "frequency": 27
+        },
+        {
+            "id": "rabbitmq",
+            "name": "rabbitmq",
+            "type": "tool",
+            "frequency": 9
+        },
+        {
+            "id": "big data",
+            "name": "big data",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "cloud infrastructures",
+            "name": "cloud infrastructures",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "software development",
+            "name": "software development",
+            "type": "concept",
+            "frequency": 7
+        },
+        {
+            "id": "infrastructure automation",
+            "name": "infrastructure automation",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "jira",
+            "name": "jira",
+            "type": "tool",
+            "frequency": 16
+        },
+        {
+            "id": "linux system",
+            "name": "linux system",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "elk",
+            "name": "elk",
+            "type": "tool",
+            "frequency": 18
+        },
+        {
+            "id": "appdynamics",
+            "name": "appdynamics",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "kibana",
+            "name": "kibana",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "microservices",
+            "name": "microservices",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "cloudwatch",
+            "name": "cloudwatch",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "pagerduty",
+            "name": "pagerduty",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "lambda",
+            "name": "lambda",
+            "type": "platform",
+            "frequency": 7
+        },
+        {
+            "id": "eks",
+            "name": "eks",
+            "type": "platform",
+            "frequency": 8
+        },
+        {
+            "id": "github",
+            "name": "github",
+            "type": "tool",
+            "frequency": 12
+        },
+        {
+            "id": "confluence",
+            "name": "confluence",
+            "type": "tool",
+            "frequency": 6
+        },
+        {
+            "id": "helm charts",
+            "name": "helm charts",
+            "type": "tool",
+            "frequency": 8
+        },
+        {
+            "id": "rust",
+            "name": "rust",
+            "type": "language",
+            "frequency": 9
+        },
+        {
+            "id": "maven",
+            "name": "maven",
+            "type": "tool",
+            "frequency": 10
+        },
+        {
+            "id": "mongodb",
+            "name": "mongodb",
+            "type": "tool",
+            "frequency": 11
+        },
+        {
+            "id": "monitoring",
+            "name": "monitoring",
+            "type": "concept",
+            "frequency": 19
+        },
+        {
+            "id": "aws cloudformation",
+            "name": "aws cloudformation",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "http",
+            "name": "http",
+            "type": "concept",
+            "frequency": 11
+        },
+        {
+            "id": "chaos engineering",
+            "name": "chaos engineering",
+            "type": "methodology",
+            "frequency": 5
+        },
+        {
+            "id": "cloud technologies",
+            "name": "cloud technologies",
+            "type": "concept",
+            "frequency": 10
+        },
+        {
+            "id": "monitoring technologies",
+            "name": "monitoring technologies",
+            "type": "concept",
+            "frequency": 5
+        },
+        {
+            "id": "angular",
+            "name": "angular",
+            "type": "language",
+            "frequency": 6
+        },
+        {
+            "id": "cloud platforms",
+            "name": "cloud platforms",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "rest api",
+            "name": "rest api",
+            "type": "concept",
+            "frequency": 6
+        },
+        {
+            "id": "gradle",
+            "name": "gradle",
+            "type": "tool",
+            "frequency": 7
+        },
+        {
+            "id": "spring boot",
+            "name": "spring boot",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "linux administration",
+            "name": "linux administration",
+            "type": "platform",
+            "frequency": 6
+        },
+        {
+            "id": "saltstack",
+            "name": "saltstack",
+            "type": "tool",
+            "frequency": 5
+        },
+        {
+            "id": "aws services",
+            "name": "aws services",
+            "type": "platform",
+            "frequency": 5
+        },
+        {
+            "id": "automation tools",
+            "name": "automation tools",
+            "type": "tool",
+            "frequency": 6
+        }
+    ],
+    "relationships": [
+        {
+            "source": "site reliability engineering",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 0.8181818181818181
+        },
+        {
+            "source": "devops",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.3582089552238806,
+            "lift": 0.9508219272302084
+        },
+        {
+            "source": "devops",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.2537313432835821,
+            "lift": 0.9191776964235426
+        },
+        {
+            "source": "devops",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.34328358208955223,
+            "lift": 0.9740460260274979
+        },
+        {
+            "source": "devops",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.40298507462686567,
+            "lift": 0.9474261346329577
+        },
+        {
+            "source": "devops",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.2835820895522388,
+            "lift": 0.829153723766952
+        },
+        {
+            "source": "devops",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5373134328358209,
+            "lift": 0.8792401628222523
+        },
+        {
+            "source": "devops",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.2985074626865672,
+            "lift": 1.0173982160204893
+        },
+        {
+            "source": "golang",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.48484848484848486,
+            "lift": 1.2869710934227063
+        },
+        {
+            "source": "golang",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.42424242424242425,
+            "lift": 1.2037617554858933
+        },
+        {
+            "source": "golang",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5454545454545455,
+            "lift": 1.282374768089054
+        },
+        {
+            "source": "golang",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9393939393939394,
+            "lift": 1.537190082644628
+        },
+        {
+            "source": "golang",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.5454545454545455,
+            "lift": 1.859064012910167
+        },
+        {
+            "source": "python",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.30681818181818177,
+            "lift": 1.262337662337662
+        },
+        {
+            "source": "python",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.3977272727272727,
+            "lift": 1.0557184750733137
+        },
+        {
+            "source": "python",
+            "target": "bash",
+            "relationship": "association",
+            "confidence": 0.25284090909090906,
+            "lift": 1.6003996003996002
+        },
+        {
+            "source": "python",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.32954545454545453,
+            "lift": 1.1938250428816466
+        },
+        {
+            "source": "python",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.3636363636363636,
+            "lift": 1.598889659958362
+        },
+        {
+            "source": "python",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.471590909090909,
+            "lift": 1.3381101656963723
+        },
+        {
+            "source": "python",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5056818181818181,
+            "lift": 1.1888682745825603
+        },
+        {
+            "source": "python",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.42045454545454536,
+            "lift": 1.2293493308721732
+        },
+        {
+            "source": "python",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.25852272727272724,
+            "lift": 1.5674641148325357
+        },
+        {
+            "source": "python",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.34659090909090906,
+            "lift": 1.181280258203335
+        },
+        {
+            "source": "terraform",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.37869822485207094,
+            "lift": 1.5580726965342349
+        },
+        {
+            "source": "terraform",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5739644970414202,
+            "lift": 1.5235186649578711
+        },
+        {
+            "source": "terraform",
+            "target": "bash",
+            "relationship": "association",
+            "confidence": 0.2603550295857988,
+            "lift": 1.6479615059496717
+        },
+        {
+            "source": "terraform",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.4319526627218935,
+            "lift": 1.5648096460868592
+        },
+        {
+            "source": "terraform",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.30769230769230765,
+            "lift": 0.8730579765062522
+        },
+        {
+            "source": "terraform",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.6390532544378698,
+            "lift": 1.5024272430865837
+        },
+        {
+            "source": "terraform",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.3668639053254438,
+            "lift": 1.0726579160784548
+        },
+        {
+            "source": "terraform",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7218934911242603,
+            "lift": 1.1812802582033348
+        },
+        {
+            "source": "ansible",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.38571428571428573,
+            "lift": 1.0238314680710994
+        },
+        {
+            "source": "ansible",
+            "target": "bash",
+            "relationship": "association",
+            "confidence": 0.2785714285714286,
+            "lift": 1.763265306122449
+        },
+        {
+            "source": "ansible",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.40714285714285714,
+            "lift": 3.2125244618395303
+        },
+        {
+            "source": "ansible",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.35714285714285715,
+            "lift": 1.2938005390835579
+        },
+        {
+            "source": "ansible",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.30000000000000004,
+            "lift": 1.319083969465649
+        },
+        {
+            "source": "ansible",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4642857142857143,
+            "lift": 1.3173821252638986
+        },
+        {
+            "source": "ansible",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5714285714285715,
+            "lift": 1.343440233236152
+        },
+        {
+            "source": "ansible",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.35714285714285715,
+            "lift": 1.0442349528643944
+        },
+        {
+            "source": "ansible",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.38571428571428573,
+            "lift": 3.2198757763975157
+        },
+        {
+            "source": "ansible",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7714285714285715,
+            "lift": 1.2623376623376623
+        },
+        {
+            "source": "ansible",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.30000000000000004,
+            "lift": 1.8189473684210529
+        },
+        {
+            "source": "ansible",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.45714285714285713,
+            "lift": 1.5580726965342349
+        },
+        {
+            "source": "helm",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.6,
+            "lift": 2.1735849056603773
+        },
+        {
+            "source": "helm",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.7999999999999999,
+            "lift": 1.8808163265306121
+        },
+        {
+            "source": "helm",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7999999999999999,
+            "lift": 1.3090909090909089
+        },
+        {
+            "source": "helm",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.75,
+            "lift": 2.556213017751479
+        },
+        {
+            "source": "aws",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.3548387096774194,
+            "lift": 1.2854534388314058
+        },
+        {
+            "source": "aws",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.36405529953917054,
+            "lift": 1.032984495244149
+        },
+        {
+            "source": "aws",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5023041474654378,
+            "lift": 1.1809273017962947
+        },
+        {
+            "source": "aws",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.3548387096774194,
+            "lift": 1.0374979531684951
+        },
+        {
+            "source": "aws",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6451612903225806,
+            "lift": 1.0557184750733137
+        },
+        {
+            "source": "aws",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.44700460829493094,
+            "lift": 1.5235186649578711
+        },
+        {
+            "source": "ruby",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.4421052631578948,
+            "lift": 1.8189473684210529
+        },
+        {
+            "source": "ruby",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.3894736842105263,
+            "lift": 1.0338103322823187
+        },
+        {
+            "source": "ruby",
+            "target": "bash",
+            "relationship": "association",
+            "confidence": 0.2947368421052632,
+            "lift": 1.8655870445344132
+        },
+        {
+            "source": "ruby",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.3894736842105263,
+            "lift": 3.0731074260994955
+        },
+        {
+            "source": "ruby",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.28421052631578947,
+            "lift": 1.0295928500496523
+        },
+        {
+            "source": "ruby",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.5473684210526316,
+            "lift": 2.4067496986741665
+        },
+        {
+            "source": "ruby",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6315789473684211,
+            "lift": 1.7920663728286235
+        },
+        {
+            "source": "ruby",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5368421052631579,
+            "lift": 1.2621267454350162
+        },
+        {
+            "source": "ruby",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.37894736842105264,
+            "lift": 1.107988244723484
+        },
+        {
+            "source": "ruby",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.4,
+            "lift": 3.339130434782609
+        },
+        {
+            "source": "ruby",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9578947368421052,
+            "lift": 1.5674641148325357
+        },
+        {
+            "source": "ruby",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.2736842105263158,
+            "lift": 0.9327935222672065
+        },
+        {
+            "source": "go",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.3206106870229008,
+            "lift": 1.319083969465649
+        },
+        {
+            "source": "go",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.3511450381679389,
+            "lift": 0.9320716220494599
+        },
+        {
+            "source": "go",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.33587786259541985,
+            "lift": 1.2167650871381246
+        },
+        {
+            "source": "go",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6106870229007634,
+            "lift": 1.7327868236001955
+        },
+        {
+            "source": "go",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.648854961832061,
+            "lift": 1.525471257205172
+        },
+        {
+            "source": "go",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.45038167938931295,
+            "lift": 1.316852016894641
+        },
+        {
+            "source": "go",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.25190839694656486,
+            "lift": 2.1028874875539327
+        },
+        {
+            "source": "go",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9770992366412213,
+            "lift": 1.598889659958362
+        },
+        {
+            "source": "go",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.3969465648854962,
+            "lift": 2.4067496986741665
+        },
+        {
+            "source": "go",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.2748091603053435,
+            "lift": 0.9366276706264962
+        },
+        {
+            "source": "c",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 1.4318181818181819
+        },
+        {
+            "source": "java",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.32019704433497537,
+            "lift": 1.3173821252638986
+        },
+        {
+            "source": "java",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.3891625615763547,
+            "lift": 1.032984495244149
+        },
+        {
+            "source": "java",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.32019704433497537,
+            "lift": 1.1599591040059485
+        },
+        {
+            "source": "java",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.3940886699507389,
+            "lift": 1.7327868236001953
+        },
+        {
+            "source": "java",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.46798029556650245,
+            "lift": 1.100231225495124
+        },
+        {
+            "source": "java",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.4187192118226601,
+            "lift": 1.224275461978945
+        },
+        {
+            "source": "java",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.8177339901477831,
+            "lift": 1.3381101656963723
+        },
+        {
+            "source": "java",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.29556650246305416,
+            "lift": 1.7920663728286232
+        },
+        {
+            "source": "java",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.25615763546798026,
+            "lift": 0.8730579765062522
+        },
+        {
+            "source": "docker",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.31446540880503143,
+            "lift": 1.2938005390835579
+        },
+        {
+            "source": "docker",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.4842767295597484,
+            "lift": 1.2854534388314058
+        },
+        {
+            "source": "docker",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.27672955974842767,
+            "lift": 1.2167650871381248
+        },
+        {
+            "source": "docker",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.40880503144654085,
+            "lift": 1.1599591040059483
+        },
+        {
+            "source": "docker",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.7861635220125786,
+            "lift": 1.8482864844050826
+        },
+        {
+            "source": "docker",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.42767295597484273,
+            "lift": 1.2504549372665452
+        },
+        {
+            "source": "docker",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7295597484276729,
+            "lift": 1.1938250428816464
+        },
+        {
+            "source": "docker",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.45911949685534587,
+            "lift": 1.5648096460868592
+        },
+        {
+            "source": "kubernetes",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.326530612244898,
+            "lift": 1.3434402332361517
+        },
+        {
+            "source": "kubernetes",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.4448979591836735,
+            "lift": 1.1809273017962947
+        },
+        {
+            "source": "kubernetes",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.5102040816326531,
+            "lift": 1.8482864844050828
+        },
+        {
+            "source": "kubernetes",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.3469387755102041,
+            "lift": 1.525471257205172
+        },
+        {
+            "source": "kubernetes",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.3877551020408163,
+            "lift": 1.100231225495124
+        },
+        {
+            "source": "kubernetes",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.40816326530612246,
+            "lift": 1.193411374702165
+        },
+        {
+            "source": "kubernetes",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.726530612244898,
+            "lift": 1.1888682745825603
+        },
+        {
+            "source": "kubernetes",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.44081632653061226,
+            "lift": 1.5024272430865837
+        },
+        {
+            "source": "distributed system",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.5185185185185185,
+            "lift": 2.1333333333333333
+        },
+        {
+            "source": "distributed system",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.5185185185185185,
+            "lift": 4.091324200913242
+        },
+        {
+            "source": "distributed system",
+            "target": "configuration management",
+            "relationship": "association",
+            "confidence": 0.48148148148148145,
+            "lift": 9.904761904761903
+        },
+        {
+            "source": "distributed system",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.5185185185185185,
+            "lift": 2.2798982188295165
+        },
+        {
+            "source": "distributed system",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6666666666666666,
+            "lift": 1.8916256157635465
+        },
+        {
+            "source": "distributed system",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.7037037037037037,
+            "lift": 1.6544217687074831
+        },
+        {
+            "source": "distributed system",
+            "target": "microservices architecture",
+            "relationship": "association",
+            "confidence": 0.4444444444444444,
+            "lift": 15.058823529411764
+        },
+        {
+            "source": "distributed system",
+            "target": "networking protocols",
+            "relationship": "association",
+            "confidence": 0.4444444444444444,
+            "lift": 11.636363636363635
+        },
+        {
+            "source": "distributed system",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.5185185185185185,
+            "lift": 4.328502415458937
+        },
+        {
+            "source": "distributed system",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.8148148148148149,
+            "lift": 1.3333333333333333
+        },
+        {
+            "source": "distributed system",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.5555555555555556,
+            "lift": 3.368421052631579
+        },
+        {
+            "source": "distributed system",
+            "target": "scale testing",
+            "relationship": "association",
+            "confidence": 0.4444444444444444,
+            "lift": 17.066666666666666
+        },
+        {
+            "source": "distributed system",
+            "target": "spinnaker",
+            "relationship": "association",
+            "confidence": 0.4444444444444444,
+            "lift": 11.130434782608695
+        },
+        {
+            "source": "distributed system",
+            "target": "troubleshooting",
+            "relationship": "association",
+            "confidence": 0.4444444444444444,
+            "lift": 11.130434782608695
+        },
+        {
+            "source": "c++",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.76,
+            "lift": 2.1564532019704434
+        },
+        {
+            "source": "c++",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.52,
+            "lift": 1.222530612244898
+        },
+        {
+            "source": "c++",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9199999999999999,
+            "lift": 1.5054545454545452
+        },
+        {
+            "source": "linux",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.25380710659898476,
+            "lift": 1.0442349528643944
+        },
+        {
+            "source": "linux",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.39086294416243655,
+            "lift": 1.0374979531684951
+        },
+        {
+            "source": "linux",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.34517766497461927,
+            "lift": 1.2504549372665452
+        },
+        {
+            "source": "linux",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.29949238578680204,
+            "lift": 1.3168520168946412
+        },
+        {
+            "source": "linux",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.43147208121827413,
+            "lift": 1.2242754619789453
+        },
+        {
+            "source": "linux",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5076142131979695,
+            "lift": 1.193411374702165
+        },
+        {
+            "source": "linux",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7512690355329948,
+            "lift": 1.2293493308721732
+        },
+        {
+            "source": "linux",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.3147208121827411,
+            "lift": 1.0726579160784548
+        },
+        {
+            "source": "networking protocols",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.8181818181818181,
+            "lift": 3.366233766233766
+        },
+        {
+            "source": "networking protocols",
+            "target": "capacity planning",
+            "relationship": "association",
+            "confidence": 0.6363636363636364,
+            "lift": 20.363636363636363
+        },
+        {
+            "source": "networking protocols",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.7727272727272726,
+            "lift": 6.097135740971357
+        },
+        {
+            "source": "networking protocols",
+            "target": "configuration management",
+            "relationship": "association",
+            "confidence": 0.6818181818181818,
+            "lift": 14.025974025974024
+        },
+        {
+            "source": "networking protocols",
+            "target": "disaster recovery",
+            "relationship": "association",
+            "confidence": 0.6363636363636364,
+            "lift": 22.90909090909091
+        },
+        {
+            "source": "networking protocols",
+            "target": "distributed system",
+            "relationship": "association",
+            "confidence": 0.5454545454545454,
+            "lift": 11.636363636363635
+        },
+        {
+            "source": "networking protocols",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.7272727272727272,
+            "lift": 3.197779319916724
+        },
+        {
+            "source": "networking protocols",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.7272727272727272,
+            "lift": 2.0635915808329597
+        },
+        {
+            "source": "networking protocols",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.8636363636363635,
+            "lift": 2.030426716141002
+        },
+        {
+            "source": "networking protocols",
+            "target": "linux operating system",
+            "relationship": "association",
+            "confidence": 0.6363636363636364,
+            "lift": 22.90909090909091
+        },
+        {
+            "source": "networking protocols",
+            "target": "microservices architecture",
+            "relationship": "association",
+            "confidence": 0.6818181818181818,
+            "lift": 23.101604278074866
+        },
+        {
+            "source": "networking protocols",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.7727272727272726,
+            "lift": 6.450592885375492
+        },
+        {
+            "source": "networking protocols",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.8181818181818181,
+            "lift": 1.3388429752066113
+        },
+        {
+            "source": "networking protocols",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.7272727272727272,
+            "lift": 4.40956937799043
+        },
+        {
+            "source": "networking protocols",
+            "target": "scale testing",
+            "relationship": "association",
+            "confidence": 0.6818181818181818,
+            "lift": 26.18181818181818
+        },
+        {
+            "source": "networking protocols",
+            "target": "spinnaker",
+            "relationship": "association",
+            "confidence": 0.6818181818181818,
+            "lift": 17.07509881422925
+        },
+        {
+            "source": "networking protocols",
+            "target": "troubleshooting",
+            "relationship": "association",
+            "confidence": 0.6363636363636364,
+            "lift": 15.936758893280633
+        },
+        {
+            "source": "jenkin",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.36,
+            "lift": 1.481142857142857
+        },
+        {
+            "source": "jenkin",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.4666666666666666,
+            "lift": 1.2387096774193547
+        },
+        {
+            "source": "jenkin",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.39999999999999997,
+            "lift": 1.4490566037735846
+        },
+        {
+            "source": "jenkin",
+            "target": "git",
+            "relationship": "association",
+            "confidence": 0.38666666666666666,
+            "lift": 2.8924675324675326
+        },
+        {
+            "source": "jenkin",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.36,
+            "lift": 1.021477832512315
+        },
+        {
+            "source": "jenkin",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.4666666666666666,
+            "lift": 1.097142857142857
+        },
+        {
+            "source": "jenkin",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.39999999999999997,
+            "lift": 1.1695431472081217
+        },
+        {
+            "source": "jenkin",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6933333333333332,
+            "lift": 1.1345454545454543
+        },
+        {
+            "source": "jenkin",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.42666666666666664,
+            "lift": 1.4542011834319526
+        },
+        {
+            "source": "spinnaker",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.8695652173913044,
+            "lift": 3.5776397515527956
+        },
+        {
+            "source": "spinnaker",
+            "target": "capacity planning",
+            "relationship": "association",
+            "confidence": 0.6086956521739131,
+            "lift": 19.47826086956522
+        },
+        {
+            "source": "spinnaker",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.8695652173913044,
+            "lift": 6.861226920786184
+        },
+        {
+            "source": "spinnaker",
+            "target": "configuration management",
+            "relationship": "association",
+            "confidence": 0.7391304347826088,
+            "lift": 15.20496894409938
+        },
+        {
+            "source": "spinnaker",
+            "target": "disaster recovery",
+            "relationship": "association",
+            "confidence": 0.6086956521739131,
+            "lift": 21.91304347826087
+        },
+        {
+            "source": "spinnaker",
+            "target": "distributed system",
+            "relationship": "association",
+            "confidence": 0.5217391304347826,
+            "lift": 11.130434782608695
+        },
+        {
+            "source": "spinnaker",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.9130434782608697,
+            "lift": 4.014603385330236
+        },
+        {
+            "source": "spinnaker",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.9130434782608697,
+            "lift": 2.590704647676162
+        },
+        {
+            "source": "spinnaker",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 2.3510204081632655
+        },
+        {
+            "source": "spinnaker",
+            "target": "linux operating system",
+            "relationship": "association",
+            "confidence": 0.6086956521739131,
+            "lift": 21.91304347826087
+        },
+        {
+            "source": "spinnaker",
+            "target": "microservices architecture",
+            "relationship": "association",
+            "confidence": 0.6521739130434784,
+            "lift": 22.097186700767267
+        },
+        {
+            "source": "spinnaker",
+            "target": "networking protocols",
+            "relationship": "association",
+            "confidence": 0.6521739130434784,
+            "lift": 17.07509881422925
+        },
+        {
+            "source": "spinnaker",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.8260869565217392,
+            "lift": 6.896030245746693
+        },
+        {
+            "source": "spinnaker",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.6363636363636362
+        },
+        {
+            "source": "spinnaker",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.8695652173913044,
+            "lift": 5.272311212814646
+        },
+        {
+            "source": "spinnaker",
+            "target": "scale testing",
+            "relationship": "association",
+            "confidence": 0.6521739130434784,
+            "lift": 25.04347826086957
+        },
+        {
+            "source": "spinnaker",
+            "target": "troubleshooting",
+            "relationship": "association",
+            "confidence": 0.6086956521739131,
+            "lift": 15.243856332703215
+        },
+        {
+            "source": "chef",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.7808219178082192,
+            "lift": 3.2125244618395303
+        },
+        {
+            "source": "chef",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.3150684931506849,
+            "lift": 0.8363108389621867
+        },
+        {
+            "source": "chef",
+            "target": "bash",
+            "relationship": "association",
+            "confidence": 0.27397260273972607,
+            "lift": 1.7341562547042002
+        },
+        {
+            "source": "chef",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.4383561643835616,
+            "lift": 1.9274286311826831
+        },
+        {
+            "source": "chef",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6301369863013698,
+            "lift": 1.7879748970915714
+        },
+        {
+            "source": "chef",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5479452054794521,
+            "lift": 1.288230360637406
+        },
+        {
+            "source": "chef",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.3972602739726028,
+            "lift": 1.1615325777066965
+        },
+        {
+            "source": "chef",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.7260273972602741,
+            "lift": 6.0607504466944615
+        },
+        {
+            "source": "chef",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7397260273972603,
+            "lift": 1.2104607721046077
+        },
+        {
+            "source": "chef",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.5068493150684932,
+            "lift": 3.0731074260994955
+        },
+        {
+            "source": "chef",
+            "target": "spinnaker",
+            "relationship": "association",
+            "confidence": 0.27397260273972607,
+            "lift": 6.861226920786184
+        },
+        {
+            "source": "chef",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.3287671232876712,
+            "lift": 1.1205317338088676
+        },
+        {
+            "source": "splunk",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.3333333333333333,
+            "lift": 1.3714285714285714
+        },
+        {
+            "source": "splunk",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5416666666666667,
+            "lift": 1.43778801843318
+        },
+        {
+            "source": "splunk",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5416666666666667,
+            "lift": 1.536945812807882
+        },
+        {
+            "source": "splunk",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 1.0964467005076142
+        },
+        {
+            "source": "splunk",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5416666666666667,
+            "lift": 0.8863636363636365
+        },
+        {
+            "source": "nginx",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.823529411764706,
+            "lift": 2.9833518312985574
+        },
+        {
+            "source": "windows",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6,
+            "lift": 1.702463054187192
+        },
+        {
+            "source": "windows",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.6,
+            "lift": 1.4106122448979592
+        },
+        {
+            "source": "windows",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.8999999999999999,
+            "lift": 2.631472081218274
+        },
+        {
+            "source": "windows",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.75,
+            "lift": 1.227272727272727
+        },
+        {
+            "source": "puppet",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.7826086956521738,
+            "lift": 3.219875776397515
+        },
+        {
+            "source": "puppet",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.31884057971014496,
+            "lift": 0.846323382087758
+        },
+        {
+            "source": "puppet",
+            "target": "bash",
+            "relationship": "association",
+            "confidence": 0.30434782608695654,
+            "lift": 1.9264214046822745
+        },
+        {
+            "source": "puppet",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.7681159420289855,
+            "lift": 6.060750446694461
+        },
+        {
+            "source": "puppet",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.47826086956521735,
+            "lift": 2.1028874875539327
+        },
+        {
+            "source": "puppet",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5652173913043478,
+            "lift": 1.6037695437995285
+        },
+        {
+            "source": "puppet",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5217391304347826,
+            "lift": 1.2266193433895298
+        },
+        {
+            "source": "puppet",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.46376811594202894,
+            "lift": 1.355992054734054
+        },
+        {
+            "source": "puppet",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7826086956521738,
+            "lift": 1.2806324110671934
+        },
+        {
+            "source": "puppet",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.5507246376811594,
+            "lift": 3.339130434782609
+        },
+        {
+            "source": "puppet",
+            "target": "spinnaker",
+            "relationship": "association",
+            "confidence": 0.2753623188405797,
+            "lift": 6.896030245746693
+        },
+        {
+            "source": "puppet",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.34782608695652173,
+            "lift": 1.1854900951890917
+        },
+        {
+            "source": "powershell",
+            "target": "azure",
+            "relationship": "association",
+            "confidence": 0.3076923076923077,
+            "lift": 2.568561872909699
+        },
+        {
+            "source": "powershell",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.33333333333333337,
+            "lift": 0.7836734693877552
+        },
+        {
+            "source": "powershell",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.46153846153846156,
+            "lift": 0.7552447552447552
+        },
+        {
+            "source": "git",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.38961038961038963,
+            "lift": 1.6029684601113174
+        },
+        {
+            "source": "git",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.38961038961038963,
+            "lift": 1.0341732000718176
+        },
+        {
+            "source": "git",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.5064935064935064,
+            "lift": 1.8348444008821365
+        },
+        {
+            "source": "git",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.38961038961038963,
+            "lift": 1.105495489731943
+        },
+        {
+            "source": "git",
+            "target": "jenkin",
+            "relationship": "association",
+            "confidence": 0.37662337662337664,
+            "lift": 2.892467532467532
+        },
+        {
+            "source": "git",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.48051948051948046,
+            "lift": 1.1297111052213091
+        },
+        {
+            "source": "git",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.41558441558441556,
+            "lift": 1.2151097633331134
+        },
+        {
+            "source": "git",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7922077922077922,
+            "lift": 1.296340023612751
+        },
+        {
+            "source": "git",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.42857142857142855,
+            "lift": 1.4606931530008451
+        },
+        {
+            "source": "js",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.32727272727272727,
+            "lift": 1.3464935064935064
+        },
+        {
+            "source": "js",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5272727272727273,
+            "lift": 1.3995810640971933
+        },
+        {
+            "source": "js",
+            "target": "bash",
+            "relationship": "association",
+            "confidence": 0.27272727272727276,
+            "lift": 1.7262737262737267
+        },
+        {
+            "source": "js",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.34545454545454546,
+            "lift": 1.2514579759862778
+        },
+        {
+            "source": "js",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5636363636363637,
+            "lift": 1.5992834751455443
+        },
+        {
+            "source": "js",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.3818181818181819,
+            "lift": 0.8976623376623378
+        },
+        {
+            "source": "js",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.49090909090909096,
+            "lift": 1.4353484079372405
+        },
+        {
+            "source": "js",
+            "target": "node",
+            "relationship": "association",
+            "confidence": 0.3090909090909091,
+            "lift": 4.685167464114833
+        },
+        {
+            "source": "js",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7090909090909091,
+            "lift": 1.1603305785123965
+        },
+        {
+            "source": "js",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.27272727272727276,
+            "lift": 1.6535885167464117
+        },
+        {
+            "source": "js",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.27272727272727276,
+            "lift": 0.9295320064550835
+        },
+        {
+            "source": "tcp/ip",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.619047619047619,
+            "lift": 1.7565095003518645
+        },
+        {
+            "source": "tcp/ip",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9047619047619048,
+            "lift": 1.4805194805194803
+        },
+        {
+            "source": "kafka",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.4166666666666667,
+            "lift": 1.7142857142857144
+        },
+        {
+            "source": "kafka",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.6111111111111112,
+            "lift": 1.6221198156682028
+        },
+        {
+            "source": "kafka",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.4444444444444444,
+            "lift": 1.6100628930817609
+        },
+        {
+            "source": "kafka",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4166666666666667,
+            "lift": 1.1822660098522166
+        },
+        {
+            "source": "kafka",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.6111111111111112,
+            "lift": 1.4367346938775512
+        },
+        {
+            "source": "kafka",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.4722222222222222,
+            "lift": 1.380710659898477
+        },
+        {
+            "source": "kafka",
+            "target": "prometheus",
+            "relationship": "association",
+            "confidence": 0.4166666666666667,
+            "lift": 4.0
+        },
+        {
+            "source": "kafka",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6388888888888888,
+            "lift": 1.0454545454545452
+        },
+        {
+            "source": "kafka",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.3888888888888889,
+            "lift": 1.3254437869822484
+        },
+        {
+            "source": "redis",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 1.327188940092166
+        },
+        {
+            "source": "redis",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.4615384615384615,
+            "lift": 1.6719883889695208
+        },
+        {
+            "source": "redis",
+            "target": "elasticsearch",
+            "relationship": "association",
+            "confidence": 0.5384615384615384,
+            "lift": 11.928994082840235
+        },
+        {
+            "source": "redis",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5384615384615384,
+            "lift": 1.2659340659340659
+        },
+        {
+            "source": "redis",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.4615384615384615,
+            "lift": 1.3494728621632175
+        },
+        {
+            "source": "redis",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6923076923076923,
+            "lift": 1.1328671328671327
+        },
+        {
+            "source": "prometheus",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.44999999999999996,
+            "lift": 1.8514285714285712
+        },
+        {
+            "source": "prometheus",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 1.327188940092166
+        },
+        {
+            "source": "prometheus",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.3333333333333333,
+            "lift": 1.2075471698113207
+        },
+        {
+            "source": "prometheus",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.3333333333333333,
+            "lift": 1.465648854961832
+        },
+        {
+            "source": "prometheus",
+            "target": "grafana",
+            "relationship": "association",
+            "confidence": 0.6833333333333332,
+            "lift": 7.028571428571428
+        },
+        {
+            "source": "prometheus",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.3333333333333333,
+            "lift": 0.9458128078817732
+        },
+        {
+            "source": "prometheus",
+            "target": "kafka",
+            "relationship": "association",
+            "confidence": 0.25,
+            "lift": 4.0
+        },
+        {
+            "source": "prometheus",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.75,
+            "lift": 1.763265306122449
+        },
+        {
+            "source": "prometheus",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.4333333333333333,
+            "lift": 1.2670050761421319
+        },
+        {
+            "source": "prometheus",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6499999999999999,
+            "lift": 1.0636363636363635
+        },
+        {
+            "source": "prometheus",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.3666666666666667,
+            "lift": 1.2497041420118344
+        },
+        {
+            "source": "dns",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.75,
+            "lift": 1.227272727272727
+        },
+        {
+            "source": "automation",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 1.064039408866995
+        },
+        {
+            "source": "automation",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.32499999999999996,
+            "lift": 0.7640816326530612
+        },
+        {
+            "source": "automation",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.475,
+            "lift": 0.7772727272727272
+        },
+        {
+            "source": "networking",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.46428571428571425,
+            "lift": 1.3575054387237127
+        },
+        {
+            "source": "networking",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6428571428571428,
+            "lift": 1.0519480519480517
+        },
+        {
+            "source": "bash",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.42857142857142855,
+            "lift": 1.7632653061224488
+        },
+        {
+            "source": "bash",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.38461538461538464,
+            "lift": 1.0209145693016661
+        },
+        {
+            "source": "bash",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.38461538461538464,
+            "lift": 1.3933236574746009
+        },
+        {
+            "source": "bash",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.38461538461538464,
+            "lift": 1.0913224706328155
+        },
+        {
+            "source": "bash",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.4835164835164836,
+            "lift": 1.13675712043059
+        },
+        {
+            "source": "bash",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.5164835164835165,
+            "lift": 1.5101243933731245
+        },
+        {
+            "source": "bash",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9780219780219781,
+            "lift": 1.6003996003996004
+        },
+        {
+            "source": "bash",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.3076923076923077,
+            "lift": 1.8655870445344132
+        },
+        {
+            "source": "bash",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.4835164835164836,
+            "lift": 1.6479615059496717
+        },
+        {
+            "source": "ci/cd",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.4576271186440678,
+            "lift": 1.2147153011013043
+        },
+        {
+            "source": "ci/cd",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.4406779661016949,
+            "lift": 1.5964182922929324
+        },
+        {
+            "source": "ci/cd",
+            "target": "git",
+            "relationship": "association",
+            "confidence": 0.25423728813559326,
+            "lift": 1.9018269865727497
+        },
+        {
+            "source": "ci/cd",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.35593220338983056,
+            "lift": 1.5650148790270413
+        },
+        {
+            "source": "ci/cd",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.2711864406779661,
+            "lift": 0.7694748267512732
+        },
+        {
+            "source": "ci/cd",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5254237288135594,
+            "lift": 1.2352819093739191
+        },
+        {
+            "source": "ci/cd",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.37288135593220345,
+            "lift": 1.0902520863804528
+        },
+        {
+            "source": "ci/cd",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6779661016949153,
+            "lift": 1.1093990755007705
+        },
+        {
+            "source": "ci/cd",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.33898305084745767,
+            "lift": 1.155350516497844
+        },
+        {
+            "source": "gcp",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.35593220338983056,
+            "lift": 1.4644067796610172
+        },
+        {
+            "source": "gcp",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.6610169491525424,
+            "lift": 1.7545887682574397
+        },
+        {
+            "source": "gcp",
+            "target": "azure",
+            "relationship": "association",
+            "confidence": 0.37288135593220345,
+            "lift": 3.112748710390568
+        },
+        {
+            "source": "gcp",
+            "target": "bash",
+            "relationship": "association",
+            "confidence": 0.35593220338983056,
+            "lift": 2.2529335071707957
+        },
+        {
+            "source": "gcp",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.35593220338983056,
+            "lift": 1.2894147745442917
+        },
+        {
+            "source": "gcp",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.25423728813559326,
+            "lift": 1.1178677707336009
+        },
+        {
+            "source": "gcp",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.2711864406779661,
+            "lift": 0.7694748267512732
+        },
+        {
+            "source": "gcp",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.4745762711864407,
+            "lift": 1.1157384987893464
+        },
+        {
+            "source": "gcp",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.3220338983050848,
+            "lift": 0.9415813473285727
+        },
+        {
+            "source": "gcp",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6610169491525424,
+            "lift": 1.081664098613251
+        },
+        {
+            "source": "gcp",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.423728813559322,
+            "lift": 1.4441881456223045
+        },
+        {
+            "source": "mysql",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.52,
+            "lift": 1.3802764976958526
+        },
+        {
+            "source": "mysql",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.52,
+            "lift": 1.4754679802955664
+        },
+        {
+            "source": "mysql",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.52,
+            "lift": 1.222530612244898
+        },
+        {
+            "source": "mysql",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.6000000000000001,
+            "lift": 1.754314720812183
+        },
+        {
+            "source": "mysql",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.68,
+            "lift": 1.1127272727272728
+        },
+        {
+            "source": "c#",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5714285714285714,
+            "lift": 1.6213933849401827
+        },
+        {
+            "source": "c#",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 0.8181818181818181
+        },
+        {
+            "source": "scala",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8571428571428571,
+            "lift": 2.4320900774102743
+        },
+        {
+            "source": "scala",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.6363636363636362
+        },
+        {
+            "source": "grafana",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.48214285714285715,
+            "lift": 1.9836734693877551
+        },
+        {
+            "source": "grafana",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.3928571428571429,
+            "lift": 1.0427913100724162
+        },
+        {
+            "source": "grafana",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.35714285714285715,
+            "lift": 1.2938005390835579
+        },
+        {
+            "source": "grafana",
+            "target": "git",
+            "relationship": "association",
+            "confidence": 0.30357142857142855,
+            "lift": 2.2708719851576995
+        },
+        {
+            "source": "grafana",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.25,
+            "lift": 1.099236641221374
+        },
+        {
+            "source": "grafana",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.4107142857142857,
+            "lift": 1.1653764954257564
+        },
+        {
+            "source": "grafana",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.6785714285714286,
+            "lift": 1.59533527696793
+        },
+        {
+            "source": "grafana",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.3392857142857143,
+            "lift": 0.9920232052211748
+        },
+        {
+            "source": "grafana",
+            "target": "prometheus",
+            "relationship": "association",
+            "confidence": 0.7321428571428571,
+            "lift": 7.028571428571428
+        },
+        {
+            "source": "grafana",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6607142857142856,
+            "lift": 1.0811688311688308
+        },
+        {
+            "source": "grafana",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.3928571428571429,
+            "lift": 1.3389687235841083
+        },
+        {
+            "source": "configuration management",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.5714285714285714,
+            "lift": 2.351020408163265
+        },
+        {
+            "source": "configuration management",
+            "target": "capacity planning",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 16.0
+        },
+        {
+            "source": "configuration management",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.5357142857142857,
+            "lift": 4.227005870841487
+        },
+        {
+            "source": "configuration management",
+            "target": "disaster recovery",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 18.0
+        },
+        {
+            "source": "configuration management",
+            "target": "distributed system",
+            "relationship": "association",
+            "confidence": 0.46428571428571425,
+            "lift": 9.904761904761903
+        },
+        {
+            "source": "configuration management",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.6071428571428571,
+            "lift": 2.669574700109051
+        },
+        {
+            "source": "configuration management",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6428571428571428,
+            "lift": 1.8240675580577055
+        },
+        {
+            "source": "configuration management",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.8214285714285714,
+            "lift": 1.931195335276968
+        },
+        {
+            "source": "configuration management",
+            "target": "linux operating system",
+            "relationship": "association",
+            "confidence": 0.5357142857142857,
+            "lift": 19.285714285714285
+        },
+        {
+            "source": "configuration management",
+            "target": "microservices architecture",
+            "relationship": "association",
+            "confidence": 0.5357142857142857,
+            "lift": 18.15126050420168
+        },
+        {
+            "source": "configuration management",
+            "target": "networking protocols",
+            "relationship": "association",
+            "confidence": 0.5357142857142857,
+            "lift": 14.025974025974024
+        },
+        {
+            "source": "configuration management",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.5357142857142857,
+            "lift": 4.472049689440993
+        },
+        {
+            "source": "configuration management",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7857142857142858,
+            "lift": 1.2857142857142858
+        },
+        {
+            "source": "configuration management",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.5357142857142857,
+            "lift": 3.2481203007518795
+        },
+        {
+            "source": "configuration management",
+            "target": "scale testing",
+            "relationship": "association",
+            "confidence": 0.5357142857142857,
+            "lift": 20.57142857142857
+        },
+        {
+            "source": "configuration management",
+            "target": "spinnaker",
+            "relationship": "association",
+            "confidence": 0.6071428571428571,
+            "lift": 15.20496894409938
+        },
+        {
+            "source": "configuration management",
+            "target": "troubleshooting",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 12.521739130434783
+        },
+        {
+            "source": "shell",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.923076923076923,
+            "lift": 1.5104895104895102
+        },
+        {
+            "source": "ci/cd pipeline",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.56,
+            "lift": 0.9163636363636364
+        },
+        {
+            "source": "agile",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.6000000000000001,
+            "lift": 1.5926267281105992
+        },
+        {
+            "source": "agile",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.56,
+            "lift": 0.9163636363636364
+        },
+        {
+            "source": "linux operating system",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 3.6000000000000005
+        },
+        {
+            "source": "linux operating system",
+            "target": "capacity planning",
+            "relationship": "association",
+            "confidence": 0.8125,
+            "lift": 26.0
+        },
+        {
+            "source": "linux operating system",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 6.904109589041097
+        },
+        {
+            "source": "linux operating system",
+            "target": "configuration management",
+            "relationship": "association",
+            "confidence": 0.9375000000000001,
+            "lift": 19.28571428571429
+        },
+        {
+            "source": "linux operating system",
+            "target": "disaster recovery",
+            "relationship": "association",
+            "confidence": 0.8125,
+            "lift": 29.25
+        },
+        {
+            "source": "linux operating system",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 3.84732824427481
+        },
+        {
+            "source": "linux operating system",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 2.4827586206896552
+        },
+        {
+            "source": "linux operating system",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 2.0571428571428574
+        },
+        {
+            "source": "linux operating system",
+            "target": "microservices architecture",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 29.647058823529417
+        },
+        {
+            "source": "linux operating system",
+            "target": "networking protocols",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 22.90909090909091
+        },
+        {
+            "source": "linux operating system",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 7.304347826086957
+        },
+        {
+            "source": "linux operating system",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 1.4318181818181819
+        },
+        {
+            "source": "linux operating system",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 5.305263157894737
+        },
+        {
+            "source": "linux operating system",
+            "target": "scale testing",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 33.6
+        },
+        {
+            "source": "linux operating system",
+            "target": "spinnaker",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 21.913043478260875
+        },
+        {
+            "source": "linux operating system",
+            "target": "troubleshooting",
+            "relationship": "association",
+            "confidence": 0.8125,
+            "lift": 20.347826086956523
+        },
+        {
+            "source": "azure",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.30434782608695654,
+            "lift": 1.2521739130434784
+        },
+        {
+            "source": "azure",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.7391304347826088,
+            "lift": 1.9619314766579845
+        },
+        {
+            "source": "azure",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.2608695652173913,
+            "lift": 0.9450369155045119
+        },
+        {
+            "source": "azure",
+            "target": "gcp",
+            "relationship": "association",
+            "confidence": 0.31884057971014496,
+            "lift": 3.112748710390568
+        },
+        {
+            "source": "azure",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.31884057971014496,
+            "lift": 0.9046905118869137
+        },
+        {
+            "source": "azure",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.4492753623188406,
+            "lift": 1.0562555456965395
+        },
+        {
+            "source": "azure",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.4492753623188406,
+            "lift": 0.7351778656126482
+        },
+        {
+            "source": "azure",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.36231884057971014,
+            "lift": 1.2348855158219707
+        },
+        {
+            "source": "perl",
+            "target": "bash",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 2.3736263736263736
+        },
+        {
+            "source": "perl",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 1.6488549618320612
+        },
+        {
+            "source": "perl",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.53125,
+            "lift": 1.5073891625615763
+        },
+        {
+            "source": "perl",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.375,
+            "lift": 0.8816326530612245
+        },
+        {
+            "source": "perl",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.43750000000000006,
+            "lift": 1.2791878172588833
+        },
+        {
+            "source": "perl",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.6363636363636362
+        },
+        {
+            "source": "perl",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.5625,
+            "lift": 3.4105263157894736
+        },
+        {
+            "source": "c/c++",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9285714285714285,
+            "lift": 1.5194805194805192
+        },
+        {
+            "source": "infrastructure as code",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.4146341463414634,
+            "lift": 1.1005957064178937
+        },
+        {
+            "source": "infrastructure as code",
+            "target": "ci/cd",
+            "relationship": "association",
+            "confidence": 0.3170731707317073,
+            "lift": 3.0954940057875158
+        },
+        {
+            "source": "infrastructure as code",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.3902439024390244,
+            "lift": 1.7158815862967791
+        },
+        {
+            "source": "infrastructure as code",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.3170731707317073,
+            "lift": 0.899675597741199
+        },
+        {
+            "source": "infrastructure as code",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.48780487804878053,
+            "lift": 1.146839223494276
+        },
+        {
+            "source": "infrastructure as code",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.2926829268292683,
+            "lift": 0.8557632784449671
+        },
+        {
+            "source": "infrastructure as code",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5853658536585366,
+            "lift": 0.957871396895787
+        },
+        {
+            "source": "node",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5263157894736842,
+            "lift": 1.397040989570701
+        },
+        {
+            "source": "node",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.4473684210526316,
+            "lift": 1.6206554121151935
+        },
+        {
+            "source": "node",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.34210526315789475,
+            "lift": 1.504218561671354
+        },
+        {
+            "source": "node",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.47368421052631576,
+            "lift": 1.3440497796214672
+        },
+        {
+            "source": "node",
+            "target": "js",
+            "relationship": "association",
+            "confidence": 0.4473684210526316,
+            "lift": 4.685167464114833
+        },
+        {
+            "source": "node",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.5526315789473685,
+            "lift": 1.299248120300752
+        },
+        {
+            "source": "node",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 1.4619289340101522
+        },
+        {
+            "source": "node",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.631578947368421,
+            "lift": 1.033492822966507
+        },
+        {
+            "source": "node",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.42105263157894735,
+            "lift": 1.4350669573341637
+        },
+        {
+            "source": "sql",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.47826086956521746,
+            "lift": 1.2694850731316372
+        },
+        {
+            "source": "sql",
+            "target": "docker",
+            "relationship": "association",
+            "confidence": 0.2608695652173913,
+            "lift": 0.9450369155045119
+        },
+        {
+            "source": "sql",
+            "target": "git",
+            "relationship": "association",
+            "confidence": 0.2608695652173913,
+            "lift": 1.9514398644833428
+        },
+        {
+            "source": "sql",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.45652173913043487,
+            "lift": 1.295352323838081
+        },
+        {
+            "source": "sql",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.2608695652173913,
+            "lift": 0.6133096716947649
+        },
+        {
+            "source": "sql",
+            "target": "linux",
+            "relationship": "association",
+            "confidence": 0.4130434782608696,
+            "lift": 1.2076804237475172
+        },
+        {
+            "source": "sql",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.5434782608695652,
+            "lift": 0.8893280632411066
+        },
+        {
+            "source": "sql",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.2608695652173913,
+            "lift": 0.8891175713918188
+        },
+        {
+            "source": "shell scripting",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.5909090909090908,
+            "lift": 1.6766681594267798
+        },
+        {
+            "source": "shell scripting",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9090909090909091,
+            "lift": 1.487603305785124
+        },
+        {
+            "source": "datadog",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5833333333333334,
+            "lift": 1.5483870967741937
+        },
+        {
+            "source": "datadog",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.6250000000000001,
+            "lift": 1.4693877551020411
+        },
+        {
+            "source": "datadog",
+            "target": "prometheus",
+            "relationship": "association",
+            "confidence": 0.5,
+            "lift": 4.8
+        },
+        {
+            "source": "datadog",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.6666666666666666,
+            "lift": 1.0909090909090908
+        },
+        {
+            "source": "datadog",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.5833333333333334,
+            "lift": 1.9881656804733727
+        },
+        {
+            "source": "troubleshooting",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.6521739130434784,
+            "lift": 2.683229813664597
+        },
+        {
+            "source": "troubleshooting",
+            "target": "capacity planning",
+            "relationship": "association",
+            "confidence": 0.5652173913043479,
+            "lift": 18.086956521739133
+        },
+        {
+            "source": "troubleshooting",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.6521739130434784,
+            "lift": 5.145920190589638
+        },
+        {
+            "source": "troubleshooting",
+            "target": "configuration management",
+            "relationship": "association",
+            "confidence": 0.6086956521739131,
+            "lift": 12.521739130434783
+        },
+        {
+            "source": "troubleshooting",
+            "target": "disaster recovery",
+            "relationship": "association",
+            "confidence": 0.5652173913043479,
+            "lift": 20.347826086956527
+        },
+        {
+            "source": "troubleshooting",
+            "target": "distributed system",
+            "relationship": "association",
+            "confidence": 0.5217391304347826,
+            "lift": 11.130434782608695
+        },
+        {
+            "source": "troubleshooting",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.6521739130434784,
+            "lift": 2.8675738466644547
+        },
+        {
+            "source": "troubleshooting",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.6956521739130435,
+            "lift": 1.973870207753266
+        },
+        {
+            "source": "troubleshooting",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.6956521739130435,
+            "lift": 1.6354924578527064
+        },
+        {
+            "source": "troubleshooting",
+            "target": "linux operating system",
+            "relationship": "association",
+            "confidence": 0.5652173913043479,
+            "lift": 20.347826086956527
+        },
+        {
+            "source": "troubleshooting",
+            "target": "microservices architecture",
+            "relationship": "association",
+            "confidence": 0.6086956521739131,
+            "lift": 20.624040920716116
+        },
+        {
+            "source": "troubleshooting",
+            "target": "networking protocols",
+            "relationship": "association",
+            "confidence": 0.6086956521739131,
+            "lift": 15.936758893280633
+        },
+        {
+            "source": "troubleshooting",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.6521739130434784,
+            "lift": 5.4442344045368625
+        },
+        {
+            "source": "troubleshooting",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7391304347826088,
+            "lift": 1.209486166007905
+        },
+        {
+            "source": "troubleshooting",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.6086956521739131,
+            "lift": 3.690617848970252
+        },
+        {
+            "source": "troubleshooting",
+            "target": "scale testing",
+            "relationship": "association",
+            "confidence": 0.6086956521739131,
+            "lift": 23.37391304347826
+        },
+        {
+            "source": "troubleshooting",
+            "target": "spinnaker",
+            "relationship": "association",
+            "confidence": 0.6086956521739131,
+            "lift": 15.243856332703215
+        },
+        {
+            "source": "postgres",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.8823529411764707,
+            "lift": 1.4438502673796791
+        },
+        {
+            "source": "scale testing",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 4.114285714285715
+        },
+        {
+            "source": "scale testing",
+            "target": "capacity planning",
+            "relationship": "association",
+            "confidence": 0.9333333333333333,
+            "lift": 29.866666666666667
+        },
+        {
+            "source": "scale testing",
+            "target": "disaster recovery",
+            "relationship": "association",
+            "confidence": 0.9333333333333333,
+            "lift": 33.6
+        },
+        {
+            "source": "scale testing",
+            "target": "distributed system",
+            "relationship": "association",
+            "confidence": 0.7999999999999999,
+            "lift": 17.066666666666666
+        },
+        {
+            "source": "scale testing",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 4.396946564885496
+        },
+        {
+            "source": "scale testing",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 2.83743842364532
+        },
+        {
+            "source": "scale testing",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 2.3510204081632655
+        },
+        {
+            "source": "scale testing",
+            "target": "microservices architecture",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 33.88235294117647
+        },
+        {
+            "source": "scale testing",
+            "target": "networking protocols",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 26.18181818181818
+        },
+        {
+            "source": "scale testing",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 1.6363636363636362
+        },
+        {
+            "source": "scale testing",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 6.063157894736842
+        },
+        {
+            "source": "scale testing",
+            "target": "troubleshooting",
+            "relationship": "association",
+            "confidence": 0.9333333333333333,
+            "lift": 23.373913043478264
+        },
+        {
+            "source": "disaster recovery",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 3.6000000000000005
+        },
+        {
+            "source": "disaster recovery",
+            "target": "capacity planning",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 28.000000000000004
+        },
+        {
+            "source": "disaster recovery",
+            "target": "configuration management",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 18.000000000000004
+        },
+        {
+            "source": "disaster recovery",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.9375000000000001,
+            "lift": 4.122137404580153
+        },
+        {
+            "source": "disaster recovery",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 2.4827586206896552
+        },
+        {
+            "source": "disaster recovery",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 1.0,
+            "lift": 2.3510204081632655
+        },
+        {
+            "source": "disaster recovery",
+            "target": "microservices architecture",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 29.647058823529417
+        },
+        {
+            "source": "disaster recovery",
+            "target": "networking protocols",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 22.90909090909091
+        },
+        {
+            "source": "disaster recovery",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9375000000000001,
+            "lift": 1.5340909090909092
+        },
+        {
+            "source": "disaster recovery",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 5.305263157894737
+        },
+        {
+            "source": "disaster recovery",
+            "target": "scale testing",
+            "relationship": "association",
+            "confidence": 0.8750000000000001,
+            "lift": 33.6
+        },
+        {
+            "source": "disaster recovery",
+            "target": "troubleshooting",
+            "relationship": "association",
+            "confidence": 0.8125,
+            "lift": 20.347826086956523
+        },
+        {
+            "source": "capacity planning",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.8333333333333334,
+            "lift": 3.428571428571429
+        },
+        {
+            "source": "capacity planning",
+            "target": "chef",
+            "relationship": "association",
+            "confidence": 0.7777777777777778,
+            "lift": 6.136986301369864
+        },
+        {
+            "source": "capacity planning",
+            "target": "configuration management",
+            "relationship": "association",
+            "confidence": 0.7777777777777778,
+            "lift": 16.0
+        },
+        {
+            "source": "capacity planning",
+            "target": "disaster recovery",
+            "relationship": "association",
+            "confidence": 0.7777777777777778,
+            "lift": 28.000000000000004
+        },
+        {
+            "source": "capacity planning",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.8333333333333334,
+            "lift": 3.6641221374045805
+        },
+        {
+            "source": "capacity planning",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8333333333333334,
+            "lift": 2.3645320197044333
+        },
+        {
+            "source": "capacity planning",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.8888888888888888,
+            "lift": 2.0897959183673467
+        },
+        {
+            "source": "capacity planning",
+            "target": "microservices architecture",
+            "relationship": "association",
+            "confidence": 0.7777777777777778,
+            "lift": 26.35294117647059
+        },
+        {
+            "source": "capacity planning",
+            "target": "networking protocols",
+            "relationship": "association",
+            "confidence": 0.7777777777777778,
+            "lift": 20.363636363636363
+        },
+        {
+            "source": "capacity planning",
+            "target": "puppet",
+            "relationship": "association",
+            "confidence": 0.7777777777777778,
+            "lift": 6.492753623188405
+        },
+        {
+            "source": "capacity planning",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.8333333333333334,
+            "lift": 1.3636363636363635
+        },
+        {
+            "source": "capacity planning",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.7777777777777778,
+            "lift": 4.715789473684211
+        },
+        {
+            "source": "capacity planning",
+            "target": "scale testing",
+            "relationship": "association",
+            "confidence": 0.7777777777777778,
+            "lift": 29.866666666666667
+        },
+        {
+            "source": "capacity planning",
+            "target": "troubleshooting",
+            "relationship": "association",
+            "confidence": 0.7222222222222222,
+            "lift": 18.086956521739133
+        },
+        {
+            "source": "microservices architecture",
+            "target": "ansible",
+            "relationship": "association",
+            "confidence": 0.8823529411764707,
+            "lift": 3.6302521008403366
+        },
+        {
+            "source": "microservices architecture",
+            "target": "capacity planning",
+            "relationship": "association",
+            "confidence": 0.823529411764706,
+            "lift": 26.35294117647059
+        },
+        {
+            "source": "microservices architecture",
+            "target": "configuration management",
+            "relationship": "association",
+            "confidence": 0.8823529411764707,
+            "lift": 18.151260504201684
+        },
+        {
+            "source": "microservices architecture",
+            "target": "disaster recovery",
+            "relationship": "association",
+            "confidence": 0.823529411764706,
+            "lift": 29.647058823529417
+        },
+        {
+            "source": "microservices architecture",
+            "target": "distributed system",
+            "relationship": "association",
+            "confidence": 0.7058823529411764,
+            "lift": 15.058823529411763
+        },
+        {
+            "source": "microservices architecture",
+            "target": "go",
+            "relationship": "association",
+            "confidence": 0.9411764705882353,
+            "lift": 4.138302649303997
+        },
+        {
+            "source": "microservices architecture",
+            "target": "java",
+            "relationship": "association",
+            "confidence": 0.8823529411764707,
+            "lift": 2.503622138510577
+        },
+        {
+            "source": "microservices architecture",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.9411764705882353,
+            "lift": 2.2127250900360145
+        },
+        {
+            "source": "microservices architecture",
+            "target": "networking protocols",
+            "relationship": "association",
+            "confidence": 0.8823529411764707,
+            "lift": 23.101604278074866
+        },
+        {
+            "source": "microservices architecture",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.9411764705882353,
+            "lift": 1.5401069518716577
+        },
+        {
+            "source": "microservices architecture",
+            "target": "ruby",
+            "relationship": "association",
+            "confidence": 0.8823529411764707,
+            "lift": 5.349845201238391
+        },
+        {
+            "source": "microservices architecture",
+            "target": "scale testing",
+            "relationship": "association",
+            "confidence": 0.8823529411764707,
+            "lift": 33.88235294117647
+        },
+        {
+            "source": "microservices architecture",
+            "target": "troubleshooting",
+            "relationship": "association",
+            "confidence": 0.823529411764706,
+            "lift": 20.624040920716116
+        },
+        {
+            "source": "cloudformation",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.6842105263157895,
+            "lift": 1.8161532864419112
+        },
+        {
+            "source": "cloudformation",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.631578947368421,
+            "lift": 1.033492822966507
+        },
+        {
+            "source": "cloudformation",
+            "target": "terraform",
+            "relationship": "association",
+            "confidence": 0.8421052631578947,
+            "lift": 2.8701339146683273
+        },
+        {
+            "source": "elasticsearch",
+            "target": "aws",
+            "relationship": "association",
+            "confidence": 0.5384615384615384,
+            "lift": 1.4292803970223324
+        },
+        {
+            "source": "elasticsearch",
+            "target": "kubernetes",
+            "relationship": "association",
+            "confidence": 0.576923076923077,
+            "lift": 1.3563579277864994
+        },
+        {
+            "source": "elasticsearch",
+            "target": "python",
+            "relationship": "association",
+            "confidence": 0.7692307692307693,
+            "lift": 1.2587412587412588
+        },
+        {
+            "source": "elasticsearch",
+            "target": "redis",
+            "relationship": "association",
+            "confidence": 0.5384615384615384,
+            "lift": 11.928994082840235
+        },
+        {
+            "source": "elk",
+            "target": "grafana",
+            "relationship": "association",
+            "confidence": 0.7222222222222222,
+            "lift": 7.428571428571428
+        },
+        {
+            "source": "elk",
+            "target": "prometheus",
+            "relationship": "association",
+            "confidence": 0.7777777777777778,
+            "lift": 7.466666666666667
+        },
+        {
+            "source": "linux",
+            "target": "bash",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "bash",
+            "target": "shell scripting",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "linux",
+            "target": "networking",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "networking",
+            "target": "tcp/ip",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "linux",
+            "target": "system administration",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "system administration",
+            "target": "linux system administration",
+            "relationship": "prerequisite",
+            "weight": 0.95
+        },
+        {
+            "source": "networking",
+            "target": "dns",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "networking",
+            "target": "http",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "linux",
+            "target": "unix",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "unix",
+            "target": "shell",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "programming languages",
+            "target": "python",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "programming languages",
+            "target": "go",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "programming languages",
+            "target": "java",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "programming languages",
+            "target": "ruby",
+            "relationship": "prerequisite",
+            "weight": 0.84
+        },
+        {
+            "source": "python",
+            "target": "automation",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "python",
+            "target": "scripting",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "go",
+            "target": "distributed systems",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "linux",
+            "target": "virtualization",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "virtualization",
+            "target": "vmware",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "virtualization",
+            "target": "docker",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "docker",
+            "target": "container",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "container",
+            "target": "kubernetes",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "kubernetes",
+            "target": "helm",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "kubernetes",
+            "target": "istio",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "kubernetes",
+            "target": "containerization",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "cloud",
+            "target": "aws",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "cloud",
+            "target": "azure",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "cloud",
+            "target": "gcp",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "aws",
+            "target": "cloudformation",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "aws",
+            "target": "s3",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "aws",
+            "target": "lambda",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "aws",
+            "target": "eks",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "azure",
+            "target": "azure devops",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "gcp",
+            "target": "google cloud platform (gcp)",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "devops",
+            "target": "ci/cd",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "ci/cd",
+            "target": "jenkin",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "ci/cd",
+            "target": "gitlab",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "ci/cd",
+            "target": "spinnaker",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "ci/cd",
+            "target": "continuous integration",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "continuous integration",
+            "target": "continuous delivery",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "infrastructure as code",
+            "target": "terraform",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "infrastructure as code",
+            "target": "ansible",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "infrastructure as code",
+            "target": "puppet",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "infrastructure as code",
+            "target": "chef",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "git",
+            "target": "ci/cd",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "git",
+            "target": "github",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "devops",
+            "target": "infrastructure as code",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "devops",
+            "target": "site reliability engineering",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "sre",
+            "relationship": "prerequisite",
+            "weight": 0.95
+        },
+        {
+            "source": "devops",
+            "target": "automation",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "automation",
+            "target": "configuration management",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "configuration management",
+            "target": "ansible",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "configuration management",
+            "target": "puppet",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "configuration management",
+            "target": "salt",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "configuration management",
+            "target": "chef",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "monitoring",
+            "target": "prometheus",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "monitoring",
+            "target": "grafana",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "monitoring",
+            "target": "nagios",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "monitoring",
+            "target": "zabbix",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "monitoring",
+            "target": "new relic",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "monitoring",
+            "target": "dynatrace",
+            "relationship": "prerequisite",
+            "weight": 0.84
+        },
+        {
+            "source": "monitoring",
+            "target": "datadog",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "monitoring",
+            "target": "observability",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "monitoring",
+            "target": "monitoring tools",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "elasticsearch",
+            "target": "kibana",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "elasticsearch",
+            "target": "logstash",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "elasticsearch",
+            "target": "elk",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "monitoring",
+            "target": "splunk",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "distributed system",
+            "target": "microservices",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "distributed system",
+            "target": "micro services",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "distributed system",
+            "target": "distributed systems",
+            "relationship": "prerequisite",
+            "weight": 0.95
+        },
+        {
+            "source": "microservices",
+            "target": "microservices architecture",
+            "relationship": "prerequisite",
+            "weight": 0.94
+        },
+        {
+            "source": "kafka",
+            "target": "rabbitmq",
+            "relationship": "prerequisite",
+            "weight": 0.83
+        },
+        {
+            "source": "distributed system",
+            "target": "kafka",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "databases",
+            "target": "sql",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "databases",
+            "target": "mysql",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "databases",
+            "target": "postgresql",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "databases",
+            "target": "redis",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "databases",
+            "target": "mongodb",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "databases",
+            "target": "cassandra",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "security",
+            "target": "network security",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "security",
+            "target": "information security",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "capacity planning",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "scale testing",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "disaster recovery",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "high availability",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "incident response",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "performance optimization",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "scalability",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "service level objectives",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "automation",
+            "target": "continuous integration",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "automation",
+            "target": "infrastructure automation",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "continuous delivery",
+            "target": "ci/cd pipeline",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "troubleshooting",
+            "target": "debugging",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "troubleshooting",
+            "target": "problem solving",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "troubleshooting",
+            "target": "root cause analysis",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "cloud computing",
+            "target": "aws",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "cloud computing",
+            "target": "azure",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "cloud computing",
+            "target": "gcp",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "cloud infrastructures",
+            "target": "cloud platforms",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "networking",
+            "target": "network protocol",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "networking",
+            "target": "load balancing",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "networking",
+            "target": "haproxy",
+            "relationship": "prerequisite",
+            "weight": 0.86
+        },
+        {
+            "source": "networking",
+            "target": "nginx",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "service oriented architecture",
+            "target": "microservices",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "service oriented architecture",
+            "target": "soa",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "agile",
+            "target": "scrum",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "agile",
+            "target": "agile methodologies",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "agile",
+            "target": "agile development",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "agile",
+            "target": "jira",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "jira",
+            "target": "confluence",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "algorithms",
+            "target": "data structures",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "algorithms",
+            "target": "problem solving",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "web services",
+            "target": "rest api",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "web services",
+            "target": "restful api",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "slo",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "sli",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "error budgets",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "chaos engineering",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "infrastructure reliability",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "postmortem",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "site reliability engineering",
+            "target": "incident management",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "infrastructure",
+            "target": "cloud",
+            "relationship": "prerequisite",
+            "weight": 0.91
+        },
+        {
+            "source": "infrastructure",
+            "target": "networking",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "infrastructure",
+            "target": "virtualization",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "infrastructure",
+            "target": "linux",
+            "relationship": "prerequisite",
+            "weight": 0.92
+        },
+        {
+            "source": "site reliability engineering (sre)",
+            "target": "service level objectives",
+            "relationship": "prerequisite",
+            "weight": 0.93
+        },
+        {
+            "source": "scripting languages",
+            "target": "python",
+            "relationship": "prerequisite",
+            "weight": 0.9
+        },
+        {
+            "source": "scripting languages",
+            "target": "bash",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "scripting languages",
+            "target": "perl",
+            "relationship": "prerequisite",
+            "weight": 0.85
+        },
+        {
+            "source": "debugging",
+            "target": "log analysis",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "security",
+            "target": "firewall",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "security",
+            "target": "encryption",
+            "relationship": "prerequisite",
+            "weight": 0.89
+        },
+        {
+            "source": "security",
+            "target": "vpn",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        },
+        {
+            "source": "big data",
+            "target": "hadoop",
+            "relationship": "prerequisite",
+            "weight": 0.88
+        },
+        {
+            "source": "big data",
+            "target": "spark",
+            "relationship": "prerequisite",
+            "weight": 0.87
+        }
+    ]
+}

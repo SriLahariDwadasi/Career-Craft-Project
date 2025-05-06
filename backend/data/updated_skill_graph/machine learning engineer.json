@@ -1,0 +1,4110 @@
+{
+  "skills": [
+    {
+      "id": "artificial intelligence",
+      "name": "artificial intelligence",
+      "type": "concept",
+      "frequency": 21
+    },
+    {
+      "id": "machine learning",
+      "name": "machine learning",
+      "type": "concept",
+      "frequency": 365
+    },
+    {
+      "id": "data science",
+      "name": "data science",
+      "type": "concept",
+      "frequency": 41
+    },
+    {
+      "id": "python",
+      "name": "python",
+      "type": "language",
+      "frequency": 556
+    },
+    {
+      "id": "sql",
+      "name": "sql",
+      "type": "language",
+      "frequency": 131
+    },
+    {
+      "id": "pyspark",
+      "name": "pyspark",
+      "type": "tool",
+      "frequency": 18
+    },
+    {
+      "id": "algorithm",
+      "name": "algorithm",
+      "type": "concept",
+      "frequency": 16
+    },
+    {
+      "id": "distributed system",
+      "name": "distributed system",
+      "type": "concept",
+      "frequency": 13
+    },
+    {
+      "id": "linear algebra",
+      "name": "linear algebra",
+      "type": "concept",
+      "frequency": 13
+    },
+    {
+      "id": "statistics",
+      "name": "statistics",
+      "type": "concept",
+      "frequency": 41
+    },
+    {
+      "id": "natural language processing (nlp)",
+      "name": "natural language processing (nlp)",
+      "type": "concept",
+      "frequency": 7
+    },
+    {
+      "id": "deep learning",
+      "name": "deep learning",
+      "type": "concept",
+      "frequency": 124
+    },
+    {
+      "id": "tensorflow",
+      "name": "tensorflow",
+      "type": "tool",
+      "frequency": 250
+    },
+    {
+      "id": "pytorch",
+      "name": "pytorch",
+      "type": "tool",
+      "frequency": 229
+    },
+    {
+      "id": "spark",
+      "name": "spark",
+      "type": "tool",
+      "frequency": 110
+    },
+    {
+      "id": "computer vision",
+      "name": "computer vision",
+      "type": "concept",
+      "frequency": 52
+    },
+    {
+      "id": "c/c++",
+      "name": "c/c++",
+      "type": "language",
+      "frequency": 38
+    },
+    {
+      "id": "java",
+      "name": "java",
+      "type": "language",
+      "frequency": 175
+    },
+    {
+      "id": "scala",
+      "name": "scala",
+      "type": "language",
+      "frequency": 79
+    },
+    {
+      "id": "r",
+      "name": "r",
+      "type": "language",
+      "frequency": 74
+    },
+    {
+      "id": "nlp",
+      "name": "nlp",
+      "type": "concept",
+      "frequency": 89
+    },
+    {
+      "id": "keras",
+      "name": "keras",
+      "type": "tool",
+      "frequency": 64
+    },
+    {
+      "id": "xgboost",
+      "name": "xgboost",
+      "type": "tool",
+      "frequency": 11
+    },
+    {
+      "id": "jupyter notebook",
+      "name": "jupyter notebook",
+      "type": "tool",
+      "frequency": 6
+    },
+    {
+      "id": "big data",
+      "name": "big data",
+      "type": "concept",
+      "frequency": 14
+    },
+    {
+      "id": "hive",
+      "name": "hive",
+      "type": "tool",
+      "frequency": 30
+    },
+    {
+      "id": "kafka",
+      "name": "kafka",
+      "type": "tool",
+      "frequency": 19
+    },
+    {
+      "id": "azure",
+      "name": "azure",
+      "type": "platform",
+      "frequency": 36
+    },
+    {
+      "id": "agile",
+      "name": "agile",
+      "type": "methodology",
+      "frequency": 11
+    },
+    {
+      "id": "cnn",
+      "name": "cnn",
+      "type": "concept",
+      "frequency": 9
+    },
+    {
+      "id": "rnn",
+      "name": "rnn",
+      "type": "concept",
+      "frequency": 6
+    },
+    {
+      "id": "lstm",
+      "name": "lstm",
+      "type": "concept",
+      "frequency": 9
+    },
+    {
+      "id": "aws",
+      "name": "aws",
+      "type": "platform",
+      "frequency": 139
+    },
+    {
+      "id": "ci/cd",
+      "name": "ci/cd",
+      "type": "concept",
+      "frequency": 19
+    },
+    {
+      "id": "containerization",
+      "name": "containerization",
+      "type": "concept",
+      "frequency": 5
+    },
+    {
+      "id": "machine learning techniques",
+      "name": "machine learning techniques",
+      "type": "concept",
+      "frequency": 9
+    },
+    {
+      "id": "js",
+      "name": "js",
+      "type": "language",
+      "frequency": 13
+    },
+    {
+      "id": "html",
+      "name": "html",
+      "type": "language",
+      "frequency": 5
+    },
+    {
+      "id": "scikit learn",
+      "name": "scikit learn",
+      "type": "library",
+      "frequency": 84
+    },
+    {
+      "id": "c",
+      "name": "c",
+      "type": "language",
+      "frequency": 14
+    },
+    {
+      "id": "c++",
+      "name": "c++",
+      "type": "language",
+      "frequency": 120
+    },
+    {
+      "id": "reinforcement learning",
+      "name": "reinforcement learning",
+      "type": "concept",
+      "frequency": 28
+    },
+    {
+      "id": "gcp",
+      "name": "gcp",
+      "type": "platform",
+      "frequency": 39
+    },
+    {
+      "id": "transformer",
+      "name": "transformer",
+      "type": "concept",
+      "frequency": 8
+    },
+    {
+      "id": "node",
+      "name": "node",
+      "type": "language",
+      "frequency": 10
+    },
+    {
+      "id": "ruby",
+      "name": "ruby",
+      "type": "language",
+      "frequency": 5
+    },
+    {
+      "id": "c#",
+      "name": "c#",
+      "type": "language",
+      "frequency": 17
+    },
+    {
+      "id": "big query",
+      "name": "big query",
+      "type": "tool",
+      "frequency": 5
+    },
+    {
+      "id": "terraform",
+      "name": "terraform",
+      "type": "tool",
+      "frequency": 13
+    },
+    {
+      "id": "tableau",
+      "name": "tableau",
+      "type": "tool",
+      "frequency": 11
+    },
+    {
+      "id": "docker",
+      "name": "docker",
+      "type": "tool",
+      "frequency": 68
+    },
+    {
+      "id": "caffe",
+      "name": "caffe",
+      "type": "framework",
+      "frequency": 12
+    },
+    {
+      "id": "mxnet",
+      "name": "mxnet",
+      "type": "framework",
+      "frequency": 14
+    },
+    {
+      "id": "apache spark",
+      "name": "apache spark",
+      "type": "tool",
+      "frequency": 11
+    },
+    {
+      "id": "pandas",
+      "name": "pandas",
+      "type": "tool",
+      "frequency": 65
+    },
+    {
+      "id": "matplotlib",
+      "name": "matplotlib",
+      "type": "tool",
+      "frequency": 8
+    },
+    {
+      "id": "hadoop",
+      "name": "hadoop",
+      "type": "tool",
+      "frequency": 46
+    },
+    {
+      "id": "postgres",
+      "name": "postgres",
+      "type": "tool",
+      "frequency": 8
+    },
+    {
+      "id": "cuda",
+      "name": "cuda",
+      "type": "tool",
+      "frequency": 16
+    },
+    {
+      "id": "dask",
+      "name": "dask",
+      "type": "tool",
+      "frequency": 10
+    },
+    {
+      "id": "elasticsearch",
+      "name": "elasticsearch",
+      "type": "tool",
+      "frequency": 9
+    },
+    {
+      "id": "data engineering",
+      "name": "data engineering",
+      "type": "concept",
+      "frequency": 20
+    },
+    {
+      "id": "linux",
+      "name": "linux",
+      "type": "platform",
+      "frequency": 46
+    },
+    {
+      "id": "git",
+      "name": "git",
+      "type": "tool",
+      "frequency": 45
+    },
+    {
+      "id": "devops",
+      "name": "devops",
+      "type": "methodology",
+      "frequency": 18
+    },
+    {
+      "id": "mlops",
+      "name": "mlops",
+      "type": "concept",
+      "frequency": 14
+    },
+    {
+      "id": "data modeling",
+      "name": "data modeling",
+      "type": "concept",
+      "frequency": 12
+    },
+    {
+      "id": "numpy",
+      "name": "numpy",
+      "type": "tool",
+      "frequency": 61
+    },
+    {
+      "id": "deep learning frameworks",
+      "name": "deep learning frameworks",
+      "type": "tool",
+      "frequency": 9
+    },
+    {
+      "id": "data structures and algorithms",
+      "name": "data structures and algorithms",
+      "type": "concept",
+      "frequency": 5
+    },
+    {
+      "id": "snowflake",
+      "name": "snowflake",
+      "type": "tool",
+      "frequency": 14
+    },
+    {
+      "id": "etl",
+      "name": "etl",
+      "type": "concept",
+      "frequency": 6
+    },
+    {
+      "id": "information retrieval",
+      "name": "information retrieval",
+      "type": "concept",
+      "frequency": 6
+    },
+    {
+      "id": "scipy",
+      "name": "scipy",
+      "type": "tool",
+      "frequency": 24
+    },
+    {
+      "id": "airflow",
+      "name": "airflow",
+      "type": "tool",
+      "frequency": 26
+    },
+    {
+      "id": "optimization",
+      "name": "optimization",
+      "type": "concept",
+      "frequency": 13
+    },
+    {
+      "id": "relational database",
+      "name": "relational database",
+      "type": "concept",
+      "frequency": 11
+    },
+    {
+      "id": "machine learning frameworks",
+      "name": "machine learning frameworks",
+      "type": "concept",
+      "frequency": 7
+    },
+    {
+      "id": "software architecture",
+      "name": "software architecture",
+      "type": "concept",
+      "frequency": 8
+    },
+    {
+      "id": "flask",
+      "name": "flask",
+      "type": "tool",
+      "frequency": 9
+    },
+    {
+      "id": "kubernetes",
+      "name": "kubernetes",
+      "type": "tool",
+      "frequency": 69
+    },
+    {
+      "id": "neural network",
+      "name": "neural network",
+      "type": "concept",
+      "frequency": 18
+    },
+    {
+      "id": "decision trees",
+      "name": "decision trees",
+      "type": "concept",
+      "frequency": 5
+    },
+    {
+      "id": "time series",
+      "name": "time series",
+      "type": "concept",
+      "frequency": 5
+    },
+    {
+      "id": "machine learning algorithms",
+      "name": "machine learning algorithms",
+      "type": "concept",
+      "frequency": 22
+    },
+    {
+      "id": "image processing",
+      "name": "image processing",
+      "type": "concept",
+      "frequency": 6
+    },
+    {
+      "id": "ml frameworks",
+      "name": "ml frameworks",
+      "type": "tool",
+      "frequency": 6
+    },
+    {
+      "id": "machine learning models",
+      "name": "machine learning models",
+      "type": "concept",
+      "frequency": 9
+    },
+    {
+      "id": "software development",
+      "name": "software development",
+      "type": "methodology",
+      "frequency": 11
+    },
+    {
+      "id": "jenkin",
+      "name": "jenkin",
+      "type": "tool",
+      "frequency": 10
+    },
+    {
+      "id": "julia",
+      "name": "julia",
+      "type": "language",
+      "frequency": 8
+    },
+    {
+      "id": "mysql",
+      "name": "mysql",
+      "type": "tool",
+      "frequency": 5
+    },
+    {
+      "id": "statistical modeling",
+      "name": "statistical modeling",
+      "type": "concept",
+      "frequency": 11
+    },
+    {
+      "id": "cloud environment",
+      "name": "cloud environment",
+      "type": "platform",
+      "frequency": 8
+    },
+    {
+      "id": "opencl",
+      "name": "opencl",
+      "type": "tool",
+      "frequency": 6
+    },
+    {
+      "id": "gpu",
+      "name": "gpu",
+      "type": "tool",
+      "frequency": 5
+    },
+    {
+      "id": "databricks",
+      "name": "databricks",
+      "type": "tool",
+      "frequency": 7
+    },
+    {
+      "id": "feature engineering",
+      "name": "feature engineering",
+      "type": "concept",
+      "frequency": 5
+    },
+    {
+      "id": "sklearn",
+      "name": "sklearn",
+      "type": "tool",
+      "frequency": 10
+    },
+    {
+      "id": "perl",
+      "name": "perl",
+      "type": "language",
+      "frequency": 5
+    },
+    {
+      "id": "nosql",
+      "name": "nosql",
+      "type": "language",
+      "frequency": 11
+    },
+    {
+      "id": "data visualization",
+      "name": "data visualization",
+      "type": "tool",
+      "frequency": 15
+    },
+    {
+      "id": "react",
+      "name": "react",
+      "type": "tool",
+      "frequency": 8
+    },
+    {
+      "id": "ai",
+      "name": "ai",
+      "type": "concept",
+      "frequency": 15
+    },
+    {
+      "id": "opencv",
+      "name": "opencv",
+      "type": "tool",
+      "frequency": 16
+    },
+    {
+      "id": "mlflow",
+      "name": "mlflow",
+      "type": "tool",
+      "frequency": 11
+    },
+    {
+      "id": "sagemaker",
+      "name": "sagemaker",
+      "type": "tool",
+      "frequency": 6
+    },
+    {
+      "id": "rest api",
+      "name": "rest api",
+      "type": "methodology",
+      "frequency": 6
+    },
+    {
+      "id": "go",
+      "name": "go",
+      "type": "language",
+      "frequency": 14
+    },
+    {
+      "id": "software engineering",
+      "name": "software engineering",
+      "type": "concept",
+      "frequency": 10
+    },
+    {
+      "id": "regression",
+      "name": "regression",
+      "type": "concept",
+      "frequency": 6
+    },
+    {
+      "id": "clustering",
+      "name": "clustering",
+      "type": "concept",
+      "frequency": 9
+    },
+    {
+      "id": "classification",
+      "name": "classification",
+      "type": "concept",
+      "frequency": 6
+    },
+    {
+      "id": "cloud computing",
+      "name": "cloud computing",
+      "type": "platform",
+      "frequency": 7
+    },
+    {
+      "id": "kubeflow",
+      "name": "kubeflow",
+      "type": "tool",
+      "frequency": 11
+    },
+    {
+      "id": "matlab",
+      "name": "matlab",
+      "type": "tool",
+      "frequency": 17
+    },
+    {
+      "id": "database",
+      "name": "database",
+      "type": "tool",
+      "frequency": 6
+    },
+    {
+      "id": "statistical techniques",
+      "name": "statistical techniques",
+      "type": "concept",
+      "frequency": 5
+    },
+    {
+      "id": "supervised learning",
+      "name": "supervised learning",
+      "type": "concept",
+      "frequency": 5
+    },
+    {
+      "id": "big data technologies",
+      "name": "big data technologies",
+      "type": "concept",
+      "frequency": 5
+    },
+    {
+      "id": "nosql database",
+      "name": "nosql database",
+      "type": "concept",
+      "frequency": 6
+    },
+    {
+      "id": "impala",
+      "name": "impala",
+      "type": "tool",
+      "frequency": 6
+    },
+    {
+      "id": "github",
+      "name": "github",
+      "type": "tool",
+      "frequency": 9
+    },
+    {
+      "id": "spacy",
+      "name": "spacy",
+      "type": "platform",
+      "frequency": 8
+    },
+    {
+      "id": "nltk",
+      "name": "nltk",
+      "type": "platform",
+      "frequency": 9
+    },
+    {
+      "id": "bert",
+      "name": "bert",
+      "type": "platform",
+      "frequency": 5
+    },
+    {
+      "id": "data pipeline",
+      "name": "data pipeline",
+      "type": "concept",
+      "frequency": 7
+    },
+    {
+      "id": "data mining",
+      "name": "data mining",
+      "type": "concept",
+      "frequency": 14
+    },
+    {
+      "id": "rust",
+      "name": "rust",
+      "type": "language",
+      "frequency": 6
+    },
+    {
+      "id": "data structure",
+      "name": "data structure",
+      "type": "concept",
+      "frequency": 16
+    },
+    {
+      "id": "recommendation systems",
+      "name": "recommendation systems",
+      "type": "concept",
+      "frequency": 5
+    },
+    {
+      "id": "data analytics",
+      "name": "data analytics",
+      "type": "concept",
+      "frequency": 6
+    },
+    {
+      "id": "statistical analysis",
+      "name": "statistical analysis",
+      "type": "concept",
+      "frequency": 7
+    },
+    {
+      "id": "google cloud platform (gcp)",
+      "name": "google cloud platform (gcp)",
+      "type": "platform",
+      "frequency": 5
+    },
+    {
+      "id": "swift",
+      "name": "swift",
+      "type": "language",
+      "frequency": 6
+    },
+    {
+      "id": "recommender systems",
+      "name": "recommender systems",
+      "type": "concept",
+      "frequency": 5
+    },
+    {
+      "id": "scikit",
+      "name": "scikit",
+      "type": "tool",
+      "frequency": 6
+    },
+    {
+      "id": "aws sagemaker",
+      "name": "aws sagemaker",
+      "type": "platform",
+      "frequency": 5
+    },
+    {
+      "id": "mathematics of machine learning",
+      "name": "mathematics of machine learning",
+      "type": "concept",
+      "frequency": 5
+    },
+    {
+      "id": "hyperparameter optimization",
+      "name": "hyperparameter optimization",
+      "type": "concept",
+      "frequency": 6
+    }
+  ],
+  "relationships": [
+    {
+      "source": "artificial intelligence",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 1.0,
+      "lift": 1.8547945205479452
+    },
+    {
+      "source": "artificial intelligence",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.5238095238095237,
+      "lift": 0.6424258109040717
+    },
+    {
+      "source": "machine learning",
+      "target": "deep learning",
+      "relationship": "association",
+      "confidence": 0.263013698630137,
+      "lift": 1.435969951391958
+    },
+    {
+      "source": "machine learning",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.28219178082191787,
+      "lift": 1.0916790606653624
+    },
+    {
+      "source": "machine learning",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.7589041095890411,
+      "lift": 0.9307573952749653
+    },
+    {
+      "source": "machine learning",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.28219178082191787,
+      "lift": 0.8342525572770235
+    },
+    {
+      "source": "machine learning",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.32328767123287677,
+      "lift": 0.8789789294162954
+    },
+    {
+      "source": "data science",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.7560975609756097,
+      "lift": 1.4024056130972267
+    },
+    {
+      "source": "data science",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.6585365853658536,
+      "lift": 0.807661717921527
+    },
+    {
+      "source": "python",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.2282608695652174,
+      "lift": 1.111745386299656
+    },
+    {
+      "source": "python",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.2916666666666667,
+      "lift": 1.1283333333333334
+    },
+    {
+      "source": "python",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5018115942028986,
+      "lift": 0.9307573952749654
+    },
+    {
+      "source": "python",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.3677536231884058,
+      "lift": 1.0872017593823176
+    },
+    {
+      "source": "python",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.39492753623188404,
+      "lift": 1.0737588033292589
+    },
+    {
+      "source": "sql",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.2366412213740458,
+      "lift": 0.9154634678298801
+    },
+    {
+      "source": "sql",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5114503816793893,
+      "lift": 0.9486353654710865
+    },
+    {
+      "source": "sql",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9236641221374047,
+      "lift": 1.1328271932735923
+    },
+    {
+      "source": "sql",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.2366412213740458,
+      "lift": 0.6995899863328777
+    },
+    {
+      "source": "sql",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.29770992366412213,
+      "lift": 1.832269257460097
+    },
+    {
+      "source": "sql",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.29770992366412213,
+      "lift": 0.809436218155063
+    },
+    {
+      "source": "pyspark",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9444444444444444,
+      "lift": 1.1583132045088567
+    },
+    {
+      "source": "algorithm",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8125,
+      "lift": 0.9964900362318841
+    },
+    {
+      "source": "statistics",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5853658536585366,
+      "lift": 1.085733377881724
+    },
+    {
+      "source": "statistics",
+      "target": "numpy",
+      "relationship": "association",
+      "confidence": 0.26829268292682923,
+      "lift": 2.9776089564174324
+    },
+    {
+      "source": "statistics",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9024390243902438,
+      "lift": 1.1067956875220926
+    },
+    {
+      "source": "statistics",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.3414634146341463,
+      "lift": 1.0094791777612098
+    },
+    {
+      "source": "statistics",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.4146341463414634,
+      "lift": 2.142803947123441
+    },
+    {
+      "source": "statistics",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.3658536585365853,
+      "lift": 0.9947105495151335
+    },
+    {
+      "source": "deep learning",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.7741935483870969,
+      "lift": 1.435969951391958
+    },
+    {
+      "source": "deep learning",
+      "target": "nlp",
+      "relationship": "association",
+      "confidence": 0.28225806451612906,
+      "lift": 2.147064153678869
+    },
+    {
+      "source": "deep learning",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.7661290322580645,
+      "lift": 0.9396183964469379
+    },
+    {
+      "source": "deep learning",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.40322580645161293,
+      "lift": 1.192069305535991
+    },
+    {
+      "source": "deep learning",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.3951612903225806,
+      "lift": 1.0743943515999481
+    },
+    {
+      "source": "tensorflow",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.25301204819277107,
+      "lift": 0.9787951807228915
+    },
+    {
+      "source": "tensorflow",
+      "target": "keras",
+      "relationship": "association",
+      "confidence": 0.24096385542168672,
+      "lift": 2.5489457831325297
+    },
+    {
+      "source": "tensorflow",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.4738955823293173,
+      "lift": 0.8789789294162954
+    },
+    {
+      "source": "tensorflow",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8755020080321284,
+      "lift": 1.0737588033292589
+    },
+    {
+      "source": "tensorflow",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.7751004016064257,
+      "lift": 2.291454025709826
+    },
+    {
+      "source": "tensorflow",
+      "target": "scikit learn",
+      "relationship": "association",
+      "confidence": 0.24899598393574293,
+      "lift": 2.0067890610059282
+    },
+    {
+      "source": "pytorch",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.4497816593886463,
+      "lift": 0.8342525572770234
+    },
+    {
+      "source": "pytorch",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8864628820960698,
+      "lift": 1.0872017593823176
+    },
+    {
+      "source": "pytorch",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.8427947598253275,
+      "lift": 2.291454025709826
+    },
+    {
+      "source": "spark",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.3545454545454545,
+      "lift": 1.7268149117069977
+    },
+    {
+      "source": "spark",
+      "target": "hadoop",
+      "relationship": "association",
+      "confidence": 0.3363636363636363,
+      "lift": 5.060404040404039
+    },
+    {
+      "source": "spark",
+      "target": "hive",
+      "relationship": "association",
+      "confidence": 0.22727272727272727,
+      "lift": 5.128787878787879
+    },
+    {
+      "source": "spark",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.48181818181818176,
+      "lift": 1.8639480519480518
+    },
+    {
+      "source": "spark",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.48181818181818176,
+      "lift": 0.8936737235367371
+    },
+    {
+      "source": "spark",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9272727272727271,
+      "lift": 1.1372529644268774
+    },
+    {
+      "source": "spark",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.3545454545454545,
+      "lift": 1.0481540293767366
+    },
+    {
+      "source": "spark",
+      "target": "scala",
+      "relationship": "association",
+      "confidence": 0.3454545454545454,
+      "lift": 2.960414269275028
+    },
+    {
+      "source": "spark",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.3545454545454545,
+      "lift": 1.832269257460097
+    },
+    {
+      "source": "spark",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.49090909090909085,
+      "lift": 1.334720700985761
+    },
+    {
+      "source": "computer vision",
+      "target": "c++",
+      "relationship": "association",
+      "confidence": 0.25,
+      "lift": 1.4104166666666667
+    },
+    {
+      "source": "computer vision",
+      "target": "deep learning",
+      "relationship": "association",
+      "confidence": 0.423076923076923,
+      "lift": 2.309863523573201
+    },
+    {
+      "source": "computer vision",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.75,
+      "lift": 1.391095890410959
+    },
+    {
+      "source": "computer vision",
+      "target": "nlp",
+      "relationship": "association",
+      "confidence": 0.2692307692307692,
+      "lift": 2.0479688850475366
+    },
+    {
+      "source": "computer vision",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.7692307692307692,
+      "lift": 0.943422519509476
+    },
+    {
+      "source": "computer vision",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.3269230769230769,
+      "lift": 0.9664931138730265
+    },
+    {
+      "source": "computer vision",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.3846153846153846,
+      "lift": 1.0457213469261661
+    },
+    {
+      "source": "c/c++",
+      "target": "deep learning",
+      "relationship": "association",
+      "confidence": 0.31578947368421056,
+      "lift": 1.7241086587436336
+    },
+    {
+      "source": "c/c++",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.31578947368421056,
+      "lift": 1.221654135338346
+    },
+    {
+      "source": "c/c++",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5789473684210525,
+      "lift": 1.0738284066330208
+    },
+    {
+      "source": "c/c++",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9210526315789475,
+      "lift": 1.129624332570557
+    },
+    {
+      "source": "c/c++",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.5,
+      "lift": 1.4781659388646289
+    },
+    {
+      "source": "c/c++",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.5263157894736842,
+      "lift": 1.4309871063200168
+    },
+    {
+      "source": "java",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.26857142857142857,
+      "lift": 1.3080781089414182
+    },
+    {
+      "source": "java",
+      "target": "c++",
+      "relationship": "association",
+      "confidence": 0.37142857142857144,
+      "lift": 2.0954761904761905
+    },
+    {
+      "source": "java",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5885714285714286,
+      "lift": 1.0916790606653621
+    },
+    {
+      "source": "java",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.92,
+      "lift": 1.1283333333333334
+    },
+    {
+      "source": "java",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.2914285714285714,
+      "lift": 0.8615595757953837
+    },
+    {
+      "source": "java",
+      "target": "scala",
+      "relationship": "association",
+      "confidence": 0.36000000000000004,
+      "lift": 3.0850632911392406
+    },
+    {
+      "source": "java",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.3028571428571429,
+      "lift": 1.863948051948052
+    },
+    {
+      "source": "java",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.36000000000000004,
+      "lift": 0.9787951807228916
+    },
+    {
+      "source": "scala",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.31645569620253167,
+      "lift": 1.5412986066842729
+    },
+    {
+      "source": "scala",
+      "target": "c++",
+      "relationship": "association",
+      "confidence": 0.3037974683544304,
+      "lift": 1.7139240506329114
+    },
+    {
+      "source": "scala",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.7974683544303798,
+      "lift": 3.0850632911392406
+    },
+    {
+      "source": "scala",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5189873417721519,
+      "lift": 0.9626148777527311
+    },
+    {
+      "source": "scala",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9367088607594937,
+      "lift": 1.1488259035039443
+    },
+    {
+      "source": "scala",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.3037974683544304,
+      "lift": 0.8981261400696479
+    },
+    {
+      "source": "scala",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.48101265822784806,
+      "lift": 2.960414269275028
+    },
+    {
+      "source": "scala",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.27848101265822783,
+      "lift": 1.439172866943666
+    },
+    {
+      "source": "scala",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.37974683544303794,
+      "lift": 1.0324843678511513
+    },
+    {
+      "source": "r",
+      "target": "c++",
+      "relationship": "association",
+      "confidence": 0.22972972972972974,
+      "lift": 1.2960585585585587
+    },
+    {
+      "source": "r",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.527027027027027,
+      "lift": 2.038841698841699
+    },
+    {
+      "source": "r",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5540540540540541,
+      "lift": 1.0276564235468346
+    },
+    {
+      "source": "r",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.972972972972973,
+      "lift": 1.1933019976498238
+    },
+    {
+      "source": "r",
+      "target": "scikit learn",
+      "relationship": "association",
+      "confidence": 0.22972972972972974,
+      "lift": 1.8515122265122266
+    },
+    {
+      "source": "r",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.22972972972972974,
+      "lift": 1.413882063882064
+    },
+    {
+      "source": "r",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.29729729729729726,
+      "lift": 1.536414276872292
+    },
+    {
+      "source": "r",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.32432432432432434,
+      "lift": 0.8817974601107131
+    },
+    {
+      "source": "nlp",
+      "target": "deep learning",
+      "relationship": "association",
+      "confidence": 0.3932584269662921,
+      "lift": 2.147064153678869
+    },
+    {
+      "source": "nlp",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.29213483146067415,
+      "lift": 1.1301444622792938
+    },
+    {
+      "source": "nlp",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.7191011235955056,
+      "lift": 1.3337848237648147
+    },
+    {
+      "source": "nlp",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.7752808988764044,
+      "lift": 0.9508426966292134
+    },
+    {
+      "source": "nlp",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.41573033707865165,
+      "lift": 1.2290368480447473
+    },
+    {
+      "source": "nlp",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.4382022471910112,
+      "lift": 1.1914173548125082
+    },
+    {
+      "source": "keras",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.23437499999999997,
+      "lift": 1.1415242805755395
+    },
+    {
+      "source": "keras",
+      "target": "deep learning",
+      "relationship": "association",
+      "confidence": 0.23437499999999997,
+      "lift": 1.2796118951612903
+    },
+    {
+      "source": "keras",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.25,
+      "lift": 0.9671428571428572
+    },
+    {
+      "source": "keras",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5625,
+      "lift": 1.0433219178082191
+    },
+    {
+      "source": "keras",
+      "target": "pandas",
+      "relationship": "association",
+      "confidence": 0.25,
+      "lift": 2.6865079365079363
+    },
+    {
+      "source": "keras",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8281249999999999,
+      "lift": 1.0156533061594202
+    },
+    {
+      "source": "keras",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.75,
+      "lift": 2.217248908296943
+    },
+    {
+      "source": "keras",
+      "target": "scikit learn",
+      "relationship": "association",
+      "confidence": 0.390625,
+      "lift": 3.148251488095238
+    },
+    {
+      "source": "keras",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.9374999999999999,
+      "lift": 2.5489457831325297
+    },
+    {
+      "source": "xgboost",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 1.0,
+      "lift": 1.2264492753623188
+    },
+    {
+      "source": "big data",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.9285714285714286,
+      "lift": 1.7223091976516636
+    },
+    {
+      "source": "big data",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.7857142857142857,
+      "lift": 0.9636387163561076
+    },
+    {
+      "source": "hive",
+      "target": "docker",
+      "relationship": "association",
+      "confidence": 0.36666666666666664,
+      "lift": 3.650490196078431
+    },
+    {
+      "source": "hive",
+      "target": "hadoop",
+      "relationship": "association",
+      "confidence": 0.43333333333333335,
+      "lift": 6.519259259259259
+    },
+    {
+      "source": "hive",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.8,
+      "lift": 3.094857142857143
+    },
+    {
+      "source": "hive",
+      "target": "kubernetes",
+      "relationship": "association",
+      "confidence": 0.4,
+      "lift": 3.9246376811594206
+    },
+    {
+      "source": "hive",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.4666666666666667,
+      "lift": 0.8655707762557079
+    },
+    {
+      "source": "hive",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9666666666666667,
+      "lift": 1.1855676328502416
+    },
+    {
+      "source": "hive",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.5,
+      "lift": 1.4781659388646289
+    },
+    {
+      "source": "hive",
+      "target": "scala",
+      "relationship": "association",
+      "confidence": 0.4666666666666667,
+      "lift": 3.99915611814346
+    },
+    {
+      "source": "hive",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.8333333333333334,
+      "lift": 5.128787878787879
+    },
+    {
+      "source": "hive",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.5333333333333334,
+      "lift": 1.450066934404284
+    },
+    {
+      "source": "kafka",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.5789473684210525,
+      "lift": 2.2396992481203006
+    },
+    {
+      "source": "kafka",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9473684210526316,
+      "lift": 1.1618993135011444
+    },
+    {
+      "source": "kafka",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.5789473684210525,
+      "lift": 3.5631578947368414
+    },
+    {
+      "source": "azure",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.75,
+      "lift": 3.6528776978417263
+    },
+    {
+      "source": "azure",
+      "target": "gcp",
+      "relationship": "association",
+      "confidence": 0.611111111111111,
+      "lift": 10.608262108262108
+    },
+    {
+      "source": "azure",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.41666666666666663,
+      "lift": 1.611904761904762
+    },
+    {
+      "source": "azure",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5,
+      "lift": 0.9273972602739726
+    },
+    {
+      "source": "azure",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9166666666666667,
+      "lift": 1.1242451690821258
+    },
+    {
+      "source": "azure",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.3888888888888889,
+      "lift": 2.0097540288379983
+    },
+    {
+      "source": "azure",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.3055555555555555,
+      "lift": 0.8307675145024541
+    },
+    {
+      "source": "aws",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.33812949640287765,
+      "lift": 1.3080781089414182
+    },
+    {
+      "source": "aws",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.4676258992805755,
+      "lift": 0.8673499556519169
+    },
+    {
+      "source": "aws",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9064748201438848,
+      "lift": 1.1117453862996558
+    },
+    {
+      "source": "aws",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.28776978417266186,
+      "lift": 0.8507429863969086
+    },
+    {
+      "source": "aws",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.2805755395683453,
+      "lift": 1.7268149117069977
+    },
+    {
+      "source": "aws",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.3093525179856115,
+      "lift": 1.5987149211928167
+    },
+    {
+      "source": "aws",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.34532374100719426,
+      "lift": 0.9388922596862269
+    },
+    {
+      "source": "ci/cd",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.5789473684210525,
+      "lift": 2.819765240439227
+    },
+    {
+      "source": "ci/cd",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.6842105263157895,
+      "lift": 0.8391495041952708
+    },
+    {
+      "source": "js",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9230769230769231,
+      "lift": 1.1321070234113713
+    },
+    {
+      "source": "scikit learn",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.3571428571428571,
+      "lift": 1.3816326530612244
+    },
+    {
+      "source": "scikit learn",
+      "target": "keras",
+      "relationship": "association",
+      "confidence": 0.2976190476190476,
+      "lift": 3.1482514880952377
+    },
+    {
+      "source": "scikit learn",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5357142857142857,
+      "lift": 0.9936399217221136
+    },
+    {
+      "source": "scikit learn",
+      "target": "numpy",
+      "relationship": "association",
+      "confidence": 0.27380952380952384,
+      "lift": 3.0388368462138957
+    },
+    {
+      "source": "scikit learn",
+      "target": "pandas",
+      "relationship": "association",
+      "confidence": 0.34523809523809523,
+      "lift": 3.7099395313681027
+    },
+    {
+      "source": "scikit learn",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8571428571428571,
+      "lift": 1.0512422360248448
+    },
+    {
+      "source": "scikit learn",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.5952380952380952,
+      "lift": 1.7597213557912248
+    },
+    {
+      "source": "scikit learn",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.27380952380952384,
+      "lift": 1.68517316017316
+    },
+    {
+      "source": "scikit learn",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.738095238095238,
+      "lift": 2.0067890610059282
+    },
+    {
+      "source": "c",
+      "target": "c++",
+      "relationship": "association",
+      "confidence": 0.8571428571428572,
+      "lift": 4.835714285714286
+    },
+    {
+      "source": "c",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.8571428571428572,
+      "lift": 3.3159183673469395
+    },
+    {
+      "source": "c",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.7857142857142857,
+      "lift": 1.4573385518590998
+    },
+    {
+      "source": "c",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9285714285714286,
+      "lift": 1.1388457556935818
+    },
+    {
+      "source": "c++",
+      "target": "deep learning",
+      "relationship": "association",
+      "confidence": 0.225,
+      "lift": 1.2284274193548388
+    },
+    {
+      "source": "c++",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.5416666666666667,
+      "lift": 2.095476190476191
+    },
+    {
+      "source": "c++",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.55,
+      "lift": 1.02013698630137
+    },
+    {
+      "source": "c++",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8833333333333333,
+      "lift": 1.0833635265700483
+    },
+    {
+      "source": "c++",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.4,
+      "lift": 1.1825327510917032
+    },
+    {
+      "source": "c++",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.375,
+      "lift": 1.019578313253012
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "deep learning",
+      "relationship": "association",
+      "confidence": 0.7142857142857143,
+      "lift": 3.8997695852534564
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.6428571428571429,
+      "lift": 1.1923679060665364
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.6785714285714286,
+      "lift": 0.8322334368530021
+    },
+    {
+      "source": "gcp",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.7692307692307693,
+      "lift": 3.746541228555617
+    },
+    {
+      "source": "gcp",
+      "target": "azure",
+      "relationship": "association",
+      "confidence": 0.5641025641025641,
+      "lift": 10.608262108262108
+    },
+    {
+      "source": "gcp",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.4102564102564103,
+      "lift": 1.5871062271062273
+    },
+    {
+      "source": "gcp",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5641025641025641,
+      "lift": 1.046294344924482
+    },
+    {
+      "source": "gcp",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9230769230769231,
+      "lift": 1.1321070234113713
+    },
+    {
+      "source": "gcp",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.358974358974359,
+      "lift": 1.0612473407233232
+    },
+    {
+      "source": "gcp",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.33333333333333337,
+      "lift": 1.7226463104325702
+    },
+    {
+      "source": "gcp",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.4102564102564103,
+      "lift": 1.1154361033879105
+    },
+    {
+      "source": "c#",
+      "target": "c++",
+      "relationship": "association",
+      "confidence": 0.7647058823529411,
+      "lift": 4.31421568627451
+    },
+    {
+      "source": "c#",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.8823529411764706,
+      "lift": 3.413445378151261
+    },
+    {
+      "source": "c#",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.6470588235294117,
+      "lift": 0.7935848252344415
+    },
+    {
+      "source": "terraform",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 1.0,
+      "lift": 1.2264492753623188
+    },
+    {
+      "source": "tableau",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 1.0,
+      "lift": 1.2264492753623188
+    },
+    {
+      "source": "docker",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.4264705882352941,
+      "lift": 2.077126534066864
+    },
+    {
+      "source": "docker",
+      "target": "git",
+      "relationship": "association",
+      "confidence": 0.23529411764705882,
+      "lift": 3.5398692810457515
+    },
+    {
+      "source": "docker",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.35294117647058826,
+      "lift": 1.3653781512605043
+    },
+    {
+      "source": "docker",
+      "target": "kubernetes",
+      "relationship": "association",
+      "confidence": 0.6029411764705882,
+      "lift": 5.9158141517476555
+    },
+    {
+      "source": "docker",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.3382352941176471,
+      "lift": 0.6273569701853345
+    },
+    {
+      "source": "docker",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9411764705882353,
+      "lift": 1.154305200341006
+    },
+    {
+      "source": "docker",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.47058823529411764,
+      "lift": 1.3912150012843565
+    },
+    {
+      "source": "docker",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.2941176470588235,
+      "lift": 1.8101604278074863
+    },
+    {
+      "source": "docker",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.23529411764705882,
+      "lift": 1.2159856308935788
+    },
+    {
+      "source": "docker",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.5147058823529411,
+      "lift": 1.3994212142688398
+    },
+    {
+      "source": "caffe",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9166666666666665,
+      "lift": 1.1242451690821256
+    },
+    {
+      "source": "caffe",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 1.0,
+      "lift": 2.7188755020080317
+    },
+    {
+      "source": "mxnet",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9285714285714286,
+      "lift": 1.1388457556935818
+    },
+    {
+      "source": "mxnet",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.9285714285714286,
+      "lift": 2.7451653150343107
+    },
+    {
+      "source": "mxnet",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 1.0,
+      "lift": 2.7188755020080317
+    },
+    {
+      "source": "pandas",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.2857142857142857,
+      "lift": 1.3915724563206575
+    },
+    {
+      "source": "pandas",
+      "target": "keras",
+      "relationship": "association",
+      "confidence": 0.253968253968254,
+      "lift": 2.6865079365079367
+    },
+    {
+      "source": "pandas",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.4444444444444444,
+      "lift": 0.8243531202435312
+    },
+    {
+      "source": "pandas",
+      "target": "numpy",
+      "relationship": "association",
+      "confidence": 0.7936507936507937,
+      "lift": 8.808222742648972
+    },
+    {
+      "source": "pandas",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9047619047619048,
+      "lift": 1.1096445824706695
+    },
+    {
+      "source": "pandas",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.49206349206349204,
+      "lift": 1.454702987454079
+    },
+    {
+      "source": "pandas",
+      "target": "scikit learn",
+      "relationship": "association",
+      "confidence": 0.4603174603174603,
+      "lift": 3.7099395313681023
+    },
+    {
+      "source": "pandas",
+      "target": "scipy",
+      "relationship": "association",
+      "confidence": 0.33333333333333337,
+      "lift": 9.402777777777779
+    },
+    {
+      "source": "pandas",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.23809523809523808,
+      "lift": 1.4653679653679652
+    },
+    {
+      "source": "pandas",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.39682539682539686,
+      "lift": 2.0507694171816313
+    },
+    {
+      "source": "pandas",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.5555555555555556,
+      "lift": 1.5104863900044623
+    },
+    {
+      "source": "hadoop",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.2444444444444444,
+      "lift": 1.1905675459632292
+    },
+    {
+      "source": "hadoop",
+      "target": "c++",
+      "relationship": "association",
+      "confidence": 0.2888888888888889,
+      "lift": 1.629814814814815
+    },
+    {
+      "source": "hadoop",
+      "target": "docker",
+      "relationship": "association",
+      "confidence": 0.26666666666666666,
+      "lift": 2.6549019607843136
+    },
+    {
+      "source": "hadoop",
+      "target": "hive",
+      "relationship": "association",
+      "confidence": 0.2888888888888889,
+      "lift": 6.51925925925926
+    },
+    {
+      "source": "hadoop",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.6666666666666666,
+      "lift": 2.579047619047619
+    },
+    {
+      "source": "hadoop",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.5555555555555556,
+      "lift": 1.0304414003044142
+    },
+    {
+      "source": "hadoop",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9111111111111112,
+      "lift": 1.1174315619967796
+    },
+    {
+      "source": "hadoop",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.2444444444444444,
+      "lift": 0.7226589034449296
+    },
+    {
+      "source": "hadoop",
+      "target": "scala",
+      "relationship": "association",
+      "confidence": 0.3111111111111111,
+      "lift": 2.6661040787623067
+    },
+    {
+      "source": "hadoop",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.8222222222222222,
+      "lift": 5.06040404040404
+    },
+    {
+      "source": "hadoop",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.4444444444444444,
+      "lift": 2.2968617472434265
+    },
+    {
+      "source": "hadoop",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.35555555555555557,
+      "lift": 0.9667112896028558
+    },
+    {
+      "source": "cuda",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8125,
+      "lift": 0.9964900362318841
+    },
+    {
+      "source": "cuda",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.8749999999999999,
+      "lift": 2.5867903930131
+    },
+    {
+      "source": "cuda",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.8125,
+      "lift": 2.209086345381526
+    },
+    {
+      "source": "data engineering",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.6000000000000001,
+      "lift": 1.1128767123287673
+    },
+    {
+      "source": "data engineering",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9,
+      "lift": 1.103804347826087
+    },
+    {
+      "source": "linux",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.3043478260869565,
+      "lift": 1.4823271817328743
+    },
+    {
+      "source": "linux",
+      "target": "docker",
+      "relationship": "association",
+      "confidence": 0.3043478260869565,
+      "lift": 3.03005115089514
+    },
+    {
+      "source": "linux",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.4782608695652173,
+      "lift": 0.8870756402620606
+    },
+    {
+      "source": "linux",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9347826086956521,
+      "lift": 1.1464634530560807
+    },
+    {
+      "source": "linux",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.34782608695652173,
+      "lift": 1.028289348775394
+    },
+    {
+      "source": "linux",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.4782608695652173,
+      "lift": 1.3003317618299282
+    },
+    {
+      "source": "git",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.4,
+      "lift": 1.9482014388489208
+    },
+    {
+      "source": "git",
+      "target": "docker",
+      "relationship": "association",
+      "confidence": 0.35555555555555557,
+      "lift": 3.5398692810457515
+    },
+    {
+      "source": "git",
+      "target": "kubernetes",
+      "relationship": "association",
+      "confidence": 0.2444444444444444,
+      "lift": 2.398389694041868
+    },
+    {
+      "source": "git",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.4,
+      "lift": 0.7419178082191782
+    },
+    {
+      "source": "git",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8888888888888888,
+      "lift": 1.0901771336553945
+    },
+    {
+      "source": "git",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.3333333333333333,
+      "lift": 0.9854439592430858
+    },
+    {
+      "source": "git",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.4444444444444444,
+      "lift": 2.2968617472434265
+    },
+    {
+      "source": "git",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.3111111111111111,
+      "lift": 0.8458723784024988
+    },
+    {
+      "source": "devops",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.7777777777777778,
+      "lift": 0.9539049919484702
+    },
+    {
+      "source": "mlops",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8571428571428572,
+      "lift": 1.0512422360248448
+    },
+    {
+      "source": "numpy",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.26229508196721313,
+      "lift": 1.2775091402288006
+    },
+    {
+      "source": "numpy",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.4426229508196721,
+      "lift": 0.8209746238490906
+    },
+    {
+      "source": "numpy",
+      "target": "pandas",
+      "relationship": "association",
+      "confidence": 0.819672131147541,
+      "lift": 8.808222742648972
+    },
+    {
+      "source": "numpy",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8852459016393442,
+      "lift": 1.0857091945830364
+    },
+    {
+      "source": "numpy",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.6065573770491803,
+      "lift": 1.7931849094423367
+    },
+    {
+      "source": "numpy",
+      "target": "scikit learn",
+      "relationship": "association",
+      "confidence": 0.3770491803278689,
+      "lift": 3.0388368462138957
+    },
+    {
+      "source": "numpy",
+      "target": "scipy",
+      "relationship": "association",
+      "confidence": 0.39344262295081966,
+      "lift": 11.098360655737704
+    },
+    {
+      "source": "numpy",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.22950819672131148,
+      "lift": 1.4125186289120715
+    },
+    {
+      "source": "numpy",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.360655737704918,
+      "lift": 1.863846827681141
+    },
+    {
+      "source": "numpy",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.6393442622950819,
+      "lift": 1.7382974521034957
+    },
+    {
+      "source": "snowflake",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9285714285714286,
+      "lift": 1.1388457556935818
+    },
+    {
+      "source": "snowflake",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.9285714285714286,
+      "lift": 4.798800436205017
+    },
+    {
+      "source": "scipy",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.45833333333333326,
+      "lift": 0.8501141552511414
+    },
+    {
+      "source": "scipy",
+      "target": "numpy",
+      "relationship": "association",
+      "confidence": 1.0,
+      "lift": 11.098360655737705
+    },
+    {
+      "source": "scipy",
+      "target": "pandas",
+      "relationship": "association",
+      "confidence": 0.875,
+      "lift": 9.402777777777779
+    },
+    {
+      "source": "scipy",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8333333333333333,
+      "lift": 1.0220410628019323
+    },
+    {
+      "source": "scipy",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.7083333333333333,
+      "lift": 2.094068413391557
+    },
+    {
+      "source": "scipy",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.45833333333333326,
+      "lift": 2.3686386768447836
+    },
+    {
+      "source": "scipy",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.6666666666666666,
+      "lift": 1.8125836680053546
+    },
+    {
+      "source": "airflow",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9230769230769231,
+      "lift": 1.1321070234113713
+    },
+    {
+      "source": "airflow",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.5,
+      "lift": 1.4781659388646289
+    },
+    {
+      "source": "airflow",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.5384615384615384,
+      "lift": 3.3139860139860136
+    },
+    {
+      "source": "airflow",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.46153846153846156,
+      "lift": 2.3852025836758664
+    },
+    {
+      "source": "airflow",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.5384615384615384,
+      "lift": 1.4640098856966326
+    },
+    {
+      "source": "kubernetes",
+      "target": "aws",
+      "relationship": "association",
+      "confidence": 0.391304347826087,
+      "lift": 1.905849233656553
+    },
+    {
+      "source": "kubernetes",
+      "target": "docker",
+      "relationship": "association",
+      "confidence": 0.5942028985507247,
+      "lift": 5.915814151747656
+    },
+    {
+      "source": "kubernetes",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.4492753623188406,
+      "lift": 1.7380538302277433
+    },
+    {
+      "source": "kubernetes",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.43478260869565216,
+      "lift": 0.806432400238237
+    },
+    {
+      "source": "kubernetes",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9275362318840581,
+      "lift": 1.137576139466499
+    },
+    {
+      "source": "kubernetes",
+      "target": "pytorch",
+      "relationship": "association",
+      "confidence": 0.46376811594202905,
+      "lift": 1.3710524650338587
+    },
+    {
+      "source": "kubernetes",
+      "target": "spark",
+      "relationship": "association",
+      "confidence": 0.33333333333333337,
+      "lift": 2.0515151515151517
+    },
+    {
+      "source": "kubernetes",
+      "target": "sql",
+      "relationship": "association",
+      "confidence": 0.2463768115942029,
+      "lift": 1.2732603164066822
+    },
+    {
+      "source": "kubernetes",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.5507246376811594,
+      "lift": 1.4973517257435538
+    },
+    {
+      "source": "neural network",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.611111111111111,
+      "lift": 0.7494967793880837
+    },
+    {
+      "source": "machine learning algorithms",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9545454545454547,
+      "lift": 1.1707015810276682
+    },
+    {
+      "source": "nosql",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 1.0,
+      "lift": 1.2264492753623188
+    },
+    {
+      "source": "data visualization",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.7333333333333333,
+      "lift": 1.3601826484018265
+    },
+    {
+      "source": "data visualization",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9333333333333333,
+      "lift": 1.1446859903381643
+    },
+    {
+      "source": "ai",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.9333333333333333,
+      "lift": 1.7311415525114158
+    },
+    {
+      "source": "opencv",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.8125,
+      "lift": 0.9964900362318841
+    },
+    {
+      "source": "opencv",
+      "target": "tensorflow",
+      "relationship": "association",
+      "confidence": 0.8125,
+      "lift": 2.209086345381526
+    },
+    {
+      "source": "go",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.7857142857142857,
+      "lift": 3.039591836734694
+    },
+    {
+      "source": "go",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9285714285714286,
+      "lift": 1.1388457556935818
+    },
+    {
+      "source": "matlab",
+      "target": "java",
+      "relationship": "association",
+      "confidence": 0.6470588235294117,
+      "lift": 2.5031932773109244
+    },
+    {
+      "source": "matlab",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.7647058823529411,
+      "lift": 1.4183722804190169
+    },
+    {
+      "source": "matlab",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9411764705882353,
+      "lift": 1.154305200341006
+    },
+    {
+      "source": "matlab",
+      "target": "r",
+      "relationship": "association",
+      "confidence": 0.7058823529411765,
+      "lift": 6.457869634340223
+    },
+    {
+      "source": "data mining",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 1.0,
+      "lift": 1.8547945205479452
+    },
+    {
+      "source": "data structure",
+      "target": "machine learning",
+      "relationship": "association",
+      "confidence": 0.75,
+      "lift": 1.391095890410959
+    },
+    {
+      "source": "data structure",
+      "target": "python",
+      "relationship": "association",
+      "confidence": 0.9374999999999999,
+      "lift": 1.1497961956521738
+    },
+    {
+      "source": "mathematics",
+      "target": "linear algebra",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "mathematics",
+      "target": "statistics",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "mathematics",
+      "target": "calculus",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "mathematics",
+      "target": "probability",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "mathematics",
+      "target": "mathematics of machine learning",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "linear algebra",
+      "target": "machine learning",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "statistics",
+      "target": "machine learning",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "statistics",
+      "target": "statistical modeling",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "statistics",
+      "target": "statistical analysis",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "probability",
+      "target": "machine learning",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "calculus",
+      "target": "machine learning",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "python",
+      "target": "numpy",
+      "relationship": "prerequisite",
+      "weight": 0.95
+    },
+    {
+      "source": "python",
+      "target": "pandas",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "python",
+      "target": "matplotlib",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "python",
+      "target": "scikit learn",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "python",
+      "target": "jupyter notebook",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "python",
+      "target": "scipy",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "python",
+      "target": "tensorflow",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "python",
+      "target": "pytorch",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "python",
+      "target": "keras",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "numpy",
+      "target": "pandas",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "numpy",
+      "target": "scipy",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "numpy",
+      "target": "tensorflow",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "numpy",
+      "target": "pytorch",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "pandas",
+      "target": "data analysis",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "matplotlib",
+      "target": "data visualization",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "algorithm",
+      "target": "machine learning algorithms",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "data structures and algorithms",
+      "target": "algorithm",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "machine learning",
+      "target": "deep learning",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "machine learning",
+      "target": "machine learning algorithms",
+      "relationship": "prerequisite",
+      "weight": 0.95
+    },
+    {
+      "source": "machine learning",
+      "target": "machine learning techniques",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "machine learning",
+      "target": "supervised learning",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "machine learning",
+      "target": "unsupervised learning",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "machine learning",
+      "target": "reinforcement learning",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "machine learning",
+      "target": "neural network",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "machine learning",
+      "target": "nlp",
+      "relationship": "prerequisite",
+      "weight": 0.85
+    },
+    {
+      "source": "machine learning",
+      "target": "computer vision",
+      "relationship": "prerequisite",
+      "weight": 0.85
+    },
+    {
+      "source": "machine learning",
+      "target": "feature engineering",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "machine learning algorithms",
+      "target": "regression",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "machine learning algorithms",
+      "target": "classification",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "machine learning algorithms",
+      "target": "clustering",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "machine learning algorithms",
+      "target": "decision trees",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "machine learning algorithms",
+      "target": "random forest",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "machine learning algorithms",
+      "target": "gradient boosting",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "machine learning algorithms",
+      "target": "xgboost",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "machine learning algorithms",
+      "target": "svm",
+      "relationship": "prerequisite",
+      "weight": 0.85
+    },
+    {
+      "source": "scikit learn",
+      "target": "machine learning",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "scikit learn",
+      "target": "sklearn",
+      "relationship": "prerequisite",
+      "weight": 0.97
+    },
+    {
+      "source": "deep learning",
+      "target": "neural network",
+      "relationship": "prerequisite",
+      "weight": 0.95
+    },
+    {
+      "source": "deep learning",
+      "target": "deep learning frameworks",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "deep learning",
+      "target": "tensorflow",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "deep learning",
+      "target": "pytorch",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "deep learning",
+      "target": "keras",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "deep learning",
+      "target": "cnn",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "deep learning",
+      "target": "rnn",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "deep learning",
+      "target": "lstm",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "deep learning",
+      "target": "transformer",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "neural network",
+      "target": "cnn",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "neural network",
+      "target": "rnn",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "neural network",
+      "target": "lstm",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "tensorflow",
+      "target": "keras",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "tensorflow",
+      "target": "tensorflow 2.0",
+      "relationship": "prerequisite",
+      "weight": 0.95
+    },
+    {
+      "source": "tensorflow",
+      "target": "tensorflow.js",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "pytorch",
+      "target": "pytorch lightning",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "nlp",
+      "target": "natural language processing (nlp)",
+      "relationship": "prerequisite",
+      "weight": 0.96
+    },
+    {
+      "source": "nlp",
+      "target": "nltk",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "nlp",
+      "target": "spacy",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "nlp",
+      "target": "bert",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "nlp",
+      "target": "word2vec",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "nlp",
+      "target": "transformers",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "computer vision",
+      "target": "opencv",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "computer vision",
+      "target": "image processing",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "computer vision",
+      "target": "cnn",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "sql",
+      "target": "database",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "nosql",
+      "target": "mongodb",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "big data",
+      "target": "hadoop",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "big data",
+      "target": "spark",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "big data",
+      "target": "big data technologies",
+      "relationship": "prerequisite",
+      "weight": 0.95
+    },
+    {
+      "source": "spark",
+      "target": "pyspark",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "spark",
+      "target": "spark mllib",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "hadoop",
+      "target": "hive",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "aws",
+      "target": "aws sagemaker",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "aws",
+      "target": "aws ec2",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "aws",
+      "target": "aws s3",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "azure",
+      "target": "azure machine learning",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "gcp",
+      "target": "google cloud platform (gcp)",
+      "relationship": "prerequisite",
+      "weight": 0.96
+    },
+    {
+      "source": "gcp",
+      "target": "google ai platform",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "docker",
+      "target": "containerization",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "docker",
+      "target": "kubernetes",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "kubernetes",
+      "target": "kubeflow",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "mlops",
+      "target": "ml workflow",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "mlops",
+      "target": "mlflow",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "mlops",
+      "target": "model deployment",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "mlops",
+      "target": "model monitoring",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "mlops",
+      "target": "ml pipeline",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "ml pipeline",
+      "target": "airflow",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "hyperparameter optimization",
+      "target": "grid search",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "hyperparameter optimization",
+      "target": "random search",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "hyperparameter optimization",
+      "target": "bayesian optimization",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "git",
+      "target": "github",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "linux",
+      "target": "unix",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "linux",
+      "target": "bash",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "linux",
+      "target": "shell scripting",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "c/c++",
+      "target": "c++",
+      "relationship": "prerequisite",
+      "weight": 0.96
+    },
+    {
+      "source": "c/c++",
+      "target": "c",
+      "relationship": "prerequisite",
+      "weight": 0.95
+    },
+    {
+      "source": "c++",
+      "target": "cuda",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "gpu",
+      "target": "cuda",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "optimization",
+      "target": "model optimization",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "optimization",
+      "target": "performance optimization",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "q-learning",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "deep q-network",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "reinforcement learning",
+      "target": "policy gradient",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "statistics",
+      "target": "statistical techniques",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "time series",
+      "target": "time series analysis",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "time series",
+      "target": "time series forecasting",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "time series",
+      "target": "arima",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "recommendation systems",
+      "target": "recommender systems",
+      "relationship": "prerequisite",
+      "weight": 0.96
+    },
+    {
+      "source": "recommendation systems",
+      "target": "collaborative filtering",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "recommendation systems",
+      "target": "content-based filtering",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "data structure",
+      "target": "algorithm",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "distributed system",
+      "target": "distributed systems",
+      "relationship": "prerequisite",
+      "weight": 0.96
+    },
+    {
+      "source": "distributed system",
+      "target": "distributed computing",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "distributed system",
+      "target": "parallel computing",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "distributed system",
+      "target": "distributed training",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "data engineering",
+      "target": "data pipeline",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "data engineering",
+      "target": "etl",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "ci/cd",
+      "target": "mlops",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "ci/cd",
+      "target": "jenkin",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "ai",
+      "target": "artificial intelligence",
+      "relationship": "prerequisite",
+      "weight": 0.97
+    },
+    {
+      "source": "ai",
+      "target": "machine learning",
+      "relationship": "prerequisite",
+      "weight": 0.95
+    },
+    {
+      "source": "ml frameworks",
+      "target": "tensorflow",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "ml frameworks",
+      "target": "pytorch",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "ml frameworks",
+      "target": "keras",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "ml frameworks",
+      "target": "scikit learn",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "data science",
+      "target": "machine learning",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "data science",
+      "target": "data analysis",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "data science",
+      "target": "statistics",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "data modeling",
+      "target": "machine learning models",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "agile",
+      "target": "scrum",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "software engineering",
+      "target": "software development",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "caffe",
+      "target": "deep learning frameworks",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "mxnet",
+      "target": "deep learning frameworks",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "rest api",
+      "target": "api deployment",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "rest api",
+      "target": "model serving",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "flask",
+      "target": "web service",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "flask",
+      "target": "api development",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "model deployment",
+      "target": "model serving",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "data visualization",
+      "target": "data exploration",
+      "relationship": "prerequisite",
+      "weight": 0.92
+    },
+    {
+      "source": "database",
+      "target": "data storage",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "tensorflow",
+      "target": "tensorflow serving",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "cloud computing",
+      "target": "aws",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "cloud computing",
+      "target": "azure",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "cloud computing",
+      "target": "gcp",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "data engineering",
+      "target": "spark",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "devops",
+      "target": "kubernetes",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "js",
+      "target": "react",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "data science",
+      "target": "data visualization",
+      "relationship": "prerequisite",
+      "weight": 0.85
+    },
+    {
+      "source": "html",
+      "target": "js",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "data engineering",
+      "target": "hadoop",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "r",
+      "target": "statistical modeling",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "data analytics",
+      "target": "data science",
+      "relationship": "prerequisite",
+      "weight": 0.82
+    },
+    {
+      "source": "agile",
+      "target": "devops",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "data analytics",
+      "target": "machine learning",
+      "relationship": "prerequisite",
+      "weight": 0.78
+    },
+    {
+      "source": "c++",
+      "target": "c/c++",
+      "relationship": "prerequisite",
+      "weight": 0.95
+    },
+    {
+      "source": "software development",
+      "target": "software engineering",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "data engineering",
+      "target": "aws",
+      "relationship": "prerequisite",
+      "weight": 0.8
+    },
+    {
+      "source": "python",
+      "target": "flask",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "devops",
+      "target": "ci/cd",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "python",
+      "target": "pyspark",
+      "relationship": "prerequisite",
+      "weight": 0.79
+    },
+    {
+      "source": "data visualization",
+      "target": "tableau",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "data engineering",
+      "target": "azure",
+      "relationship": "prerequisite",
+      "weight": 0.78
+    },
+    {
+      "source": "database",
+      "target": "sql",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "data mining",
+      "target": "machine learning",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "database",
+      "target": "relational database",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "data mining",
+      "target": "big data",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "data analytics",
+      "target": "deep learning",
+      "relationship": "prerequisite",
+      "weight": 0.75
+    },
+    {
+      "source": "r",
+      "target": "statistics",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "hadoop",
+      "target": "spark",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "spark",
+      "target": "databricks",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "machine learning",
+      "target": "pytorch",
+      "relationship": "prerequisite",
+      "weight": 0.84
+    },
+    {
+      "source": "relational database",
+      "target": "sql",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "software development",
+      "target": "agile",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "git",
+      "target": "ci/cd",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "sql",
+      "target": "mysql",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "data engineering",
+      "target": "gcp",
+      "relationship": "prerequisite",
+      "weight": 0.78
+    },
+    {
+      "source": "database",
+      "target": "mysql",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "sql",
+      "target": "data engineering",
+      "relationship": "prerequisite",
+      "weight": 0.84
+    },
+    {
+      "source": "machine learning",
+      "target": "tensorflow",
+      "relationship": "prerequisite",
+      "weight": 0.84
+    },
+    {
+      "source": "software development",
+      "target": "git",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "terraform",
+      "target": "azure",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "c",
+      "target": "c++",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "data analytics",
+      "target": "big data",
+      "relationship": "prerequisite",
+      "weight": 0.85
+    },
+    {
+      "source": "r",
+      "target": "statistical analysis",
+      "relationship": "prerequisite",
+      "weight": 0.9
+    },
+    {
+      "source": "data science",
+      "target": "r",
+      "relationship": "prerequisite",
+      "weight": 0.83
+    },
+    {
+      "source": "devops",
+      "target": "terraform",
+      "relationship": "prerequisite",
+      "weight": 0.85
+    },
+    {
+      "source": "data pipeline",
+      "target": "airflow",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "mysql",
+      "target": "database",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "database",
+      "target": "nosql",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "data engineering",
+      "target": "big data",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "data science",
+      "target": "python",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "scikit learn",
+      "target": "clustering",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "devops",
+      "target": "docker",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "database",
+      "target": "data modeling",
+      "relationship": "prerequisite",
+      "weight": 0.93
+    },
+    {
+      "source": "terraform",
+      "target": "gcp",
+      "relationship": "prerequisite",
+      "weight": 0.86
+    },
+    {
+      "source": "statistics",
+      "target": "regression",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "scikit learn",
+      "target": "classification",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "terraform",
+      "target": "aws",
+      "relationship": "prerequisite",
+      "weight": 0.87
+    },
+    {
+      "source": "kubernetes",
+      "target": "containerization",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "distributed system",
+      "target": "kafka",
+      "relationship": "prerequisite",
+      "weight": 0.85
+    },
+    {
+      "source": "r",
+      "target": "data visualization",
+      "relationship": "prerequisite",
+      "weight": 0.85
+    },
+    {
+      "source": "scala",
+      "target": "spark",
+      "relationship": "prerequisite",
+      "weight": 0.88
+    },
+    {
+      "source": "data structures and algorithms",
+      "target": "data structure",
+      "relationship": "prerequisite",
+      "weight": 0.94
+    },
+    {
+      "source": "containerization",
+      "target": "docker",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    },
+    {
+      "source": "etl",
+      "target": "data pipeline",
+      "relationship": "prerequisite",
+      "weight": 0.91
+    },
+    {
+      "source": "js",
+      "target": "node",
+      "relationship": "prerequisite",
+      "weight": 0.89
+    }
+  ]
+}
