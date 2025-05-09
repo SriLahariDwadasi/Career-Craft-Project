@@ -2,6 +2,11 @@
 
 Career Craft is an AI-powered platform that analyzes resumes to extract technical skills, assess confidence levels, and recommend personalized upskilling paths. It uses local LLMs, semantic matching, and career domain mapping to support early-career professionals targeting data science, engineering, and product roles.
 
+## AI System Workflow
+
+![image](https://github.com/user-attachments/assets/a02bff51-5925-472e-ae82-dfb47be045f0)
+
+
 ## Features
 
 - Resume parsing from PDF and DOCX formats
@@ -11,18 +16,14 @@ Career Craft is an AI-powered platform that analyzes resumes to extract technica
 - Frontend dashboard for visualizing career fit and focus areas
 - Modular, production-ready backend using FastAPI
 
-## Detailed Overview
-
-![image](https://github.com/user-attachments/assets/bf609279-dedc-4db8-8b6c-9f24a49e246c)
-
 
 ## Setup Instructions
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SriLahariDwadasi/Career-Craft-Clean.git
-cd Career-Craft-Clean
+git clone https://github.com/SriLahariDwadasi/Career-Craft-Project.git
+cd Career-Craft-Project
 ```
 
 ### 2. Backend Setup
